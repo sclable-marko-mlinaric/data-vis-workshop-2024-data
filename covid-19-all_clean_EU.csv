@@ -409,7 +409,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 174384,Romania,,46.0,25.0,4.0,1.0,0.0,2020-03-04
 174387,Azerbaijan,,40.1431,47.5769,3.0,0.0,0.0,2020-03-04
 174388,Georgia,,42.3154,43.3569,3.0,0.0,0.0,2020-03-04
-174392,Saint Barthelemy,,17.9,-62.8333,3.0,0.0,0.0,2020-03-04
 174396,Estonia,,58.5953,25.0136,2.0,0.0,0.0,2020-03-04
 174397,Hungary,,47.1625,19.5033,2.0,0.0,0.0,2020-03-04
 174410,Andorra,,42.5063,1.5218,1.0,0.0,0.0,2020-03-04
@@ -447,7 +446,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 174541,Romania,,46.0,25.0,6.0,1.0,0.0,2020-03-05
 174549,Georgia,,42.3154,43.3569,4.0,0.0,0.0,2020-03-05
 174556,Estonia,,58.5953,25.0136,3.0,0.0,0.0,2020-03-05
-174559,Saint Barthelemy,,17.9,-62.8333,3.0,0.0,0.0,2020-03-05
 174562,Bosnia and Herzegovina,,43.9159,17.6791,2.0,0.0,0.0,2020-03-05
 174564,Hungary,,47.1625,19.5033,2.0,0.0,0.0,2020-03-05
 174567,Slovenia,,46.1512,14.9955,2.0,0.0,0.0,2020-03-05
@@ -489,7 +487,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 174726,Poland,,51.9194,19.1451,5.0,0.0,0.0,2020-03-06
 174732,Georgia,,42.3154,43.3569,4.0,0.0,0.0,2020-03-06
 174737,North Macedonia,,41.6086,21.7453,3.0,0.0,0.0,2020-03-06
-174738,Saint Barthelemy,,17.9,-62.8333,3.0,0.0,0.0,2020-03-06
 174746,Bosnia and Herzegovina,,43.9159,17.6791,2.0,0.0,0.0,2020-03-06
 174749,Hungary,,47.1625,19.5033,2.0,0.0,0.0,2020-03-06
 174750,Luxembourg,,49.8144,6.1317,2.0,0.0,0.0,2020-03-06
@@ -535,7 +532,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 174944,Bosnia and Herzegovina,,43.9159,17.6791,3.0,0.0,0.0,2020-03-07
 174946,Malta,,35.9375,14.3754,3.0,0.0,0.0,2020-03-07
 174947,North Macedonia,,41.6086,21.7453,3.0,0.0,0.0,2020-03-07
-174948,Saint Barthelemy,,17.9,-62.8333,3.0,0.0,0.0,2020-03-07
 174961,Luxembourg,,49.8144,6.1317,2.0,0.0,0.0,2020-03-07
 174962,Martinique,,14.6415,-61.0242,2.0,0.0,0.0,2020-03-07
 174981,Andorra,,42.5063,1.5218,1.0,0.0,0.0,2020-03-07
@@ -583,7 +579,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 175190,Luxembourg,,49.8144,6.1317,3.0,0.0,0.0,2020-03-08
 175191,Malta,,35.9375,14.3754,3.0,0.0,0.0,2020-03-08
 175192,North Macedonia,,41.6086,21.7453,3.0,0.0,0.0,2020-03-08
-175193,Saint Barthelemy,,17.9,-62.8333,3.0,0.0,0.0,2020-03-08
 175194,Slovakia,,48.669,19.699,3.0,0.0,0.0,2020-03-08
 175205,Faroe Islands,,61.8926,-6.9118,2.0,0.0,0.0,2020-03-08
 175206,Latvia,,56.8796,24.6032,2.0,0.0,0.0,2020-03-08
@@ -643,7 +638,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 175501,Lithuania,,55.1694,23.8813,1.0,0.0,0.0,2020-03-09
 175503,Moldova,,47.4116,28.3699,1.0,0.0,0.0,2020-03-09
 175504,Monaco,,43.7333,7.4167,1.0,0.0,0.0,2020-03-09
-175507,Saint Barthelemy,,17.9,-62.8333,1.0,0.0,0.0,2020-03-09
 175508,Serbia,,44.0165,21.0059,1.0,0.0,0.0,2020-03-09
 175566,Ukraine,,48.3794,31.1656,1.0,0.0,0.0,2020-03-09
 175567,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-09
@@ -695,7 +689,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 175750,Liechtenstein,,47.14,9.55,1.0,0.0,0.0,2020-03-10
 175751,Lithuania,,55.1694,23.8813,1.0,0.0,0.0,2020-03-10
 175753,Monaco,,43.7333,7.4167,1.0,0.0,0.0,2020-03-10
-175758,Saint Barthelemy,,17.9,-62.8333,1.0,0.0,0.0,2020-03-10
 175765,Ukraine,,48.3794,31.1656,1.0,0.0,0.0,2020-03-10
 175781,Italy,,43.0,12.0,12462.0,1045.0,827.0,2020-03-11
 175784,France,France,46.2276,2.2137,2281.0,12.0,48.0,2020-03-11
@@ -741,7 +734,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 175957,United Kingdom,Channel Islands,49.3723,-2.3644,2.0,0.0,0.0,2020-03-11
 175958,Andorra,,42.5063,1.5218,1.0,0.0,0.0,2020-03-11
 175959,Armenia,,40.0691,45.0382,1.0,0.0,0.0,2020-03-11
-175966,France,Saint Barthelemy,17.9,-62.8333,1.0,0.0,0.0,2020-03-11
 175967,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-11
 175970,Liechtenstein,,47.14,9.55,1.0,0.0,0.0,2020-03-11
 175971,Monaco,,43.7333,7.4167,1.0,0.0,0.0,2020-03-11
@@ -794,7 +786,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 176172,Monaco,,43.7333,7.4167,2.0,0.0,0.0,2020-03-12
 176179,United Kingdom,Channel Islands,49.3723,-2.3644,2.0,0.0,0.0,2020-03-12
 176180,Andorra,,42.5063,1.5218,1.0,1.0,0.0,2020-03-12
-176187,France,Saint Barthelemy,17.9,-62.8333,1.0,0.0,0.0,2020-03-12
 176189,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-12
 176191,Liechtenstein,,47.14,9.55,1.0,0.0,0.0,2020-03-12
 176194,Reunion,,-21.1151,55.5364,1.0,0.0,0.0,2020-03-12
@@ -835,7 +826,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 176333,Andorra,,42.5063,1.5218,1.0,0.0,0.0,2020-03-13
 176336,Belgium,,50.5039,4.4699,559.0,1.0,3.0,2020-03-13
 176340,Aruba,,12.5211,-69.9683,2.0,0.0,0.0,2020-03-13
-176346,France,Saint Barthelemy,17.9,-62.8333,1.0,0.0,0.0,2020-03-13
 176347,France,St Martin,18.0708,-63.0501,2.0,0.0,0.0,2020-03-13
 176348,Poland,,51.9194,19.1451,68.0,0.0,2.0,2020-03-13
 176349,Denmark,Faroe Islands,61.8926,-6.9118,3.0,0.0,0.0,2020-03-13
@@ -912,7 +902,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 176656,Andorra,,42.5063,1.5218,1.0,1.0,0.0,2020-03-14
 176662,Cayman Islands,,19.3133,-81.2546,1.0,0.0,0.0,2020-03-14
 176665,Curacao,,12.1696,-68.99,1.0,0.0,0.0,2020-03-14
-176668,France,Saint Barthelemy,17.9,-62.8333,1.0,0.0,0.0,2020-03-14
 176670,Guadeloupe,,16.265,-61.551,1.0,0.0,0.0,2020-03-14
 176672,Guernsey,,49.45,-2.58,1.0,0.0,0.0,2020-03-14
 176675,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-14
@@ -973,7 +962,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 176916,Cayman Islands,,19.3133,-81.2546,1.0,0.0,0.0,2020-03-15
 176921,Curacao,,12.1696,-68.99,1.0,0.0,0.0,2020-03-15
 176925,France,Mayotte,-12.8275,45.1662,1.0,0.0,0.0,2020-03-15
-176926,France,Saint Barthelemy,17.9,-62.8333,1.0,0.0,0.0,2020-03-15
 176928,Guadeloupe,,16.265,-61.551,3.0,0.0,0.0,2020-03-15
 176930,Guernsey,,49.45,-2.58,1.0,0.0,0.0,2020-03-15
 176932,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-15
@@ -1029,7 +1017,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177160,Liechtenstein,,47.166,9.5554,4.0,0.0,0.0,2020-03-16
 177162,France,French Polynesia,-17.6797,-149.4068,3.0,0.0,0.0,2020-03-16
 177163,France,Guadeloupe,16.25,-61.5833,3.0,0.0,0.0,2020-03-16
-177164,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-16
 177165,Guam,,13.4443,144.7937,3.0,0.0,0.0,2020-03-16
 177167,Puerto Rico,,18.2,-66.5,3.0,0.0,0.0,2020-03-16
 177171,Andorra,,42.5063,1.5218,2.0,1.0,0.0,2020-03-16
@@ -1099,7 +1086,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177435,United Kingdom,Channel Islands,49.3723,-2.3644,6.0,0.0,0.0,2020-03-17
 177443,Aruba,,12.5211,-69.9683,3.0,0.0,0.0,2020-03-17
 177446,France,French Polynesia,-17.6797,-149.4068,3.0,0.0,0.0,2020-03-17
-177447,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-17
 177448,Guam,,13.4443,144.7937,3.0,0.0,0.0,2020-03-17
 177450,Netherlands,Curacao,12.1696,-68.99,3.0,0.0,0.0,2020-03-17
 177455,United Kingdom,Gibraltar,36.1408,-5.3536,3.0,1.0,0.0,2020-03-17
@@ -1166,7 +1152,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177717,United Kingdom,Channel Islands,49.3723,-2.3644,6.0,0.0,0.0,2020-03-18
 177720,Aruba,,12.5211,-69.9683,4.0,0.0,0.0,2020-03-18
 177726,France,French Polynesia,-17.6797,-149.4068,3.0,0.0,0.0,2020-03-18
-177727,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-18
 177728,France,St Martin,18.0708,-63.0501,3.0,0.0,0.0,2020-03-18
 177732,Mayotte,,-12.8275,45.1662,3.0,0.0,0.0,2020-03-18
 177733,Netherlands,Curacao,12.1696,-68.99,3.0,0.0,0.0,2020-03-18
@@ -1238,7 +1223,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 178005,France,French Polynesia,-17.6797,-149.4068,6.0,0.0,0.0,2020-03-19
 178011,Aruba,,12.5211,-69.9683,4.0,0.0,0.0,2020-03-19
 178013,France,St Martin,18.0708,-63.0501,4.0,0.0,0.0,2020-03-19
-178017,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-19
 178020,Mayotte,,-12.8275,45.1662,3.0,0.0,0.0,2020-03-19
 178021,Montenegro,,42.7087,19.3744,3.0,0.0,0.0,2020-03-19
 178023,Netherlands,Curacao,12.1696,-68.99,3.0,0.0,1.0,2020-03-19
@@ -1314,7 +1298,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 178306,Mayotte,,-12.8275,45.1662,6.0,0.0,0.0,2020-03-20
 178310,Netherlands,Aruba,12.5211,-69.9683,5.0,0.0,0.0,2020-03-20
 178312,France,St Martin,18.0708,-63.0501,4.0,0.0,0.0,2020-03-20
-178318,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-20
 178322,Netherlands,Curacao,12.1696,-68.99,3.0,0.0,1.0,2020-03-20
 178324,United Kingdom,Cayman Islands,19.3133,-81.2546,3.0,0.0,1.0,2020-03-20
 178328,Denmark,Greenland,71.7069,-42.6043,2.0,0.0,0.0,2020-03-20
@@ -1390,7 +1373,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 178611,Netherlands,Aruba,12.5211,-69.9683,5.0,0.0,0.0,2020-03-21
 178613,France,New Caledonia,-20.9043,165.618,4.0,0.0,0.0,2020-03-21
 178614,France,St Martin,18.0708,-63.0501,4.0,0.0,0.0,2020-03-21
-178622,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-21
 178626,Netherlands,Curacao,12.1696,-68.99,3.0,0.0,1.0,2020-03-21
 178627,United Kingdom,Cayman Islands,19.3133,-81.2546,3.0,0.0,1.0,2020-03-21
 178633,Denmark,Greenland,71.7069,-42.6043,2.0,0.0,0.0,2020-03-21
@@ -1471,7 +1453,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 182050,France,New Caledonia,-20.904305,165.618042,4.0,0.0,0.0,2020-03-22
 182052,United Kingdom,Cayman Islands,19.3133,-81.2546,3.0,0.0,1.0,2020-03-22
 182053,Netherlands,Curacao,12.1696,-68.99,3.0,0.0,1.0,2020-03-22
-182061,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-22
 182067,United Kingdom,Bermuda,32.3078,-64.7505,2.0,0.0,0.0,2020-03-22
 182084,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-22
 182085,United Kingdom,Montserrat,16.742498,-62.187366,1.0,0.0,0.0,2020-03-22
@@ -1493,7 +1474,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 185313,United Kingdom,Montserrat,16.742498,-62.187366,1.0,0.0,0.0,2020-03-23
 185315,France,New Caledonia,-20.904305,165.618042,8.0,0.0,0.0,2020-03-23
 185329,France,Reunion,-21.1151,55.5364,71.0,1.0,0.0,2020-03-23
-185330,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-23
 185337,Netherlands,Sint Maarten,18.0425,-63.0548,2.0,0.0,0.0,2020-03-23
 185339,France,St Martin,18.0708,-63.0501,8.0,0.0,0.0,2020-03-23
 185350,Albania,,41.1533,20.1683,104.0,2.0,4.0,2020-03-23
@@ -1557,7 +1537,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 188726,United Kingdom,Montserrat,16.742498,-62.187366,1.0,0.0,0.0,2020-03-24
 188728,France,New Caledonia,-20.904305,165.618042,10.0,0.0,0.0,2020-03-24
 188744,France,Reunion,-21.1151,55.5364,94.0,1.0,0.0,2020-03-24
-188745,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-24
 188752,Netherlands,Sint Maarten,18.0425,-63.0548,2.0,0.0,0.0,2020-03-24
 188754,France,St Martin,18.0708,-63.0501,8.0,0.0,0.0,2020-03-24
 188765,Albania,,41.1533,20.1683,123.0,10.0,5.0,2020-03-24
@@ -1622,7 +1601,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 192144,United Kingdom,Montserrat,16.742498,-62.187366,1.0,0.0,0.0,2020-03-25
 192146,France,New Caledonia,-20.904305,165.618042,14.0,0.0,0.0,2020-03-25
 192162,France,Reunion,-21.1151,55.5364,111.0,1.0,0.0,2020-03-25
-192163,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-25
 192170,Netherlands,Sint Maarten,18.0425,-63.0548,3.0,0.0,0.0,2020-03-25
 192172,France,St Martin,18.0708,-63.0501,11.0,0.0,0.0,2020-03-25
 192183,Albania,,41.1533,20.1683,146.0,17.0,5.0,2020-03-25
@@ -1687,7 +1665,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 195563,United Kingdom,Montserrat,16.742498,-62.187366,5.0,0.0,0.0,2020-03-26
 195565,France,New Caledonia,-20.904305,165.618042,14.0,0.0,0.0,2020-03-26
 195582,France,Reunion,-21.1151,55.5364,135.0,1.0,0.0,2020-03-26
-195583,France,Saint Barthelemy,17.9,-62.8333,3.0,0.0,0.0,2020-03-26
 195590,Netherlands,Sint Maarten,18.0425,-63.0548,3.0,0.0,0.0,2020-03-26
 195592,France,St Martin,18.0708,-63.0501,11.0,0.0,0.0,2020-03-26
 195604,Albania,,41.1533,20.1683,174.0,17.0,6.0,2020-03-26
@@ -1753,7 +1730,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 198993,United Kingdom,Montserrat,16.742498,-62.187366,5.0,0.0,0.0,2020-03-27
 198995,France,New Caledonia,-20.904305,165.618042,15.0,0.0,0.0,2020-03-27
 199012,France,Reunion,-21.1151,55.5364,145.0,1.0,0.0,2020-03-27
-199013,France,Saint Barthelemy,17.9,-62.8333,5.0,0.0,0.0,2020-03-27
 199020,Netherlands,Sint Maarten,18.0425,-63.0548,3.0,0.0,0.0,2020-03-27
 199022,France,St Martin,18.0708,-63.0501,11.0,0.0,0.0,2020-03-27
 199034,Albania,,41.1533,20.1683,186.0,31.0,8.0,2020-03-27
@@ -1821,7 +1797,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 202423,United Kingdom,Montserrat,16.742498,-62.187366,5.0,0.0,0.0,2020-03-28
 202425,France,New Caledonia,-20.904305,165.618042,15.0,0.0,0.0,2020-03-28
 202442,France,Reunion,-21.1151,55.5364,183.0,1.0,0.0,2020-03-28
-202443,France,Saint Barthelemy,17.9,-62.8333,5.0,0.0,0.0,2020-03-28
 202450,Netherlands,Sint Maarten,18.0425,-63.0548,3.0,0.0,0.0,2020-03-28
 202452,France,St Martin,18.0708,-63.0501,11.0,0.0,0.0,2020-03-28
 202456,United Kingdom,Turks and Caicos Islands,21.694000000000003,-71.7979,4.0,0.0,0.0,2020-03-28
@@ -1890,7 +1865,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 205859,United Kingdom,Montserrat,16.742498,-62.187366,5.0,0.0,0.0,2020-03-29
 205861,France,New Caledonia,-20.904305,165.618042,15.0,0.0,0.0,2020-03-29
 205878,France,Reunion,-21.1151,55.5364,183.0,1.0,0.0,2020-03-29
-205879,France,Saint Barthelemy,17.9,-62.8333,5.0,0.0,0.0,2020-03-29
 205886,Netherlands,Sint Maarten,18.0425,-63.0548,6.0,0.0,0.0,2020-03-29
 205888,France,St Martin,18.0708,-63.0501,11.0,0.0,0.0,2020-03-29
 205892,United Kingdom,Turks and Caicos Islands,21.694000000000003,-71.7979,4.0,0.0,0.0,2020-03-29
@@ -1959,7 +1933,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 209299,United Kingdom,Montserrat,16.742498,-62.187366,5.0,0.0,0.0,2020-03-30
 209301,France,New Caledonia,-20.904305,165.618042,15.0,0.0,0.0,2020-03-30
 209318,France,Reunion,-21.1151,55.5364,224.0,1.0,0.0,2020-03-30
-209319,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-03-30
 209326,Netherlands,Sint Maarten,18.0425,-63.0548,6.0,0.0,0.0,2020-03-30
 209328,France,St Martin,18.0708,-63.0501,15.0,2.0,1.0,2020-03-30
 209332,United Kingdom,Turks and Caicos Islands,21.694000000000003,-71.7979,5.0,0.0,0.0,2020-03-30
@@ -2028,7 +2001,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 211733,United Kingdom,Montserrat,16.742498,-62.187366,5.0,0.0,0.0,2020-03-31
 211735,France,New Caledonia,-20.904305,165.618042,16.0,0.0,0.0,2020-03-31
 211752,France,Reunion,-21.1151,55.5364,247.0,1.0,0.0,2020-03-31
-211753,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-03-31
 211760,Netherlands,Sint Maarten,18.0425,-63.0548,6.0,0.0,0.0,2020-03-31
 211762,France,St Martin,18.0708,-63.0501,15.0,2.0,1.0,2020-03-31
 211766,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,5.0,0.0,0.0,2020-03-31
@@ -2097,7 +2069,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 214218,United Kingdom,Montserrat,16.742498,-62.187366,5.0,0.0,0.0,2020-04-01
 214220,France,New Caledonia,-20.904305,165.618042,16.0,0.0,0.0,2020-04-01
 214237,France,Reunion,-21.1151,55.5364,281.0,40.0,0.0,2020-04-01
-214238,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-01
 214245,Netherlands,Sint Maarten,18.0425,-63.0548,16.0,6.0,1.0,2020-04-01
 214247,France,St Martin,18.0708,-63.0501,15.0,2.0,1.0,2020-04-01
 214251,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,6.0,0.0,0.0,2020-04-01
@@ -2166,7 +2137,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 216787,United Kingdom,Montserrat,16.742498,-62.187366,5.0,0.0,0.0,2020-04-02
 216789,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-02
 216806,France,Reunion,-21.1151,55.5364,308.0,40.0,0.0,2020-04-02
-216807,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-02
 216814,Netherlands,Sint Maarten,18.0425,-63.0548,18.0,6.0,1.0,2020-04-02
 216816,France,St Martin,18.0708,-63.0501,22.0,2.0,1.0,2020-04-02
 216820,United Kingdom,Turks and Caicos Islands,21.694000000000003,-71.7979,5.0,0.0,0.0,2020-04-02
@@ -2235,7 +2205,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 219413,United Kingdom,Montserrat,16.742498,-62.187366,6.0,0.0,0.0,2020-04-03
 219415,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-03
 219432,France,Reunion,-21.1151,55.5364,321.0,40.0,0.0,2020-04-03
-219433,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-03
 219440,Netherlands,Sint Maarten,18.0425,-63.0548,23.0,6.0,2.0,2020-04-03
 219442,France,St Martin,18.0708,-63.0501,22.0,2.0,1.0,2020-04-03
 219446,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,5.0,0.0,0.0,2020-04-03
@@ -2305,7 +2274,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 222093,United Kingdom,Montserrat,16.742498,-62.187366,6.0,0.0,0.0,2020-04-04
 222095,France,New Caledonia,-20.904305,165.618042,17.0,1.0,0.0,2020-04-04
 222112,France,Reunion,-21.1151,55.5364,334.0,40.0,0.0,2020-04-04
-222113,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-04
 222120,Netherlands,Sint Maarten,18.0425,-63.0548,23.0,6.0,4.0,2020-04-04
 222122,France,St Martin,18.0708,-63.0501,24.0,5.0,2.0,2020-04-04
 222126,United Kingdom,Turks and Caicos Islands,21.694000000000003,-71.7979,5.0,0.0,0.0,2020-04-04
@@ -2375,7 +2343,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 224855,United Kingdom,Montserrat,16.742498,-62.187366,6.0,0.0,0.0,2020-04-05
 224857,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-05
 224874,France,Reunion,-21.1151,55.5364,344.0,40.0,0.0,2020-04-05
-224875,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-05
 224876,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-05
 224883,Netherlands,Sint Maarten,18.0425,-63.0548,25.0,1.0,4.0,2020-04-05
 224885,France,St Martin,18.0708,-63.0501,32.0,7.0,2.0,2020-04-05
@@ -2446,7 +2413,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 227663,United Kingdom,Montserrat,16.742498,-62.187366,6.0,0.0,0.0,2020-04-06
 227665,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-06
 227682,France,Reunion,-21.1151,55.5364,349.0,40.0,0.0,2020-04-06
-227683,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-06
 227684,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-06
 227691,Netherlands,Sint Maarten,18.0425,-63.0548,37.0,1.0,6.0,2020-04-06
 227693,France,St Martin,18.0708,-63.0501,32.0,7.0,2.0,2020-04-06
@@ -2517,7 +2483,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 230521,United Kingdom,Montserrat,16.742498,-62.187366,9.0,0.0,0.0,2020-04-07
 230523,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-07
 230540,France,Reunion,-21.1151,55.5364,358.0,40.0,0.0,2020-04-07
-230541,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-07
 230542,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-07
 230549,Netherlands,Sint Maarten,18.0425,-63.0548,40.0,1.0,6.0,2020-04-07
 230551,France,St Martin,18.0708,-63.0501,32.0,7.0,2.0,2020-04-07
@@ -2588,7 +2553,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 233404,United Kingdom,Montserrat,16.742498,-62.187366,9.0,0.0,0.0,2020-04-08
 233406,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-08
 233423,France,Reunion,-21.1151,55.5364,358.0,40.0,0.0,2020-04-08
-233424,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-08
 233425,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-08
 233432,Netherlands,Sint Maarten,18.0425,-63.0548,40.0,1.0,6.0,2020-04-08
 233434,France,St Martin,18.0708,-63.0501,32.0,7.0,2.0,2020-04-08
@@ -2659,7 +2623,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 236315,United Kingdom,Montserrat,16.742498,-62.187366,9.0,0.0,0.0,2020-04-09
 236317,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-09
 236334,France,Reunion,-21.1151,55.5364,362.0,40.0,0.0,2020-04-09
-236335,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-09
 236336,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-09
 236343,Netherlands,Sint Maarten,18.0425,-63.0548,43.0,1.0,6.0,2020-04-09
 236345,France,St Martin,18.0708,-63.0501,32.0,7.0,2.0,2020-04-09
@@ -2730,7 +2693,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 239255,United Kingdom,Montserrat,16.742498,-62.187366,9.0,0.0,0.0,2020-04-10
 239257,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-10
 239274,France,Reunion,-21.1151,55.5364,382.0,40.0,0.0,2020-04-10
-239275,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-10
 239276,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-10
 239283,Netherlands,Sint Maarten,18.0425,-63.0548,50.0,3.0,8.0,2020-04-10
 239285,France,St Martin,18.0708,-63.0501,32.0,11.0,2.0,2020-04-10
@@ -2801,7 +2763,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 242221,United Kingdom,Montserrat,16.742498,-62.187366,9.0,0.0,0.0,2020-04-11
 242223,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-11
 242240,France,Reunion,-21.1151,55.5364,388.0,40.0,0.0,2020-04-11
-242241,France,Saint Barthelemy,17.9,-62.8333,6.0,1.0,0.0,2020-04-11
 242242,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-11
 242249,Netherlands,Sint Maarten,18.0425,-63.0548,50.0,5.0,9.0,2020-04-11
 242251,France,St Martin,18.0708,-63.0501,32.0,11.0,2.0,2020-04-11
@@ -2872,7 +2833,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 245210,United Kingdom,Montserrat,16.742498,-62.187366,9.0,0.0,0.0,2020-04-12
 245212,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-12
 245229,France,Reunion,-21.1151,55.5364,389.0,40.0,0.0,2020-04-12
-245230,France,Saint Barthelemy,17.9,-62.8333,6.0,4.0,0.0,2020-04-12
 245231,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-12
 245238,Netherlands,Sint Maarten,18.0425,-63.0548,50.0,5.0,9.0,2020-04-12
 245240,France,St Martin,18.0708,-63.0501,32.0,11.0,2.0,2020-04-12
@@ -2943,7 +2903,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 248213,United Kingdom,Montserrat,16.742498,-62.187366,11.0,1.0,0.0,2020-04-13
 248215,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-13
 248232,France,Reunion,-21.1151,55.5364,391.0,40.0,0.0,2020-04-13
-248233,France,Saint Barthelemy,17.9,-62.8333,6.0,4.0,0.0,2020-04-13
 248234,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-13
 248241,Netherlands,Sint Maarten,18.0425,-63.0548,50.0,5.0,9.0,2020-04-13
 248243,France,St Martin,18.0708,-63.0501,32.0,11.0,2.0,2020-04-13
@@ -3014,7 +2973,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 251227,United Kingdom,Montserrat,16.742498,-62.187366,11.0,1.0,0.0,2020-04-14
 251229,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-14
 251246,France,Reunion,-21.1151,55.5364,391.0,40.0,0.0,2020-04-14
-251247,France,Saint Barthelemy,17.9,-62.8333,6.0,4.0,0.0,2020-04-14
 251248,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-14
 251255,Netherlands,Sint Maarten,18.0425,-63.0548,52.0,5.0,9.0,2020-04-14
 251257,France,St Martin,18.0708,-63.0501,32.0,11.0,2.0,2020-04-14
@@ -3085,7 +3043,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 254254,United Kingdom,Montserrat,16.742498,-62.187366,11.0,1.0,0.0,2020-04-15
 254256,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-15
 254273,France,Reunion,-21.1151,55.5364,391.0,237.0,0.0,2020-04-15
-254274,France,Saint Barthelemy,17.9,-62.8333,6.0,4.0,0.0,2020-04-15
 254275,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-15
 254282,Netherlands,Sint Maarten,18.0425,-63.0548,53.0,5.0,9.0,2020-04-15
 254284,France,St Martin,18.0708,-63.0501,35.0,13.0,2.0,2020-04-15
@@ -3156,7 +3113,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 257296,United Kingdom,Montserrat,16.742498,-62.187366,11.0,1.0,0.0,2020-04-16
 257298,France,New Caledonia,-20.904305,165.618042,18.0,1.0,0.0,2020-04-16
 257315,France,Reunion,-21.1151,55.5364,394.0,237.0,0.0,2020-04-16
-257316,France,Saint Barthelemy,17.9,-62.8333,6.0,4.0,0.0,2020-04-16
 257317,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-16
 257324,Netherlands,Sint Maarten,18.0425,-63.0548,57.0,12.0,9.0,2020-04-16
 257326,France,St Martin,18.0708,-63.0501,35.0,13.0,2.0,2020-04-16
@@ -3227,7 +3183,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 260342,United Kingdom,Montserrat,16.742498,-62.187366,11.0,1.0,0.0,2020-04-17
 260344,France,New Caledonia,-20.904305,165.618042,18.0,14.0,0.0,2020-04-17
 260361,France,Reunion,-21.1151,55.5364,402.0,237.0,0.0,2020-04-17
-260362,France,Saint Barthelemy,17.9,-62.8333,6.0,4.0,0.0,2020-04-17
 260363,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-17
 260370,Netherlands,Sint Maarten,18.0425,-63.0548,57.0,12.0,9.0,2020-04-17
 260372,France,St Martin,18.0708,-63.0501,35.0,13.0,2.0,2020-04-17
@@ -3298,7 +3253,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 263396,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,0.0,2020-04-18
 263398,France,New Caledonia,-20.904305,165.618042,18.0,14.0,0.0,2020-04-18
 263415,France,Reunion,-21.1151,55.5364,407.0,237.0,0.0,2020-04-18
-263416,France,Saint Barthelemy,17.9,-62.8333,6.0,5.0,0.0,2020-04-18
 263417,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-18
 263424,Netherlands,Sint Maarten,18.0425,-63.0548,64.0,12.0,9.0,2020-04-18
 263426,France,St Martin,18.0708,-63.0501,37.0,19.0,2.0,2020-04-18
@@ -3369,7 +3323,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 266469,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,0.0,2020-04-19
 266471,France,New Caledonia,-20.904305,165.618042,18.0,15.0,0.0,2020-04-19
 266488,France,Reunion,-21.1151,55.5364,408.0,237.0,0.0,2020-04-19
-266489,France,Saint Barthelemy,17.9,-62.8333,6.0,5.0,0.0,2020-04-19
 266490,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-19
 266497,Netherlands,Sint Maarten,18.0425,-63.0548,67.0,12.0,10.0,2020-04-19
 266499,France,St Martin,18.0708,-63.0501,37.0,19.0,2.0,2020-04-19
@@ -3440,7 +3393,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 269551,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,0.0,2020-04-20
 269553,France,New Caledonia,-20.904305,165.618042,18.0,15.0,0.0,2020-04-20
 269570,France,Reunion,-21.1151,55.5364,408.0,237.0,0.0,2020-04-20
-269571,France,Saint Barthelemy,17.9,-62.8333,6.0,5.0,0.0,2020-04-20
 269572,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-20
 269579,Netherlands,Sint Maarten,18.0425,-63.0548,67.0,12.0,10.0,2020-04-20
 269581,France,St Martin,18.0708,-63.0501,37.0,19.0,2.0,2020-04-20
@@ -3511,7 +3463,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 272643,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,0.0,2020-04-21
 272645,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-21
 272662,France,Reunion,-21.1151,55.5364,410.0,238.0,0.0,2020-04-21
-272663,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-21
 272664,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-21
 272671,Netherlands,Sint Maarten,18.0425,-63.0548,67.0,12.0,10.0,2020-04-21
 272673,France,St Martin,18.0708,-63.0501,37.0,19.0,2.0,2020-04-21
@@ -3582,7 +3533,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 275743,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,0.0,2020-04-22
 275745,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-22
 275762,France,Reunion,-21.1151,55.5364,410.0,238.0,0.0,2020-04-22
-275763,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-22
 275764,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-22
 275771,Netherlands,Sint Maarten,18.0425,-63.0548,71.0,22.0,11.0,2020-04-22
 275773,France,St Martin,18.0708,-63.0501,38.0,19.0,2.0,2020-04-22
@@ -3653,7 +3603,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 278863,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,0.0,2020-04-23
 278865,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-23
 278879,France,Reunion,-21.1151,55.5364,412.0,238.0,0.0,2020-04-23
-278880,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-23
 278881,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-23
 278888,Netherlands,Sint Maarten,18.0425,-63.0548,73.0,22.0,12.0,2020-04-23
 278889,France,St Martin,18.0708,-63.0501,38.0,19.0,2.0,2020-04-23
@@ -3724,7 +3673,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 281993,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-04-24
 281995,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-24
 282007,France,Reunion,-21.1151,55.5364,412.0,300.0,0.0,2020-04-24
-282008,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-24
 282009,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-24
 282016,Netherlands,Sint Maarten,18.0425,-63.0548,73.0,22.0,12.0,2020-04-24
 282017,France,St Martin,18.0708,-63.0501,38.0,24.0,3.0,2020-04-24
@@ -3795,7 +3743,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 285127,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-04-25
 285129,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-25
 285141,France,Reunion,-21.1151,55.5364,417.0,300.0,0.0,2020-04-25
-285142,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-25
 285143,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-25
 285150,Netherlands,Sint Maarten,18.0425,-63.0548,73.0,22.0,12.0,2020-04-25
 285151,France,St Martin,18.0708,-63.0501,38.0,24.0,3.0,2020-04-25
@@ -3866,7 +3813,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 288269,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-04-26
 288271,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-26
 288283,France,Reunion,-21.1151,55.5364,417.0,300.0,0.0,2020-04-26
-288284,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-26
 288285,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-26
 288292,Netherlands,Sint Maarten,18.0425,-63.0548,74.0,33.0,13.0,2020-04-26
 288293,France,St Martin,18.0708,-63.0501,38.0,24.0,3.0,2020-04-26
@@ -3937,7 +3883,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 291420,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-04-27
 291422,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-27
 291436,France,Reunion,-21.1151,55.5364,418.0,300.0,0.0,2020-04-27
-291437,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-27
 291438,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-27
 291445,Netherlands,Sint Maarten,18.0425,-63.0548,74.0,33.0,13.0,2020-04-27
 291446,France,St Martin,18.0708,-63.0501,38.0,24.0,3.0,2020-04-27
@@ -4008,7 +3953,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 294585,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-04-28
 294587,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-28
 294604,France,Reunion,-21.1151,55.5364,418.0,300.0,0.0,2020-04-28
-294605,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-28
 294606,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-28
 294613,Netherlands,Sint Maarten,18.0425,-63.0548,75.0,33.0,13.0,2020-04-28
 294615,France,St Martin,18.0708,-63.0501,38.0,24.0,3.0,2020-04-28
@@ -4079,7 +4023,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 297754,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-04-29
 297756,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-29
 297773,France,Reunion,-21.1151,55.5364,420.0,300.0,0.0,2020-04-29
-297774,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-29
 297775,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-29
 297782,Netherlands,Sint Maarten,18.0425,-63.0548,75.0,33.0,13.0,2020-04-29
 297784,France,St Martin,18.0708,-63.0501,38.0,24.0,3.0,2020-04-29
@@ -4150,7 +4093,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 300930,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-04-30
 300932,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-04-30
 300949,France,Reunion,-21.1151,55.5364,420.0,300.0,0.0,2020-04-30
-300950,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-04-30
 300951,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-04-30
 300958,Netherlands,Sint Maarten,18.0425,-63.0548,75.0,33.0,13.0,2020-04-30
 300960,France,St Martin,18.0708,-63.0501,38.0,24.0,3.0,2020-04-30
@@ -4221,7 +4163,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 304119,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-05-01
 304121,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-05-01
 304138,France,Reunion,-21.1151,55.5364,422.0,300.0,0.0,2020-05-01
-304139,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-01
 304140,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-01
 304147,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,44.0,13.0,2020-05-01
 304149,France,St Martin,18.0708,-63.0501,38.0,27.0,3.0,2020-05-01
@@ -4292,7 +4233,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 307312,United Kingdom,Montserrat,16.742498,-62.187366,11.0,2.0,1.0,2020-05-02
 307314,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-05-02
 307331,France,Reunion,-21.1151,55.5364,423.0,300.0,0.0,2020-05-02
-307332,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-02
 307333,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-02
 307340,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,44.0,13.0,2020-05-02
 307342,France,St Martin,18.0708,-63.0501,38.0,27.0,3.0,2020-05-02
@@ -4363,7 +4303,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 310511,United Kingdom,Montserrat,16.742498,-62.187366,11.0,7.0,1.0,2020-05-03
 310513,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-05-03
 310530,France,Reunion,-21.1151,55.5364,423.0,300.0,0.0,2020-05-03
-310531,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-03
 310532,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-03
 310539,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,44.0,13.0,2020-05-03
 310541,France,St Martin,18.0708,-63.0501,38.0,27.0,3.0,2020-05-03
@@ -4434,7 +4373,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 313713,United Kingdom,Montserrat,16.742498,-62.187366,11.0,7.0,1.0,2020-05-04
 313715,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-05-04
 313732,France,Reunion,-21.1151,55.5364,424.0,300.0,0.0,2020-05-04
-313733,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-04
 313734,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-04
 313741,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,44.0,13.0,2020-05-04
 313743,France,St Martin,18.0708,-63.0501,38.0,29.0,3.0,2020-05-04
@@ -4505,7 +4443,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 316923,United Kingdom,Montserrat,16.742498,-62.187366,11.0,7.0,1.0,2020-05-05
 316925,France,New Caledonia,-20.904305,165.618042,18.0,17.0,0.0,2020-05-05
 316942,France,Reunion,-21.1151,55.5364,424.0,300.0,0.0,2020-05-05
-316943,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-05
 316944,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-05
 316951,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,44.0,14.0,2020-05-05
 316953,France,St Martin,18.0708,-63.0501,38.0,29.0,3.0,2020-05-05
@@ -4576,7 +4513,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 320140,United Kingdom,Montserrat,16.742498,-62.187366,11.0,7.0,1.0,2020-05-06
 320142,France,New Caledonia,-20.904305,165.618042,18.0,18.0,0.0,2020-05-06
 320159,France,Reunion,-21.1151,55.5364,425.0,300.0,0.0,2020-05-06
-320160,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-06
 320161,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-06
 320168,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,44.0,14.0,2020-05-06
 320170,France,St Martin,18.0708,-63.0501,38.0,29.0,3.0,2020-05-06
@@ -4647,7 +4583,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 323364,United Kingdom,Montserrat,16.742498,-62.187366,11.0,7.0,1.0,2020-05-07
 323366,France,New Caledonia,-20.904305,165.618042,18.0,18.0,0.0,2020-05-07
 323383,France,Reunion,-21.1151,55.5364,427.0,354.0,0.0,2020-05-07
-323384,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-07
 323385,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-07
 323392,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,44.0,14.0,2020-05-07
 323394,France,St Martin,18.0708,-63.0501,38.0,30.0,3.0,2020-05-07
@@ -4718,7 +4653,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 326595,United Kingdom,Montserrat,16.742498,-62.187366,11.0,8.0,1.0,2020-05-08
 326597,France,New Caledonia,-20.904305,165.618042,18.0,18.0,0.0,2020-05-08
 326614,France,Reunion,-21.1151,55.5364,426.0,354.0,0.0,2020-05-08
-326615,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-08
 326616,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-08
 326623,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,44.0,14.0,2020-05-08
 326625,France,St Martin,18.0708,-63.0501,38.0,30.0,3.0,2020-05-08
@@ -4789,7 +4723,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 329828,United Kingdom,Montserrat,16.742498,-62.187366,11.0,8.0,1.0,2020-05-09
 329830,France,New Caledonia,-20.904305,165.618042,18.0,18.0,0.0,2020-05-09
 329847,France,Reunion,-21.1151,55.5364,431.0,354.0,0.0,2020-05-09
-329848,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-09
 329849,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-09
 329856,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,46.0,15.0,2020-05-09
 329858,France,St Martin,18.0708,-63.0501,39.0,30.0,3.0,2020-05-09
@@ -4860,7 +4793,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 333063,United Kingdom,Montserrat,16.742498,-62.187366,11.0,8.0,1.0,2020-05-10
 333065,France,New Caledonia,-20.904305,165.618042,18.0,18.0,0.0,2020-05-10
 333082,France,Reunion,-21.1151,55.5364,436.0,354.0,0.0,2020-05-10
-333083,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-10
 333084,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,0.0,0.0,2020-05-10
 333091,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,46.0,15.0,2020-05-10
 333093,France,St Martin,18.0708,-63.0501,39.0,30.0,3.0,2020-05-10
@@ -4931,7 +4863,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 336298,United Kingdom,Montserrat,16.742498,-62.187366,11.0,8.0,1.0,2020-05-11
 336300,France,New Caledonia,-20.904305,165.618042,18.0,18.0,0.0,2020-05-11
 336317,France,Reunion,-21.1151,55.5364,436.0,354.0,0.0,2020-05-11
-336318,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-11
 336319,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-11
 336326,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,46.0,15.0,2020-05-11
 336328,France,St Martin,18.0708,-63.0501,39.0,30.0,3.0,2020-05-11
@@ -5002,7 +4933,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 339536,United Kingdom,Montserrat,16.742498,-62.187366,11.0,8.0,1.0,2020-05-12
 339538,France,New Caledonia,-20.904305,165.618042,18.0,18.0,0.0,2020-05-12
 339555,France,Reunion,-21.1151,55.5364,437.0,354.0,0.0,2020-05-12
-339556,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-12
 339557,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-12
 339564,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,46.0,15.0,2020-05-12
 339566,France,St Martin,18.0708,-63.0501,39.0,30.0,3.0,2020-05-12
@@ -5073,7 +5003,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 342775,United Kingdom,Montserrat,16.742498,-62.187366,11.0,8.0,1.0,2020-05-13
 342777,France,New Caledonia,-20.904305,165.618042,18.0,18.0,0.0,2020-05-13
 342794,France,Reunion,-21.1151,55.5364,439.0,354.0,0.0,2020-05-13
-342795,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-13
 342796,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-13
 342803,Netherlands,Sint Maarten,18.0425,-63.0548,76.0,46.0,15.0,2020-05-13
 342805,France,St Martin,18.0708,-63.0501,39.0,30.0,3.0,2020-05-13
@@ -5191,7 +5120,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 346081,Germany,Saarland,49.3964,7.023,2705.0,2400.0,149.0,2020-05-14
 346082,Germany,Sachsen,51.1045,13.2017,5046.0,4400.0,195.0,2020-05-14
 346083,Germany,Sachsen-Anhalt,51.9503,11.6923,1668.0,1500.0,52.0,2020-05-14
-346084,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-14
 346085,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-14
 346086,Italy,Sardegna,39.21531192,9.110616306,1345.0,755.0,125.0,2020-05-14
 346088,Germany,Schleswig-Holstein,54.2194,9.6961,2988.0,2600.0,125.0,2020-05-14
@@ -5315,7 +5243,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 349382,Germany,Saarland,49.3964,7.023,2705.0,2400.0,154.0,2020-05-15
 349383,Germany,Sachsen,51.1045,13.2017,5082.0,4400.0,196.0,2020-05-15
 349384,Germany,Sachsen-Anhalt,51.9503,11.6923,1676.0,1500.0,54.0,2020-05-15
-349385,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-15
 349386,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-15
 349387,Italy,Sardegna,39.21531192,9.110616306,1348.0,762.0,125.0,2020-05-15
 349389,Germany,Schleswig-Holstein,54.2194,9.6961,2998.0,2600.0,126.0,2020-05-15
@@ -5439,7 +5366,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 352687,Germany,Saarland,49.3964,7.023,2708.0,2400.0,155.0,2020-05-16
 352688,Germany,Sachsen,51.1045,13.2017,5110.0,4400.0,197.0,2020-05-16
 352689,Germany,Sachsen-Anhalt,51.9503,11.6923,1676.0,1479.0,54.0,2020-05-16
-352690,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-16
 352691,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-16
 352692,Italy,Sardegna,39.21531192,9.110616306,1352.0,812.0,125.0,2020-05-16
 352694,Germany,Schleswig-Holstein,54.2194,9.6961,2998.0,2600.0,126.0,2020-05-16
@@ -5563,7 +5489,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 355995,Germany,Saarland,49.3964,7.023,2709.0,2403.0,155.0,2020-05-17
 355996,Germany,Sachsen,51.1045,13.2017,5122.0,4500.0,197.0,2020-05-17
 355997,Germany,Sachsen-Anhalt,51.9503,11.6923,1678.0,1480.0,54.0,2020-05-17
-355998,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-17
 355999,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-17
 356000,Italy,Sardegna,39.21531192,9.110616306,1353.0,823.0,125.0,2020-05-17
 356002,Germany,Schleswig-Holstein,54.2194,9.6961,3000.0,2700.0,126.0,2020-05-17
@@ -5687,7 +5612,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 359304,Germany,Saarland,49.3964,7.023,2709.0,2421.0,159.0,2020-05-18
 359305,Germany,Sachsen,51.1045,13.2017,5130.0,4510.0,197.0,2020-05-18
 359306,Germany,Sachsen-Anhalt,51.9503,11.6923,1679.0,1500.0,54.0,2020-05-18
-359307,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-18
 359308,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-18
 359309,Italy,Sardegna,39.21531192,9.110616306,1353.0,847.0,126.0,2020-05-18
 359311,Germany,Schleswig-Holstein,54.2194,9.6961,3002.0,2700.0,126.0,2020-05-18
@@ -5812,7 +5736,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 362619,Germany,Saarland,49.3964,7.023,2712.0,2428.0,160.0,2020-05-19
 362620,Germany,Sachsen,51.1045,13.2017,5142.0,4560.0,198.0,2020-05-19
 362621,Germany,Sachsen-Anhalt,51.9503,11.6923,1680.0,1523.0,54.0,2020-05-19
-362622,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-19
 362623,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-19
 362624,Italy,Sardegna,39.21531192,9.110616306,1354.0,887.0,126.0,2020-05-19
 362626,Germany,Schleswig-Holstein,54.2194,9.6961,3002.0,2700.0,128.0,2020-05-19
@@ -5936,7 +5859,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 365999,Germany,Saarland,49.3964,7.023,2713.0,2433.0,162.0,2020-05-20
 366000,Germany,Sachsen,51.1045,13.2017,5173.0,4590.0,200.0,2020-05-20
 366001,Germany,Sachsen-Anhalt,51.9503,11.6923,1690.0,1542.0,54.0,2020-05-20
-366002,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-20
 366003,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-20
 366007,Italy,Sardegna,39.21531192,9.110616306,1355.0,898.0,126.0,2020-05-20
 366009,Germany,Schleswig-Holstein,54.2194,9.6961,3014.0,2700.0,131.0,2020-05-20
@@ -6061,7 +5983,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 369396,Germany,Saarland,49.3964,7.023,2713.0,2435.0,162.0,2020-05-21
 369397,Germany,Sachsen,51.1045,13.2017,5194.0,4620.0,202.0,2020-05-21
 369398,Germany,Sachsen-Anhalt,51.9503,11.6923,1693.0,1554.0,54.0,2020-05-21
-369399,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-21
 369400,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-21
 369404,Italy,Sardegna,39.21531192,9.110616306,1356.0,911.0,127.0,2020-05-21
 369406,Germany,Schleswig-Holstein,54.2194,9.6961,3021.0,2800.0,134.0,2020-05-21
@@ -6186,7 +6107,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 372800,Germany,Saarland,49.3964,7.023,2713.0,2441.0,162.0,2020-05-22
 372801,Germany,Sachsen,51.1045,13.2017,5212.0,4620.0,203.0,2020-05-22
 372802,Germany,Sachsen-Anhalt,51.9503,11.6923,1693.0,1554.0,54.0,2020-05-22
-372803,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-22
 372804,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-22
 372808,Italy,Sardegna,39.21531192,9.110616306,1356.0,922.0,128.0,2020-05-22
 372810,Germany,Schleswig-Holstein,54.2194,9.6961,3039.0,2800.0,134.0,2020-05-22
@@ -6311,7 +6231,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 376206,Germany,Saarland,49.3964,7.023,2713.0,2445.0,162.0,2020-05-23
 376207,Germany,Sachsen,51.1045,13.2017,5219.0,4700.0,204.0,2020-05-23
 376208,Germany,Sachsen-Anhalt,51.9503,11.6923,1695.0,1554.0,54.0,2020-05-23
-376209,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-23
 376210,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-23
 376214,Italy,Sardegna,39.21531192,9.110616306,1356.0,940.0,129.0,2020-05-23
 376216,Germany,Schleswig-Holstein,54.2194,9.6961,3062.0,2800.0,136.0,2020-05-23
@@ -6436,7 +6355,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 379616,Germany,Saarland,49.3964,7.023,2713.0,2447.0,162.0,2020-05-24
 379617,Germany,Sachsen,51.1045,13.2017,5228.0,4700.0,204.0,2020-05-24
 379618,Germany,Sachsen-Anhalt,51.9503,11.6923,1695.0,1554.0,54.0,2020-05-24
-379619,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-24
 379620,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-24
 379624,Italy,Sardegna,39.21531192,9.110616306,1356.0,982.0,129.0,2020-05-24
 379626,Germany,Schleswig-Holstein,54.2194,9.6961,3062.0,2800.0,137.0,2020-05-24
@@ -6561,7 +6479,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 383027,Germany,Saarland,49.3964,7.023,2716.0,2457.0,162.0,2020-05-25
 383028,Germany,Sachsen,51.1045,13.2017,5231.0,4720.0,205.0,2020-05-25
 383029,Germany,Sachsen-Anhalt,51.9503,11.6923,1699.0,1554.0,54.0,2020-05-25
-383030,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-25
 383031,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-25
 383035,Italy,Sardegna,39.21531192,9.110616306,1354.0,994.0,129.0,2020-05-25
 383037,Germany,Schleswig-Holstein,54.2194,9.6961,3062.0,2800.0,137.0,2020-05-25
@@ -6686,7 +6603,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 386439,Germany,Saarland,49.3964,7.023,2727.0,2466.0,164.0,2020-05-26
 386440,Germany,Sachsen,51.1045,13.2017,5236.0,4740.0,207.0,2020-05-26
 386441,Germany,Sachsen-Anhalt,51.9503,11.6923,1699.0,1554.0,55.0,2020-05-26
-386442,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-26
 386443,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-26
 386447,Italy,Sardegna,39.21531192,9.110616306,1354.0,1000.0,130.0,2020-05-26
 386449,Germany,Schleswig-Holstein,54.2194,9.6961,3067.0,2800.0,139.0,2020-05-26
@@ -6811,7 +6727,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 389855,Germany,Saarland,49.3964,7.023,2730.0,2479.0,164.0,2020-05-27
 389856,Germany,Sachsen,51.1045,13.2017,5248.0,4770.0,208.0,2020-05-27
 389857,Germany,Sachsen-Anhalt,51.9503,11.6923,1702.0,1554.0,55.0,2020-05-27
-389858,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-27
 389859,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-27
 389863,Italy,Sardegna,39.21531192,9.110616306,1355.0,1010.0,130.0,2020-05-27
 389865,Germany,Schleswig-Holstein,54.2194,9.6961,3070.0,2800.0,140.0,2020-05-27
@@ -6936,7 +6851,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 393352,Germany,Saarland,49.3964,7.023,2731.0,2489.0,165.0,2020-05-28
 393353,Germany,Sachsen,51.1045,13.2017,5268.0,4810.0,210.0,2020-05-28
 393354,Germany,Sachsen-Anhalt,51.9503,11.6923,1703.0,1591.0,55.0,2020-05-28
-393356,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-28
 393357,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-28
 393365,Italy,Sardegna,39.21531192,9.110616306,1355.0,1025.0,130.0,2020-05-28
 393367,Germany,Schleswig-Holstein,54.2194,9.6961,3072.0,2800.0,143.0,2020-05-28
@@ -7061,7 +6975,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 396876,Germany,Saarland,49.3964,7.023,2731.0,2489.0,165.0,2020-05-29
 396877,Germany,Sachsen,51.1045,13.2017,5289.0,4830.0,210.0,2020-05-29
 396878,Germany,Sachsen-Anhalt,51.9503,11.6923,1704.0,1596.0,55.0,2020-05-29
-396880,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-29
 396881,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-29
 396889,Italy,Sardegna,39.21531192,9.110616306,1356.0,1036.0,130.0,2020-05-29
 396891,Germany,Schleswig-Holstein,54.2194,9.6961,3078.0,2800.0,144.0,2020-05-29
@@ -7186,7 +7099,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 400402,Germany,Saarland,49.3964,7.023,2731.0,2491.0,165.0,2020-05-30
 400403,Germany,Sachsen,51.1045,13.2017,5299.0,4850.0,213.0,2020-05-30
 400404,Germany,Sachsen-Anhalt,51.9503,11.6923,1704.0,1596.0,55.0,2020-05-30
-400406,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-30
 400407,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-30
 400415,Italy,Sardegna,39.21531192,9.110616306,1356.0,1040.0,130.0,2020-05-30
 400417,Germany,Schleswig-Holstein,54.2194,9.6961,3090.0,2800.0,145.0,2020-05-30
@@ -7311,7 +7223,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 403930,Germany,Saarland,49.3964,7.023,2731.0,2492.0,165.0,2020-05-31
 403931,Germany,Sachsen,51.1045,13.2017,5304.0,4850.0,213.0,2020-05-31
 403932,Germany,Sachsen-Anhalt,51.9503,11.6923,1705.0,1596.0,55.0,2020-05-31
-403934,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-05-31
 403935,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-05-31
 403943,Italy,Sardegna,39.21531192,9.110616306,1356.0,1041.0,130.0,2020-05-31
 403945,Germany,Schleswig-Holstein,54.2194,9.6961,3095.0,2900.0,145.0,2020-05-31
@@ -7455,7 +7366,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 407538,Germany,Saarland,49.3964,7.023,2731.0,2492.0,165.0,2020-06-01
 407539,Germany,Sachsen,51.1045,13.2017,5309.0,4850.0,214.0,2020-06-01
 407540,Germany,Sachsen-Anhalt,51.9503,11.6923,1706.0,1596.0,55.0,2020-06-01
-407542,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-01
 407544,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-01
 407556,Italy,Sardegna,39.21531192,9.110616306,1357.0,1065.0,131.0,2020-06-01
 407558,Germany,Schleswig-Holstein,54.2194,9.6961,3101.0,2900.0,145.0,2020-06-01
@@ -7606,7 +7516,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 411181,Germany,Saarland,49.3964,7.023,2732.0,2499.0,165.0,2020-06-02
 411182,Germany,Sachsen,51.1045,13.2017,5309.0,4900.0,211.0,2020-06-02
 411183,Germany,Sachsen-Anhalt,51.9503,11.6923,1708.0,1604.0,55.0,2020-06-02
-411185,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-02
 411187,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-02
 411199,Italy,Sardegna,39.21531192,9.110616306,1357.0,1071.0,131.0,2020-06-02
 411201,Germany,Schleswig-Holstein,54.2194,9.6961,3103.0,2900.0,145.0,2020-06-02
@@ -7757,7 +7666,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 414827,Germany,Saarland,49.3964,7.023,2735.0,2502.0,166.0,2020-06-03
 414828,Germany,Sachsen,51.1045,13.2017,5309.0,4900.0,212.0,2020-06-03
 414829,Germany,Sachsen-Anhalt,51.9503,11.6923,1711.0,1604.0,55.0,2020-06-03
-414831,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-03
 414833,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-03
 414845,Italy,Sardegna,39.21531192,9.110616306,1357.0,1080.0,131.0,2020-06-03
 414847,Germany,Schleswig-Holstein,54.2194,9.6961,3106.0,2900.0,146.0,2020-06-03
@@ -7908,7 +7816,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 418474,Germany,Saarland,49.3964,7.023,2737.0,2507.0,168.0,2020-06-04
 418475,Germany,Sachsen,51.1045,13.2017,5312.0,4900.0,212.0,2020-06-04
 418476,Germany,Sachsen-Anhalt,51.9503,11.6923,1712.0,1610.0,55.0,2020-06-04
-418478,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-04
 418480,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-04
 418492,Italy,Sardegna,39.21531192,9.110616306,1357.0,1118.0,131.0,2020-06-04
 418494,Germany,Schleswig-Holstein,54.2194,9.6961,3106.0,2900.0,146.0,2020-06-04
@@ -8071,7 +7978,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 422137,Germany,Saarland,49.3964,7.023,2738.0,2511.0,168.0,2020-06-05
 422138,Germany,Sachsen,51.1045,13.2017,5319.0,4900.0,212.0,2020-06-05
 422139,Germany,Sachsen-Anhalt,51.9503,11.6923,1717.0,1610.0,55.0,2020-06-05
-422141,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-05
 422143,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-05
 422155,Italy,Sardegna,39.21531192,9.110616306,1359.0,1161.0,131.0,2020-06-05
 422157,Germany,Schleswig-Holstein,54.2194,9.6961,3106.0,2900.0,146.0,2020-06-05
@@ -8242,7 +8148,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 425810,Germany,Saarland,49.3964,7.023,2740.0,2513.0,168.0,2020-06-06
 425811,Germany,Sachsen,51.1045,13.2017,5321.0,5000.0,213.0,2020-06-06
 425812,Germany,Sachsen-Anhalt,51.9503,11.6923,1717.0,1610.0,55.0,2020-06-06
-425814,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-06
 425816,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-06
 425828,Italy,Sardegna,39.21531192,9.110616306,1362.0,1171.0,131.0,2020-06-06
 425830,Germany,Schleswig-Holstein,54.2194,9.6961,3107.0,2900.0,146.0,2020-06-06
@@ -8413,7 +8318,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 429483,Germany,Saarland,49.3964,7.023,2747.0,2518.0,168.0,2020-06-07
 429484,Germany,Sachsen,51.1045,13.2017,5327.0,5000.0,214.0,2020-06-07
 429485,Germany,Sachsen-Anhalt,51.9503,11.6923,1720.0,1610.0,56.0,2020-06-07
-429487,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-07
 429489,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-07
 429501,Italy,Sardegna,39.21531192,9.110616306,1362.0,1172.0,131.0,2020-06-07
 429503,Germany,Schleswig-Holstein,54.2194,9.6961,3109.0,2900.0,147.0,2020-06-07
@@ -8584,7 +8488,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 433158,Germany,Saarland,49.3964,7.023,2747.0,2522.0,169.0,2020-06-08
 433159,Germany,Sachsen,51.1045,13.2017,5330.0,5000.0,214.0,2020-06-08
 433160,Germany,Sachsen-Anhalt,51.9503,11.6923,1721.0,1610.0,56.0,2020-06-08
-433162,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-08
 433164,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-08
 433176,Italy,Sardegna,39.21531192,9.110616306,1362.0,1175.0,131.0,2020-06-08
 433178,Germany,Schleswig-Holstein,54.2194,9.6961,3110.0,2900.0,147.0,2020-06-08
@@ -8755,7 +8658,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 436834,Germany,Saarland,49.3964,7.023,2754.0,2524.0,169.0,2020-06-09
 436835,Germany,Sachsen,51.1045,13.2017,5333.0,5000.0,217.0,2020-06-09
 436836,Germany,Sachsen-Anhalt,51.9503,11.6923,1722.0,1610.0,56.0,2020-06-09
-436838,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-09
 436840,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-09
 436852,Italy,Sardegna,39.21531192,9.110616306,1361.0,1176.0,131.0,2020-06-09
 436854,Germany,Schleswig-Holstein,54.2194,9.6961,3114.0,2900.0,148.0,2020-06-09
@@ -8926,7 +8828,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 440546,Germany,Saarland,49.3964,7.023,2763.0,2530.0,170.0,2020-06-10
 440547,Germany,Sachsen,51.1045,13.2017,5338.0,5000.0,217.0,2020-06-10
 440548,Germany,Sachsen-Anhalt,51.9503,11.6923,1729.0,1610.0,56.0,2020-06-10
-440550,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-10
 440552,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-10
 440564,Italy,Sardegna,39.21531192,9.110616306,1361.0,1180.0,131.0,2020-06-10
 440566,Germany,Schleswig-Holstein,54.2194,9.6961,3115.0,2900.0,148.0,2020-06-10
@@ -9099,7 +9000,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 444269,Germany,Saarland,49.3964,7.023,2766.0,2531.0,170.0,2020-06-11
 444270,Germany,Sachsen,51.1045,13.2017,5346.0,5000.0,219.0,2020-06-11
 444271,Germany,Sachsen-Anhalt,51.9503,11.6923,1733.0,1627.0,56.0,2020-06-11
-444273,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-11
 444275,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-11
 444287,Italy,Sardegna,39.21531192,9.110616306,1362.0,1188.0,131.0,2020-06-11
 444289,Germany,Schleswig-Holstein,54.2194,9.6961,3115.0,2900.0,148.0,2020-06-11
@@ -9274,7 +9174,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 448009,Germany,Saarland,49.3964,7.023,2769.0,2531.0,170.0,2020-06-12
 448010,Germany,Sachsen,51.1045,13.2017,5346.0,5000.0,219.0,2020-06-12
 448011,Germany,Sachsen-Anhalt,51.9503,11.6923,1735.0,1627.0,56.0,2020-06-12
-448013,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-12
 448015,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-12
 448027,Italy,Sardegna,39.21531192,9.110616306,1363.0,1190.0,131.0,2020-06-12
 448029,Germany,Schleswig-Holstein,54.2194,9.6961,3120.0,2900.0,148.0,2020-06-12
@@ -9449,7 +9348,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 451752,Germany,Saarland,49.3964,7.023,2770.0,2600.0,170.0,2020-06-13
 451753,Germany,Sachsen,51.1045,13.2017,5346.0,5000.0,219.0,2020-06-13
 451754,Germany,Sachsen-Anhalt,51.9503,11.6923,1735.0,1627.0,56.0,2020-06-13
-451756,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-13
 451758,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-13
 451770,Italy,Sardegna,39.21531192,9.110616306,1363.0,1197.0,132.0,2020-06-13
 451772,Germany,Schleswig-Holstein,54.2194,9.6961,3120.0,2900.0,150.0,2020-06-13
@@ -9624,7 +9522,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 455495,Germany,Saarland,49.3964,7.023,2772.0,2600.0,170.0,2020-06-14
 455496,Germany,Sachsen,51.1045,13.2017,5346.0,5065.0,219.0,2020-06-14
 455497,Germany,Sachsen-Anhalt,51.9503,11.6923,1756.0,1627.0,57.0,2020-06-14
-455499,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-14
 455501,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-14
 455513,Italy,Sardegna,39.21531192,9.110616306,1363.0,1198.0,132.0,2020-06-14
 455515,Germany,Schleswig-Holstein,54.2194,9.6961,3121.0,2900.0,151.0,2020-06-14
@@ -9799,7 +9696,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 459243,Germany,Saarland,49.3964,7.023,2772.0,2543.0,170.0,2020-06-15
 459244,Germany,Sachsen,51.1045,13.2017,5347.0,5065.0,219.0,2020-06-15
 459245,Germany,Sachsen-Anhalt,51.9503,11.6923,1772.0,1627.0,57.0,2020-06-15
-459247,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-15
 459249,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-15
 459261,Italy,Sardegna,39.21531192,9.110616306,1363.0,1198.0,132.0,2020-06-15
 459263,Germany,Schleswig-Holstein,54.2194,9.6961,3121.0,2900.0,151.0,2020-06-15
@@ -9974,7 +9870,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 462989,Germany,Saarland,49.3964,7.023,2773.0,2546.0,170.0,2020-06-16
 462990,Germany,Sachsen,51.1045,13.2017,5349.0,5065.0,220.0,2020-06-16
 462991,Germany,Sachsen-Anhalt,51.9503,11.6923,1776.0,1627.0,57.0,2020-06-16
-462993,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-16
 462995,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-16
 463007,Italy,Sardegna,39.21531192,9.110616306,1365.0,1200.0,132.0,2020-06-16
 463009,Germany,Schleswig-Holstein,54.2194,9.6961,3122.0,2900.0,151.0,2020-06-16
@@ -10149,7 +10044,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 466738,Germany,Saarland,49.3964,7.023,2773.0,2550.0,171.0,2020-06-17
 466739,Germany,Sachsen,51.1045,13.2017,5350.0,5075.0,221.0,2020-06-17
 466740,Germany,Sachsen-Anhalt,51.9503,11.6923,1803.0,1627.0,57.0,2020-06-17
-466742,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-17
 466744,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-17
 466756,Italy,Sardegna,39.21531192,9.110616306,1366.0,1203.0,132.0,2020-06-17
 466758,Germany,Schleswig-Holstein,54.2194,9.6961,3122.0,2970.0,152.0,2020-06-17
@@ -10324,7 +10218,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 470488,Germany,Saarland,49.3964,7.023,2773.0,2551.0,171.0,2020-06-18
 470489,Germany,Sachsen,51.1045,13.2017,5374.0,5075.0,221.0,2020-06-18
 470490,Germany,Sachsen-Anhalt,51.9503,11.6923,1819.0,1627.0,57.0,2020-06-18
-470492,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-18
 470494,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-18
 470506,Italy,Sardegna,39.21531192,9.110616306,1367.0,1204.0,132.0,2020-06-18
 470508,Germany,Schleswig-Holstein,54.2194,9.6961,3122.0,2970.0,152.0,2020-06-18
@@ -10499,7 +10392,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 474239,Germany,Saarland,49.3964,7.023,2774.0,2557.0,171.0,2020-06-19
 474240,Germany,Sachsen,51.1045,13.2017,5398.0,5075.0,221.0,2020-06-19
 474241,Germany,Sachsen-Anhalt,51.9503,11.6923,1840.0,1627.0,57.0,2020-06-19
-474243,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-19
 474245,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-19
 474257,Italy,Sardegna,39.21531192,9.110616306,1368.0,1206.0,132.0,2020-06-19
 474259,Germany,Schleswig-Holstein,54.2194,9.6961,3131.0,2979.0,152.0,2020-06-19
@@ -10674,7 +10566,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 477994,Germany,Saarland,49.3964,7.023,2776.0,2563.0,171.0,2020-06-20
 477995,Germany,Sachsen,51.1045,13.2017,5408.0,5075.0,221.0,2020-06-20
 477996,Germany,Sachsen-Anhalt,51.9503,11.6923,1840.0,1627.0,57.0,2020-06-20
-477998,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-20
 478000,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-20
 478012,Italy,Sardegna,39.21531192,9.110616306,1369.0,1209.0,132.0,2020-06-20
 478014,Germany,Schleswig-Holstein,54.2194,9.6961,3133.0,2981.0,152.0,2020-06-20
@@ -10849,7 +10740,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 481749,Germany,Saarland,49.3964,7.023,2778.0,2563.0,171.0,2020-06-21
 481750,Germany,Sachsen,51.1045,13.2017,5408.0,5075.0,221.0,2020-06-21
 481751,Germany,Sachsen-Anhalt,51.9503,11.6923,1842.0,1627.0,57.0,2020-06-21
-481753,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-21
 481755,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-21
 481767,Italy,Sardegna,39.21531192,9.110616306,1369.0,1209.0,132.0,2020-06-21
 481769,Germany,Schleswig-Holstein,54.2194,9.6961,3134.0,2982.0,152.0,2020-06-21
@@ -11024,7 +10914,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 485507,Germany,Saarland,49.3964,7.023,2778.0,2566.0,171.0,2020-06-22
 485508,Germany,Sachsen,51.1045,13.2017,5423.0,5075.0,221.0,2020-06-22
 485509,Germany,Sachsen-Anhalt,51.9503,11.6923,1852.0,1668.0,57.0,2020-06-22
-485511,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-22
 485513,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-22
 485525,Italy,Sardegna,39.21531192,9.110616306,1369.0,1209.0,132.0,2020-06-22
 485527,Germany,Schleswig-Holstein,54.2194,9.6961,3136.0,2980.0,152.0,2020-06-22
@@ -11199,7 +11088,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 489270,Germany,Saarland,49.3964,7.023,2778.0,2568.0,171.0,2020-06-23
 489271,Germany,Sachsen,51.1045,13.2017,5429.0,5100.0,221.0,2020-06-23
 489272,Germany,Sachsen-Anhalt,51.9503,11.6923,1857.0,1668.0,58.0,2020-06-23
-489274,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-23
 489276,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-23
 489288,Italy,Sardegna,39.21531192,9.110616306,1360.0,1213.0,132.0,2020-06-23
 489290,Germany,Schleswig-Holstein,54.2194,9.6961,3136.0,2980.0,152.0,2020-06-23
@@ -11374,7 +11262,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 493046,Germany,Saarland,49.3964,7.023,2801.0,2569.0,171.0,2020-06-24
 493047,Germany,Sachsen,51.1045,13.2017,5436.0,5100.0,222.0,2020-06-24
 493048,Germany,Sachsen-Anhalt,51.9503,11.6923,1860.0,1668.0,58.0,2020-06-24
-493050,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-24
 493052,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-24
 493064,Italy,Sardegna,39.21531192,9.110616306,1361.0,1214.0,132.0,2020-06-24
 493066,Germany,Schleswig-Holstein,54.2194,9.6961,3137.0,2980.0,152.0,2020-06-24
@@ -11549,7 +11436,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 496829,Germany,Saarland,49.3964,7.023,2801.0,2574.0,172.0,2020-06-25
 496830,Germany,Sachsen,51.1045,13.2017,5438.0,5105.0,222.0,2020-06-25
 496831,Germany,Sachsen-Anhalt,51.9503,11.6923,1864.0,1681.0,58.0,2020-06-25
-496833,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-25
 496835,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-25
 496847,Italy,Sardegna,39.21531192,9.110616306,1362.0,1216.0,132.0,2020-06-25
 496849,Germany,Schleswig-Holstein,54.2194,9.6961,3140.0,2980.0,152.0,2020-06-25
@@ -11724,7 +11610,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 500613,Germany,Saarland,49.3964,7.023,2802.0,2574.0,173.0,2020-06-26
 500614,Germany,Sachsen,51.1045,13.2017,5440.0,5105.0,222.0,2020-06-26
 500615,Germany,Sachsen-Anhalt,51.9503,11.6923,1867.0,1681.0,58.0,2020-06-26
-500617,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-26
 500619,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-26
 500631,Italy,Sardegna,39.21531192,9.110616306,1362.0,1218.0,132.0,2020-06-26
 500633,Germany,Schleswig-Holstein,54.2194,9.6961,3144.0,2980.0,152.0,2020-06-26
@@ -11899,7 +11784,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 504398,Germany,Saarland,49.3964,7.023,2802.0,2574.0,173.0,2020-06-27
 504399,Germany,Sachsen,51.1045,13.2017,5444.0,5105.0,222.0,2020-06-27
 504400,Germany,Sachsen-Anhalt,51.9503,11.6923,1867.0,1681.0,58.0,2020-06-27
-504402,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-27
 504404,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-27
 504416,Italy,Sardegna,39.21531192,9.110616306,1363.0,1218.0,132.0,2020-06-27
 504418,Germany,Schleswig-Holstein,54.2194,9.6961,3146.0,2980.0,152.0,2020-06-27
@@ -12074,7 +11958,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 508183,Germany,Saarland,49.3964,7.023,2805.0,2574.0,173.0,2020-06-28
 508184,Germany,Sachsen,51.1045,13.2017,5444.0,5105.0,222.0,2020-06-28
 508185,Germany,Sachsen-Anhalt,51.9503,11.6923,1868.0,1681.0,58.0,2020-06-28
-508187,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-28
 508189,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-28
 508201,Italy,Sardegna,39.21531192,9.110616306,1364.0,1218.0,132.0,2020-06-28
 508203,Germany,Schleswig-Holstein,54.2194,9.6961,3147.0,2990.0,152.0,2020-06-28
@@ -12249,7 +12132,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 511970,Germany,Saarland,49.3964,7.023,2806.0,2577.0,173.0,2020-06-29
 511971,Germany,Sachsen,51.1045,13.2017,5444.0,5105.0,222.0,2020-06-29
 511972,Germany,Sachsen-Anhalt,51.9503,11.6923,1873.0,1718.0,58.0,2020-06-29
-511974,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-29
 511976,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-29
 511988,Italy,Sardegna,39.21531192,9.110616306,1364.0,1218.0,132.0,2020-06-29
 511990,Germany,Schleswig-Holstein,54.2194,9.6961,3147.0,2990.0,152.0,2020-06-29
@@ -12424,7 +12306,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 515759,Germany,Saarland,49.3964,7.023,2806.0,2581.0,173.0,2020-06-30
 515760,Germany,Sachsen,51.1045,13.2017,5448.0,5125.0,223.0,2020-06-30
 515761,Germany,Sachsen-Anhalt,51.9503,11.6923,1875.0,1725.0,59.0,2020-06-30
-515763,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-06-30
 515765,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-06-30
 515777,Italy,Sardegna,39.21531192,9.110616306,1366.0,1219.0,133.0,2020-06-30
 515779,Germany,Schleswig-Holstein,54.2194,9.6961,3159.0,3000.0,152.0,2020-06-30
@@ -12599,7 +12480,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 519550,Germany,Saarland,49.3964,7.023,2806.0,2584.0,173.0,2020-07-01
 519551,Germany,Sachsen,51.1045,13.2017,5451.0,5150.0,223.0,2020-07-01
 519552,Germany,Sachsen-Anhalt,51.9503,11.6923,1878.0,1725.0,59.0,2020-07-01
-519554,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-01
 519556,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-01
 519568,Italy,Sardegna,39.21531192,9.110616306,1366.0,1222.0,133.0,2020-07-01
 519570,Germany,Schleswig-Holstein,54.2194,9.6961,3163.0,3000.0,152.0,2020-07-01
@@ -12774,7 +12654,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 523344,Germany,Saarland,49.3964,7.023,2807.0,2584.0,174.0,2020-07-02
 523345,Germany,Sachsen,51.1045,13.2017,5457.0,5165.0,224.0,2020-07-02
 523346,Germany,Sachsen-Anhalt,51.9503,11.6923,1880.0,1749.0,59.0,2020-07-02
-523348,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-02
 523350,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-02
 523362,Italy,Sardegna,39.21531192,9.110616306,1368.0,1222.0,133.0,2020-07-02
 523364,Germany,Schleswig-Holstein,54.2194,9.6961,3176.0,3000.0,152.0,2020-07-02
@@ -12949,7 +12828,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 527143,Germany,Saarland,49.3964,7.023,2807.0,2584.0,174.0,2020-07-03
 527144,Germany,Sachsen,51.1045,13.2017,5457.0,5180.0,224.0,2020-07-03
 527145,Germany,Sachsen-Anhalt,51.9503,11.6923,1882.0,1758.0,59.0,2020-07-03
-527147,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-03
 527149,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-03
 527161,Italy,Sardegna,39.21531192,9.110616306,1369.0,1222.0,133.0,2020-07-03
 527163,Germany,Schleswig-Holstein,54.2194,9.6961,3178.0,3000.0,152.0,2020-07-03
@@ -13124,7 +13002,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 530943,Germany,Saarland,49.3964,7.023,2807.0,2585.0,174.0,2020-07-04
 530944,Germany,Sachsen,51.1045,13.2017,5458.0,5180.0,224.0,2020-07-04
 530945,Germany,Sachsen-Anhalt,51.9503,11.6923,1882.0,1758.0,59.0,2020-07-04
-530947,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-04
 530949,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-04
 530961,Italy,Sardegna,39.21531192,9.110616306,1369.0,1223.0,133.0,2020-07-04
 530963,Germany,Schleswig-Holstein,54.2194,9.6961,3181.0,3000.0,152.0,2020-07-04
@@ -13299,7 +13176,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 534744,Germany,Saarland,49.3964,7.023,2807.0,2586.0,174.0,2020-07-05
 534745,Germany,Sachsen,51.1045,13.2017,5458.0,5180.0,224.0,2020-07-05
 534746,Germany,Sachsen-Anhalt,51.9503,11.6923,1882.0,1758.0,59.0,2020-07-05
-534748,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-05
 534750,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-05
 534762,Italy,Sardegna,39.21531192,9.110616306,1370.0,1225.0,133.0,2020-07-05
 534764,Germany,Schleswig-Holstein,54.2194,9.6961,3187.0,3000.0,152.0,2020-07-05
@@ -13474,7 +13350,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 538547,Germany,Saarland,49.3964,7.023,2807.0,2588.0,174.0,2020-07-06
 538548,Germany,Sachsen,51.1045,13.2017,5458.0,5195.0,224.0,2020-07-06
 538549,Germany,Sachsen-Anhalt,51.9503,11.6923,1896.0,1758.0,59.0,2020-07-06
-538551,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-06
 538553,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-06
 538565,Italy,Sardegna,39.21531192,9.110616306,1371.0,1227.0,134.0,2020-07-06
 538567,Germany,Schleswig-Holstein,54.2194,9.6961,3189.0,3000.0,152.0,2020-07-06
@@ -13649,7 +13524,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 542352,Germany,Saarland,49.3964,7.023,2807.0,2588.0,174.0,2020-07-07
 542353,Germany,Sachsen,51.1045,13.2017,5460.0,5200.0,224.0,2020-07-07
 542354,Germany,Sachsen-Anhalt,51.9503,11.6923,1898.0,1795.0,59.0,2020-07-07
-542356,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-07
 542358,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-07
 542370,Italy,Sardegna,39.21531192,9.110616306,1371.0,1224.0,134.0,2020-07-07
 542372,Germany,Schleswig-Holstein,54.2194,9.6961,3194.0,3000.0,153.0,2020-07-07
@@ -13824,7 +13698,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 546160,Germany,Saarland,49.3964,7.023,2808.0,2589.0,174.0,2020-07-08
 546161,Germany,Sachsen,51.1045,13.2017,5465.0,5200.0,224.0,2020-07-08
 546162,Germany,Sachsen-Anhalt,51.9503,11.6923,1900.0,1797.0,60.0,2020-07-08
-546164,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-08
 546166,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-08
 546178,Italy,Sardegna,39.21531192,9.110616306,1371.0,1227.0,134.0,2020-07-08
 546180,Germany,Schleswig-Holstein,54.2194,9.6961,3200.0,3000.0,153.0,2020-07-08
@@ -13999,7 +13872,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 549967,Germany,Saarland,49.3964,7.023,2809.0,2589.0,174.0,2020-07-09
 549968,Germany,Sachsen,51.1045,13.2017,5466.0,5205.0,225.0,2020-07-09
 549969,Germany,Sachsen-Anhalt,51.9503,11.6923,1907.0,1797.0,61.0,2020-07-09
-549971,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-09
 549973,France,Saint Pierre and Miquelon,46.8852,-56.3159,1.0,1.0,0.0,2020-07-09
 549985,Italy,Sardegna,39.21531192,9.110616306,1371.0,1227.0,134.0,2020-07-09
 549987,Germany,Schleswig-Holstein,54.2194,9.6961,3202.0,3000.0,154.0,2020-07-09
@@ -14174,7 +14046,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 553779,Germany,Saarland,49.3964,7.023,2812.0,2590.0,174.0,2020-07-10
 553780,Germany,Sachsen,51.1045,13.2017,5469.0,5205.0,225.0,2020-07-10
 553781,Germany,Sachsen-Anhalt,51.9503,11.6923,1909.0,1799.0,61.0,2020-07-10
-553783,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-10
 553785,France,Saint Pierre and Miquelon,46.8852,-56.3159,2.0,1.0,0.0,2020-07-10
 553797,Italy,Sardegna,39.21531192,9.110616306,1372.0,1228.0,134.0,2020-07-10
 553799,Germany,Schleswig-Holstein,54.2194,9.6961,3206.0,3000.0,154.0,2020-07-10
@@ -14349,7 +14220,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 557592,Germany,Saarland,49.3964,7.023,2812.0,2590.0,174.0,2020-07-11
 557593,Germany,Sachsen,51.1045,13.2017,5473.0,5205.0,225.0,2020-07-11
 557594,Germany,Sachsen-Anhalt,51.9503,11.6923,1909.0,1799.0,61.0,2020-07-11
-557596,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-11
 557598,France,Saint Pierre and Miquelon,46.8852,-56.3159,2.0,1.0,0.0,2020-07-11
 557610,Italy,Sardegna,39.21531192,9.110616306,1372.0,1229.0,134.0,2020-07-11
 557612,Germany,Schleswig-Holstein,54.2194,9.6961,3206.0,3000.0,154.0,2020-07-11
@@ -14524,7 +14394,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 561407,Germany,Saarland,49.3964,7.023,2812.0,2590.0,174.0,2020-07-12
 561408,Germany,Sachsen,51.1045,13.2017,5473.0,5205.0,225.0,2020-07-12
 561409,Germany,Sachsen-Anhalt,51.9503,11.6923,1917.0,1799.0,62.0,2020-07-12
-561411,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-12
 561413,France,Saint Pierre and Miquelon,46.8852,-56.3159,2.0,1.0,0.0,2020-07-12
 561425,Italy,Sardegna,39.21531192,9.110616306,1372.0,1229.0,134.0,2020-07-12
 561427,Germany,Schleswig-Holstein,54.2194,9.6961,3207.0,3000.0,154.0,2020-07-12
@@ -14699,7 +14568,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 565222,Germany,Saarland,49.3964,7.023,2812.0,2590.0,174.0,2020-07-13
 565223,Germany,Sachsen,51.1045,13.2017,5473.0,5215.0,225.0,2020-07-13
 565224,Germany,Sachsen-Anhalt,51.9503,11.6923,1921.0,1807.0,62.0,2020-07-13
-565226,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-13
 565228,France,Saint Pierre and Miquelon,46.8852,-56.3159,2.0,1.0,0.0,2020-07-13
 565240,Italy,Sardegna,39.21531192,9.110616306,1373.0,1229.0,134.0,2020-07-13
 565242,Germany,Schleswig-Holstein,54.2194,9.6961,3221.0,3000.0,154.0,2020-07-13
@@ -14874,7 +14742,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 569046,Germany,Saarland,49.3964,7.023,2819.0,2591.0,174.0,2020-07-14
 569047,Germany,Sachsen,51.1045,13.2017,5476.0,5220.0,225.0,2020-07-14
 569048,Germany,Sachsen-Anhalt,51.9503,11.6923,1921.0,1807.0,62.0,2020-07-14
-569050,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-14
 569052,France,Saint Pierre and Miquelon,46.8852,-56.3159,2.0,1.0,0.0,2020-07-14
 569064,Italy,Sardegna,39.21531192,9.110616306,1374.0,1230.0,134.0,2020-07-14
 569066,Germany,Schleswig-Holstein,54.2194,9.6961,3221.0,3000.0,154.0,2020-07-14
@@ -15049,7 +14916,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 572870,Germany,Saarland,49.3964,7.023,2823.0,2592.0,174.0,2020-07-15
 572871,Germany,Sachsen,51.1045,13.2017,5478.0,5220.0,225.0,2020-07-15
 572872,Germany,Sachsen-Anhalt,51.9503,11.6923,1931.0,1815.0,62.0,2020-07-15
-572874,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-15
 572876,France,Saint Pierre and Miquelon,46.8852,-56.3159,2.0,1.0,0.0,2020-07-15
 572888,Italy,Sardegna,39.21531192,9.110616306,1376.0,1230.0,134.0,2020-07-15
 572890,Germany,Schleswig-Holstein,54.2194,9.6961,3235.0,3000.0,154.0,2020-07-15
@@ -15224,7 +15090,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 576696,Germany,Saarland,49.3964,7.023,2824.0,2593.0,174.0,2020-07-16
 576697,Germany,Sachsen,51.1045,13.2017,5484.0,5225.0,225.0,2020-07-16
 576698,Germany,Sachsen-Anhalt,51.9503,11.6923,1938.0,1818.0,62.0,2020-07-16
-576700,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-16
 576702,France,Saint Pierre and Miquelon,46.8852,-56.3159,2.0,1.0,0.0,2020-07-16
 576714,Italy,Sardegna,39.21531192,9.110616306,1377.0,1232.0,134.0,2020-07-16
 576716,Germany,Schleswig-Holstein,54.2194,9.6961,3238.0,3000.0,154.0,2020-07-16
@@ -15408,7 +15273,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 580531,Germany,Saarland,49.3964,7.023,2827.0,2593.0,174.0,2020-07-17
 580532,Germany,Sachsen,51.1045,13.2017,5485.0,5225.0,225.0,2020-07-17
 580533,Germany,Sachsen-Anhalt,51.9503,11.6923,1941.0,1820.0,62.0,2020-07-17
-580535,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-17
 580537,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-17
 580549,Italy,Sardegna,39.21531192,9.110616306,1377.0,1233.0,134.0,2020-07-17
 580551,Germany,Schleswig-Holstein,54.2194,9.6961,3251.0,3000.0,154.0,2020-07-17
@@ -15595,7 +15459,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 584451,Germany,Saarland,49.3964,7.023,2828.0,2594.0,174.0,2020-07-18
 584452,Germany,Sachsen,51.1045,13.2017,5488.0,5225.0,225.0,2020-07-18
 584453,Germany,Sachsen-Anhalt,51.9503,11.6923,1941.0,1820.0,62.0,2020-07-18
-584455,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-18
 584457,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-18
 584469,Italy,Sardegna,39.21531192,9.110616306,1378.0,1233.0,134.0,2020-07-18
 584471,Germany,Schleswig-Holstein,54.2194,9.6961,3253.0,3000.0,154.0,2020-07-18
@@ -15782,7 +15645,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 588371,Germany,Saarland,49.3964,7.023,2828.0,2594.0,174.0,2020-07-19
 588372,Germany,Sachsen,51.1045,13.2017,5488.0,5225.0,225.0,2020-07-19
 588373,Germany,Sachsen-Anhalt,51.9503,11.6923,1946.0,1820.0,62.0,2020-07-19
-588375,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-19
 588377,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-19
 588389,Italy,Sardegna,39.21531192,9.110616306,1379.0,1233.0,134.0,2020-07-19
 588391,Germany,Schleswig-Holstein,54.2194,9.6961,3261.0,3000.0,155.0,2020-07-19
@@ -15969,7 +15831,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 592206,Germany,Saarland,49.3964,7.023,2830.0,2596.0,174.0,2020-07-20
 592207,Germany,Sachsen,51.1045,13.2017,5496.0,5235.0,225.0,2020-07-20
 592208,Germany,Sachsen-Anhalt,51.9503,11.6923,1958.0,1850.0,62.0,2020-07-20
-592210,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-20
 592212,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-20
 592224,Italy,Sardegna,39.21531192,9.110616306,1379.0,1233.0,134.0,2020-07-20
 592226,Germany,Schleswig-Holstein,54.2194,9.6961,3271.0,3050.0,155.0,2020-07-20
@@ -16156,7 +16017,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 596220,Germany,Saarland,49.3964,7.023,2832.0,2602.0,174.0,2020-07-21
 596221,Germany,Sachsen,51.1045,13.2017,5501.0,5235.0,225.0,2020-07-21
 596222,Germany,Sachsen-Anhalt,51.9503,11.6923,1963.0,1850.0,62.0,2020-07-21
-596224,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-21
 596226,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-21
 596238,Italy,Sardegna,39.21531192,9.110616306,1379.0,1233.0,134.0,2020-07-21
 596240,Germany,Schleswig-Holstein,54.2194,9.6961,3278.0,3050.0,155.0,2020-07-21
@@ -16343,7 +16203,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 600147,Germany,Saarland,49.3964,7.023,2835.0,2605.0,174.0,2020-07-22
 600148,Germany,Sachsen,51.1045,13.2017,5503.0,5235.0,225.0,2020-07-22
 600149,Germany,Sachsen-Anhalt,51.9503,11.6923,1975.0,1850.0,62.0,2020-07-22
-600151,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-22
 600153,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-22
 600165,Italy,Sardegna,39.21531192,9.110616306,1380.0,1234.0,134.0,2020-07-22
 600167,Germany,Schleswig-Holstein,54.2194,9.6961,3292.0,3050.0,155.0,2020-07-22
@@ -16530,7 +16389,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 604054,Germany,Saarland,49.3964,7.023,2840.0,2606.0,174.0,2020-07-23
 604055,Germany,Sachsen,51.1045,13.2017,5503.0,5240.0,225.0,2020-07-23
 604056,Germany,Sachsen-Anhalt,51.9503,11.6923,1977.0,1850.0,63.0,2020-07-23
-604058,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-23
 604060,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-23
 604071,Italy,Sardegna,39.21531192,9.110616306,1382.0,1234.0,134.0,2020-07-23
 604073,Germany,Schleswig-Holstein,54.2194,9.6961,3299.0,3100.0,155.0,2020-07-23
@@ -16717,7 +16575,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 608007,Germany,Saarland,49.3964,7.023,2841.0,2609.0,174.0,2020-07-24
 608008,Germany,Sachsen,51.1045,13.2017,5510.0,5240.0,225.0,2020-07-24
 608009,Germany,Sachsen-Anhalt,51.9503,11.6923,1981.0,1855.0,63.0,2020-07-24
-608011,France,Saint Barthelemy,17.9,-62.8333,6.0,6.0,0.0,2020-07-24
 608013,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-24
 608025,Italy,Sardegna,39.21531192,9.110616306,1385.0,1235.0,134.0,2020-07-24
 608027,Germany,Schleswig-Holstein,54.2194,9.6961,3311.0,3100.0,155.0,2020-07-24
@@ -16904,7 +16761,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 611939,Germany,Saarland,49.3964,7.023,2849.0,2609.0,174.0,2020-07-25
 611940,Germany,Sachsen,51.1045,13.2017,5512.0,5240.0,225.0,2020-07-25
 611941,Germany,Sachsen-Anhalt,51.9503,11.6923,1981.0,1855.0,63.0,2020-07-25
-611943,France,Saint Barthelemy,17.9,-62.8333,7.0,6.0,0.0,2020-07-25
 611945,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-25
 611957,Italy,Sardegna,39.21531192,9.110616306,1388.0,1235.0,134.0,2020-07-25
 611959,Germany,Schleswig-Holstein,54.2194,9.6961,3318.0,3100.0,155.0,2020-07-25
@@ -17091,7 +16947,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 615872,Germany,Saarland,49.3964,7.023,2850.0,2613.0,174.0,2020-07-26
 615873,Germany,Sachsen,51.1045,13.2017,5512.0,5240.0,225.0,2020-07-26
 615874,Germany,Sachsen-Anhalt,51.9503,11.6923,1986.0,1855.0,63.0,2020-07-26
-615876,France,Saint Barthelemy,17.9,-62.8333,7.0,6.0,0.0,2020-07-26
 615878,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-26
 615890,Italy,Sardegna,39.21531192,9.110616306,1388.0,1235.0,134.0,2020-07-26
 615892,Germany,Schleswig-Holstein,54.2194,9.6961,3322.0,3100.0,155.0,2020-07-26
@@ -17278,7 +17133,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 619805,Germany,Saarland,49.3964,7.023,2851.0,2617.0,174.0,2020-07-27
 619806,Germany,Sachsen,51.1045,13.2017,5514.0,5245.0,225.0,2020-07-27
 619807,Germany,Sachsen-Anhalt,51.9503,11.6923,1993.0,1860.0,64.0,2020-07-27
-619809,France,Saint Barthelemy,17.9,-62.8333,7.0,6.0,0.0,2020-07-27
 619811,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-27
 619823,Italy,Sardegna,39.21531192,9.110616306,1386.0,1236.0,135.0,2020-07-27
 619825,Germany,Schleswig-Holstein,54.2194,9.6961,3341.0,3100.0,155.0,2020-07-27
@@ -17465,7 +17319,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 623739,Germany,Saarland,49.3964,7.023,2852.0,2617.0,174.0,2020-07-28
 623740,Germany,Sachsen,51.1045,13.2017,5522.0,5245.0,225.0,2020-07-28
 623741,Germany,Sachsen-Anhalt,51.9503,11.6923,1999.0,1861.0,64.0,2020-07-28
-623743,France,Saint Barthelemy,17.9,-62.8333,7.0,6.0,0.0,2020-07-28
 623745,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-28
 623757,Italy,Sardegna,39.21531192,9.110616306,1392.0,1237.0,134.0,2020-07-28
 623759,Germany,Schleswig-Holstein,54.2194,9.6961,3379.0,3100.0,156.0,2020-07-28
@@ -17652,7 +17505,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 627677,Germany,Saarland,49.3964,7.023,2857.0,2620.0,174.0,2020-07-29
 627678,Germany,Sachsen,51.1045,13.2017,5529.0,5245.0,225.0,2020-07-29
 627679,Germany,Sachsen-Anhalt,51.9503,11.6923,2011.0,1867.0,64.0,2020-07-29
-627681,France,Saint Barthelemy,17.9,-62.8333,7.0,6.0,0.0,2020-07-29
 627683,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-29
 627695,Italy,Sardegna,39.21531192,9.110616306,1394.0,1237.0,134.0,2020-07-29
 627697,Germany,Schleswig-Holstein,54.2194,9.6961,3401.0,3100.0,156.0,2020-07-29
@@ -17839,7 +17691,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 631614,Germany,Saarland,49.3964,7.023,2862.0,2625.0,174.0,2020-07-30
 631615,Germany,Sachsen,51.1045,13.2017,5533.0,5255.0,225.0,2020-07-30
 631616,Germany,Sachsen-Anhalt,51.9503,11.6923,2017.0,1872.0,64.0,2020-07-30
-631618,France,Saint Barthelemy,17.9,-62.8333,7.0,6.0,0.0,2020-07-30
 631620,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-30
 631632,Italy,Sardegna,39.21531192,9.110616306,1394.0,1237.0,134.0,2020-07-30
 631634,Germany,Schleswig-Holstein,54.2194,9.6961,3427.0,3100.0,156.0,2020-07-30
@@ -18026,7 +17877,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 635553,Germany,Saarland,49.3964,7.023,2862.0,2625.0,174.0,2020-07-31
 635554,Germany,Sachsen,51.1045,13.2017,5539.0,5260.0,225.0,2020-07-31
 635555,Germany,Sachsen-Anhalt,51.9503,11.6923,2024.0,1872.0,64.0,2020-07-31
-635557,France,Saint Barthelemy,17.9,-62.8333,8.0,6.0,0.0,2020-07-31
 635559,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-07-31
 635571,Italy,Sardegna,39.21531192,9.110616306,1404.0,1237.0,134.0,2020-07-31
 635573,Germany,Schleswig-Holstein,54.2194,9.6961,3451.0,3100.0,156.0,2020-07-31
@@ -18213,7 +18063,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 639490,Germany,Saarland,49.3964,7.023,2874.0,2626.0,174.0,2020-08-01
 639491,Germany,Sachsen,51.1045,13.2017,5541.0,5260.0,225.0,2020-08-01
 639492,Germany,Sachsen-Anhalt,51.9503,11.6923,2024.0,1872.0,64.0,2020-08-01
-639494,France,Saint Barthelemy,17.9,-62.8333,9.0,6.0,0.0,2020-08-01
 639496,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-01
 639508,Italy,Sardegna,39.21531192,9.110616306,1410.0,1237.0,134.0,2020-08-01
 639510,Germany,Schleswig-Holstein,54.2194,9.6961,3463.0,3100.0,156.0,2020-08-01
@@ -18400,7 +18249,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 643427,Germany,Saarland,49.3964,7.023,2879.0,2629.0,174.0,2020-08-02
 643428,Germany,Sachsen,51.1045,13.2017,5541.0,5260.0,225.0,2020-08-02
 643429,Germany,Sachsen-Anhalt,51.9503,11.6923,2030.0,1872.0,64.0,2020-08-02
-643431,France,Saint Barthelemy,17.9,-62.8333,9.0,6.0,0.0,2020-08-02
 643433,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-02
 643445,Italy,Sardegna,39.21531192,9.110616306,1414.0,1237.0,134.0,2020-08-02
 643447,Germany,Schleswig-Holstein,54.2194,9.6961,3463.0,3100.0,156.0,2020-08-02
@@ -18587,7 +18435,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 647364,Germany,Saarland,49.3964,7.023,2881.0,2632.0,174.0,2020-08-03
 647365,Germany,Sachsen,51.1045,13.2017,5543.0,5270.0,225.0,2020-08-03
 647366,Germany,Sachsen-Anhalt,51.9503,11.6923,2036.0,1892.0,64.0,2020-08-03
-647368,France,Saint Barthelemy,17.9,-62.8333,9.0,6.0,0.0,2020-08-03
 647370,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-03
 647382,Italy,Sardegna,39.21531192,9.110616306,1416.0,1238.0,134.0,2020-08-03
 647384,Germany,Schleswig-Holstein,54.2194,9.6961,3494.0,3129.0,156.0,2020-08-03
@@ -18774,7 +18621,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 651301,Germany,Saarland,49.3964,7.023,2886.0,2635.0,174.0,2020-08-04
 651302,Germany,Sachsen,51.1045,13.2017,5556.0,5275.0,225.0,2020-08-04
 651303,Germany,Sachsen-Anhalt,51.9503,11.6923,2038.0,1892.0,64.0,2020-08-04
-651305,France,Saint Barthelemy,17.9,-62.8333,9.0,6.0,0.0,2020-08-04
 651307,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-04
 651319,Italy,Sardegna,39.21531192,9.110616306,1418.0,1239.0,134.0,2020-08-04
 651321,Germany,Schleswig-Holstein,54.2194,9.6961,3516.0,3137.0,157.0,2020-08-04
@@ -18961,7 +18807,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 655242,Germany,Saarland,49.3964,7.023,2891.0,2643.0,174.0,2020-08-05
 655243,Germany,Sachsen,51.1045,13.2017,5568.0,5275.0,225.0,2020-08-05
 655244,Germany,Sachsen-Anhalt,51.9503,11.6923,2044.0,1892.0,64.0,2020-08-05
-655246,France,Saint Barthelemy,17.9,-62.8333,9.0,6.0,0.0,2020-08-05
 655248,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-05
 655260,Italy,Sardegna,39.21531192,9.110616306,1427.0,1240.0,134.0,2020-08-05
 655262,Germany,Schleswig-Holstein,54.2194,9.6961,3534.0,3145.0,158.0,2020-08-05
@@ -19148,7 +18993,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 659184,Germany,Saarland,49.3964,7.023,2897.0,2644.0,174.0,2020-08-06
 659185,Germany,Sachsen,51.1045,13.2017,5588.0,5280.0,225.0,2020-08-06
 659186,Germany,Sachsen-Anhalt,51.9503,11.6923,2050.0,1906.0,64.0,2020-08-06
-659188,France,Saint Barthelemy,17.9,-62.8333,9.0,6.0,0.0,2020-08-06
 659190,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-06
 659202,Italy,Sardegna,39.21531192,9.110616306,1430.0,1241.0,134.0,2020-08-06
 659204,Germany,Schleswig-Holstein,54.2194,9.6961,3569.0,3145.0,158.0,2020-08-06
@@ -19335,7 +19179,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 663126,Germany,Saarland,49.3964,7.023,2900.0,2651.0,174.0,2020-08-07
 663127,Germany,Sachsen,51.1045,13.2017,5624.0,5285.0,225.0,2020-08-07
 663128,Germany,Sachsen-Anhalt,51.9503,11.6923,2059.0,1913.0,64.0,2020-08-07
-663130,France,Saint Barthelemy,17.9,-62.8333,9.0,6.0,0.0,2020-08-07
 663132,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-07
 663144,Italy,Sardegna,39.21531192,9.110616306,1433.0,1241.0,134.0,2020-08-07
 663146,Germany,Schleswig-Holstein,54.2194,9.6961,3578.0,3200.0,158.0,2020-08-07
@@ -19522,7 +19365,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 667068,Germany,Saarland,49.3964,7.023,2913.0,2653.0,174.0,2020-08-08
 667069,Germany,Sachsen,51.1045,13.2017,5632.0,5285.0,225.0,2020-08-08
 667070,Germany,Sachsen-Anhalt,51.9503,11.6923,2059.0,1913.0,64.0,2020-08-08
-667072,France,Saint Barthelemy,17.9,-62.8333,9.0,6.0,0.0,2020-08-08
 667074,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-08
 667086,Italy,Sardegna,39.21531192,9.110616306,1433.0,1245.0,134.0,2020-08-08
 667088,Germany,Schleswig-Holstein,54.2194,9.6961,3586.0,3200.0,158.0,2020-08-08
@@ -19709,7 +19551,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 671010,Germany,Saarland,49.3964,7.023,2926.0,2694.0,174.0,2020-08-09
 671011,Germany,Sachsen,51.1045,13.2017,5632.0,5285.0,225.0,2020-08-09
 671012,Germany,Sachsen-Anhalt,51.9503,11.6923,2059.0,1913.0,64.0,2020-08-09
-671014,France,Saint Barthelemy,17.9,-62.8333,13.0,6.0,0.0,2020-08-09
 671016,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-09
 671028,Italy,Sardegna,39.21531192,9.110616306,1439.0,1245.0,134.0,2020-08-09
 671030,Germany,Schleswig-Holstein,54.2194,9.6961,3588.0,3200.0,158.0,2020-08-09
@@ -19896,7 +19737,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 674952,Germany,Saarland,49.3964,7.023,2930.0,2694.0,174.0,2020-08-10
 674953,Germany,Sachsen,51.1045,13.2017,5649.0,5290.0,225.0,2020-08-10
 674954,Germany,Sachsen-Anhalt,51.9503,11.6923,2070.0,1923.0,64.0,2020-08-10
-674956,France,Saint Barthelemy,17.9,-62.8333,13.0,6.0,0.0,2020-08-10
 674958,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-10
 674970,Italy,Sardegna,39.21531192,9.110616306,1441.0,1245.0,134.0,2020-08-10
 674972,Germany,Schleswig-Holstein,54.2194,9.6961,3620.0,3218.0,158.0,2020-08-10
@@ -19995,7 +19835,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 675456,France,Mayotte,-12.8275,45.166244,3091.0,2835.0,39.0,2020-08-11
 675457,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-11
 675458,France,Reunion,-21.1151,55.5364,702.0,631.0,5.0,2020-08-11
-675459,France,Saint Barthelemy,17.9,-62.8333,13.0,6.0,0.0,2020-08-11
 675460,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-11
 675461,France,St Martin,18.0708,-63.0501,84.0,44.0,4.0,2020-08-11
 675462,France,,46.2276,2.2137,230540.0,71454.0,30231.0,2020-08-11
@@ -20182,7 +20021,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 679400,France,Mayotte,-12.8275,45.166244,3091.0,2835.0,39.0,2020-08-12
 679401,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-12
 679402,France,Reunion,-21.1151,55.5364,734.0,631.0,5.0,2020-08-12
-679403,France,Saint Barthelemy,17.9,-62.8333,13.0,6.0,0.0,2020-08-12
 679404,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-12
 679405,France,St Martin,18.0708,-63.0501,84.0,44.0,4.0,2020-08-12
 679406,France,,46.2276,2.2137,232966.0,71906.0,30248.0,2020-08-12
@@ -20369,7 +20207,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 683344,France,Mayotte,-12.8275,45.166244,3119.0,2940.0,39.0,2020-08-13
 683345,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-13
 683346,France,Reunion,-21.1151,55.5364,754.0,631.0,5.0,2020-08-13
-683347,France,Saint Barthelemy,17.9,-62.8333,13.0,8.0,0.0,2020-08-13
 683348,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-13
 683349,France,St Martin,18.0708,-63.0501,92.0,45.0,4.0,2020-08-13
 683350,France,,46.2276,2.2137,235540.0,71730.0,30264.0,2020-08-13
@@ -20556,7 +20393,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 687290,France,Mayotte,-12.8275,45.166244,3119.0,2940.0,39.0,2020-08-14
 687291,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-14
 687292,France,Reunion,-21.1151,55.5364,776.0,657.0,5.0,2020-08-14
-687293,France,Saint Barthelemy,17.9,-62.8333,13.0,9.0,0.0,2020-08-14
 687294,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-14
 687295,France,St Martin,18.0708,-63.0501,109.0,49.0,4.0,2020-08-14
 687296,France,,46.2276,2.2137,238240.0,72023.0,30281.0,2020-08-14
@@ -20743,7 +20579,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 691236,France,Mayotte,-12.8275,45.166244,3119.0,2940.0,39.0,2020-08-15
 691237,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-15
 691238,France,Reunion,-21.1151,55.5364,816.0,657.0,5.0,2020-08-15
-691239,France,Saint Barthelemy,17.9,-62.8333,13.0,9.0,0.0,2020-08-15
 691240,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-15
 691241,France,St Martin,18.0708,-63.0501,109.0,49.0,4.0,2020-08-15
 691242,France,,46.2276,2.2137,241371.0,71971.0,30282.0,2020-08-15
@@ -20930,7 +20765,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 695182,France,Mayotte,-12.8275,45.166244,3119.0,2940.0,39.0,2020-08-16
 695183,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-16
 695184,France,Reunion,-21.1151,55.5364,855.0,657.0,5.0,2020-08-16
-695185,France,Saint Barthelemy,17.9,-62.8333,13.0,9.0,0.0,2020-08-16
 695186,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-16
 695187,France,St Martin,18.0708,-63.0501,109.0,49.0,4.0,2020-08-16
 695188,France,,46.2276,2.2137,244335.0,71971.0,30283.0,2020-08-16
@@ -21117,7 +20951,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 699128,France,Mayotte,-12.8275,45.166244,3160.0,2964.0,39.0,2020-08-17
 699129,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-17
 699130,France,Reunion,-21.1151,55.5364,880.0,657.0,5.0,2020-08-17
-699131,France,Saint Barthelemy,17.9,-62.8333,16.0,9.0,0.0,2020-08-17
 699132,France,Saint Pierre and Miquelon,46.8852,-56.3159,4.0,1.0,0.0,2020-08-17
 699133,France,St Martin,18.0708,-63.0501,121.0,49.0,5.0,2020-08-17
 699134,France,,46.2276,2.2137,244761.0,72072.0,30302.0,2020-08-17
@@ -21304,7 +21137,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 703076,France,Mayotte,-12.8275,45.166244,3160.0,2964.0,39.0,2020-08-18
 703077,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-18
 703078,France,Reunion,-21.1151,55.5364,903.0,657.0,5.0,2020-08-18
-703079,France,Saint Barthelemy,17.9,-62.8333,16.0,9.0,0.0,2020-08-18
 703080,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-18
 703081,France,St Martin,18.0708,-63.0501,121.0,49.0,5.0,2020-08-18
 703082,France,,46.2276,2.2137,246821.0,72003.0,30323.0,2020-08-18
@@ -21491,7 +21323,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 707024,France,Mayotte,-12.8275,45.166244,3160.0,2964.0,39.0,2020-08-19
 707025,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-19
 707026,France,Reunion,-21.1151,55.5364,903.0,657.0,5.0,2020-08-19
-707027,France,Saint Barthelemy,17.9,-62.8333,16.0,9.0,0.0,2020-08-19
 707028,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-19
 707029,France,St Martin,18.0708,-63.0501,121.0,49.0,5.0,2020-08-19
 707030,France,,46.2276,2.2137,250539.0,71945.0,30340.0,2020-08-19
@@ -21678,7 +21509,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 710974,France,Mayotte,-12.8275,45.166244,3160.0,2964.0,39.0,2020-08-20
 710975,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-20
 710976,France,Reunion,-21.1151,55.5364,996.0,657.0,5.0,2020-08-20
-710977,France,Saint Barthelemy,17.9,-62.8333,16.0,9.0,0.0,2020-08-20
 710978,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-20
 710979,France,St Martin,18.0708,-63.0501,121.0,49.0,5.0,2020-08-20
 710980,France,,46.2276,2.2137,255214.0,71868.0,30351.0,2020-08-20
@@ -21865,7 +21695,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 714924,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-21
 714925,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-21
 714926,France,Reunion,-21.1151,55.5364,1075.0,692.0,5.0,2020-08-21
-714927,France,Saint Barthelemy,17.9,-62.8333,16.0,9.0,0.0,2020-08-21
 714928,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-21
 714929,France,St Martin,18.0708,-63.0501,176.0,52.0,5.0,2020-08-21
 714930,France,,46.2276,2.2137,259717.0,72535.0,30374.0,2020-08-21
@@ -22052,7 +21881,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 718874,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-22
 718875,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-22
 718876,France,Reunion,-21.1151,55.5364,1117.0,692.0,6.0,2020-08-22
-718877,France,Saint Barthelemy,17.9,-62.8333,16.0,9.0,0.0,2020-08-22
 718878,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-22
 718879,France,St Martin,18.0708,-63.0501,176.0,52.0,5.0,2020-08-22
 718880,France,,46.2276,2.2137,263129.0,72600.0,30382.0,2020-08-22
@@ -22239,7 +22067,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 722825,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-23
 722826,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-23
 722827,France,Reunion,-21.1151,55.5364,1209.0,692.0,6.0,2020-08-23
-722828,France,Saint Barthelemy,17.9,-62.8333,16.0,9.0,0.0,2020-08-23
 722829,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-23
 722830,France,St Martin,18.0708,-63.0501,176.0,52.0,5.0,2020-08-23
 722831,France,,46.2276,2.2137,267589.0,72623.0,30382.0,2020-08-23
@@ -22426,7 +22253,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 726776,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-24
 726777,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-24
 726778,France,Reunion,-21.1151,55.5364,1244.0,692.0,6.0,2020-08-24
-726779,France,Saint Barthelemy,17.9,-62.8333,16.0,9.0,0.0,2020-08-24
 726780,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-24
 726781,France,St Martin,18.0708,-63.0501,176.0,52.0,5.0,2020-08-24
 726782,France,,46.2276,2.2137,269452.0,72793.0,30397.0,2020-08-24
@@ -22613,7 +22439,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 730727,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-25
 730728,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-25
 730729,France,Reunion,-21.1151,55.5364,1292.0,692.0,6.0,2020-08-25
-730730,France,Saint Barthelemy,17.9,-62.8333,17.0,9.0,0.0,2020-08-25
 730731,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-25
 730732,France,St Martin,18.0708,-63.0501,198.0,52.0,5.0,2020-08-25
 730733,France,,46.2276,2.2137,272643.0,73082.0,30416.0,2020-08-25
@@ -22800,7 +22625,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 734678,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-26
 734679,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-26
 734680,France,Reunion,-21.1151,55.5364,1372.0,692.0,6.0,2020-08-26
-734681,France,Saint Barthelemy,17.9,-62.8333,17.0,9.0,0.0,2020-08-26
 734682,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-26
 734683,France,St Martin,18.0708,-63.0501,198.0,52.0,5.0,2020-08-26
 734684,France,,46.2276,2.2137,272643.0,73020.0,30416.0,2020-08-26
@@ -22987,7 +22811,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 738629,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-27
 738630,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-27
 738631,France,Reunion,-21.1151,55.5364,1410.0,692.0,6.0,2020-08-27
-738632,France,Saint Barthelemy,17.9,-62.8333,17.0,9.0,0.0,2020-08-27
 738633,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-27
 738634,France,St Martin,18.0708,-63.0501,198.0,52.0,5.0,2020-08-27
 738635,France,,46.2276,2.2137,283698.0,73433.0,30448.0,2020-08-27
@@ -23174,7 +22997,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 742580,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-28
 742581,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-28
 742582,France,Reunion,-21.1151,55.5364,1487.0,692.0,6.0,2020-08-28
-742583,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-08-28
 742584,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-28
 742585,France,St Martin,18.0708,-63.0501,213.0,79.0,5.0,2020-08-28
 742586,France,,46.2276,2.2137,290929.0,73501.0,30465.0,2020-08-28
@@ -23361,7 +23183,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 746531,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-29
 746532,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-29
 746533,France,Reunion,-21.1151,55.5364,1557.0,880.0,6.0,2020-08-29
-746534,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-08-29
 746535,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-29
 746536,France,St Martin,18.0708,-63.0501,213.0,79.0,5.0,2020-08-29
 746537,France,,46.2276,2.2137,296265.0,73279.0,30471.0,2020-08-29
@@ -23548,7 +23369,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 750482,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-30
 750483,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-30
 750484,France,Reunion,-21.1151,55.5364,1634.0,880.0,6.0,2020-08-30
-750485,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-08-30
 750486,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-30
 750487,France,St Martin,18.0708,-63.0501,213.0,79.0,5.0,2020-08-30
 750488,France,,46.2276,2.2137,301554.0,73279.0,30474.0,2020-08-30
@@ -23735,7 +23555,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 754433,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-31
 754434,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-31
 754435,France,Reunion,-21.1151,55.5364,1679.0,880.0,9.0,2020-08-31
-754436,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-08-31
 754437,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,1.0,0.0,2020-08-31
 754438,France,St Martin,18.0708,-63.0501,213.0,79.0,5.0,2020-08-31
 754439,France,,46.2276,2.2137,304349.0,73537.0,30501.0,2020-08-31
@@ -23922,7 +23741,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 758388,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-09-01
 758389,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-09-01
 758390,France,Reunion,-21.1151,55.5364,1714.0,880.0,9.0,2020-09-01
-758391,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-09-01
 758392,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,4.0,0.0,2020-09-01
 758393,France,St Martin,18.0708,-63.0501,213.0,79.0,5.0,2020-09-01
 758394,France,,46.2276,2.2137,309247.0,73727.0,30525.0,2020-09-01
@@ -24109,7 +23927,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 762343,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-09-02
 762344,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-09-02
 762345,France,Reunion,-21.1151,55.5364,1796.0,880.0,10.0,2020-09-02
-762346,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-09-02
 762347,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,4.0,0.0,2020-09-02
 762348,France,St Martin,18.0708,-63.0501,239.0,79.0,6.0,2020-09-02
 762349,France,,46.2276,2.2137,316047.0,73946.0,30547.0,2020-09-02
@@ -24296,7 +24113,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 766298,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-03
 766299,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-03
 766300,France,Reunion,-21.1151,55.5364,1912.0,880.0,10.0,2020-09-03
-766301,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-09-03
 766302,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,4.0,0.0,2020-09-03
 766303,France,St Martin,18.0708,-63.0501,239.0,79.0,6.0,2020-09-03
 766304,France,,46.2276,2.2137,322935.0,74156.0,30564.0,2020-09-03
@@ -24483,7 +24299,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 770253,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-04
 770254,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-04
 770255,France,Reunion,-21.1151,55.5364,2002.0,880.0,10.0,2020-09-04
-770256,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-09-04
 770257,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,5.0,0.0,2020-09-04
 770258,France,St Martin,18.0708,-63.0501,239.0,79.0,6.0,2020-09-04
 770259,France,,46.2276,2.2137,331578.0,74377.0,30542.0,2020-09-04
@@ -24670,7 +24485,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 774208,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-05
 774209,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-05
 774210,France,Reunion,-21.1151,55.5364,2115.0,1313.0,11.0,2020-09-05
-774211,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-09-05
 774212,France,Saint Pierre and Miquelon,46.8852,-56.3159,5.0,5.0,0.0,2020-09-05
 774213,France,St Martin,18.0708,-63.0501,239.0,79.0,6.0,2020-09-05
 774214,France,,46.2276,2.2137,340013.0,73866.0,30553.0,2020-09-05
@@ -24857,7 +24671,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 778163,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-06
 778164,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-06
 778165,France,Reunion,-21.1151,55.5364,2222.0,1313.0,13.0,2020-09-06
-778166,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-09-06
 778167,France,Saint Pierre and Miquelon,46.8852,-56.3159,6.0,5.0,0.0,2020-09-06
 778168,France,St Martin,18.0708,-63.0501,239.0,79.0,6.0,2020-09-06
 778169,France,,46.2276,2.2137,346921.0,73866.0,30555.0,2020-09-06
@@ -25044,7 +24857,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 782118,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-07
 782119,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-07
 782120,France,Reunion,-21.1151,55.5364,2277.0,1313.0,13.0,2020-09-07
-782121,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-09-07
 782122,France,Saint Pierre and Miquelon,46.8852,-56.3159,9.0,5.0,0.0,2020-09-07
 782123,France,St Martin,18.0708,-63.0501,239.0,79.0,6.0,2020-09-07
 782124,France,,46.2276,2.2137,351017.0,74223.0,30578.0,2020-09-07
@@ -25231,7 +25043,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 786073,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-08
 786074,France,New Caledonia,-20.904305,165.618042,26.0,25.0,0.0,2020-09-08
 786075,France,Reunion,-21.1151,55.5364,2346.0,1313.0,13.0,2020-09-08
-786076,France,Saint Barthelemy,17.9,-62.8333,18.0,13.0,0.0,2020-09-08
 786077,France,Saint Pierre and Miquelon,46.8852,-56.3159,9.0,5.0,0.0,2020-09-08
 786078,France,St Martin,18.0708,-63.0501,239.0,79.0,6.0,2020-09-08
 786079,France,,46.2276,2.2137,357473.0,74569.0,30616.0,2020-09-08
@@ -25418,7 +25229,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 790028,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-09
 790029,France,New Caledonia,-20.904305,165.618042,26.0,25.0,0.0,2020-09-09
 790030,France,Reunion,-21.1151,55.5364,2416.0,1313.0,13.0,2020-09-09
-790031,France,Saint Barthelemy,17.9,-62.8333,21.0,13.0,0.0,2020-09-09
 790032,France,Saint Pierre and Miquelon,46.8852,-56.3159,9.0,5.0,0.0,2020-09-09
 790033,France,St Martin,18.0708,-63.0501,256.0,107.0,6.0,2020-09-09
 790034,France,,46.2276,2.2137,365025.0,74867.0,30643.0,2020-09-09
@@ -25605,7 +25415,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 793983,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-10
 793984,France,New Caledonia,-20.904305,165.618042,26.0,25.0,0.0,2020-09-10
 793985,France,Reunion,-21.1151,55.5364,2510.0,1313.0,13.0,2020-09-10
-793986,France,Saint Barthelemy,17.9,-62.8333,21.0,13.0,0.0,2020-09-10
 793987,France,Saint Pierre and Miquelon,46.8852,-56.3159,10.0,5.0,0.0,2020-09-10
 793988,France,St Martin,18.0708,-63.0501,256.0,107.0,6.0,2020-09-10
 793989,France,,46.2276,2.2137,374586.0,74991.0,30661.0,2020-09-10
@@ -25792,7 +25601,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 797938,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-11
 797939,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-11
 797940,France,Reunion,-21.1151,55.5364,2623.0,1313.0,14.0,2020-09-11
-797941,France,Saint Barthelemy,17.9,-62.8333,21.0,13.0,0.0,2020-09-11
 797942,France,Saint Pierre and Miquelon,46.8852,-56.3159,10.0,5.0,0.0,2020-09-11
 797943,France,St Martin,18.0708,-63.0501,256.0,107.0,6.0,2020-09-11
 797944,France,,46.2276,2.2137,383854.0,75308.0,30740.0,2020-09-11
@@ -25979,7 +25787,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 801893,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-12
 801894,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-12
 801895,France,Reunion,-21.1151,55.5364,2723.0,1313.0,14.0,2020-09-12
-801896,France,Saint Barthelemy,17.9,-62.8333,21.0,13.0,0.0,2020-09-12
 801897,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-12
 801898,France,St Martin,18.0708,-63.0501,256.0,107.0,6.0,2020-09-12
 801899,France,,46.2276,2.2137,394270.0,75308.0,30757.0,2020-09-12
@@ -26166,7 +25973,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 805848,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-13
 805849,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-13
 805850,France,Reunion,-21.1151,55.5364,2805.0,1313.0,15.0,2020-09-13
-805851,France,Saint Barthelemy,17.9,-62.8333,21.0,13.0,0.0,2020-09-13
 805852,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-13
 805853,France,St Martin,18.0708,-63.0501,256.0,107.0,6.0,2020-09-13
 805854,France,,46.2276,2.2137,400533.0,75308.0,30761.0,2020-09-13
@@ -26353,7 +26159,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 809803,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-14
 809804,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-14
 809805,France,Reunion,-21.1151,55.5364,2872.0,1313.0,15.0,2020-09-14
-809806,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-14
 809807,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-14
 809808,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-14
 809809,France,,46.2276,2.2137,406609.0,75139.0,30795.0,2020-09-14
@@ -26540,7 +26345,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 813758,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-15
 813759,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-15
 813760,France,Reunion,-21.1151,55.5364,2902.0,1313.0,15.0,2020-09-15
-813761,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-15
 813762,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-15
 813763,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-15
 813764,France,,46.2276,2.2137,414196.0,75477.0,30844.0,2020-09-15
@@ -26727,7 +26531,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 817713,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-16
 817714,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-16
 817715,France,Reunion,-21.1151,55.5364,3002.0,1313.0,15.0,2020-09-16
-817716,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-16
 817717,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-16
 817718,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-16
 817719,France,,46.2276,2.2137,423924.0,75921.0,30889.0,2020-09-16
@@ -26914,7 +26717,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 821668,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-17
 821669,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-17
 821670,France,Reunion,-21.1151,55.5364,3099.0,1794.0,15.0,2020-09-17
-821671,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-17
 821672,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-17
 821673,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-17
 821674,France,,46.2276,2.2137,433871.0,75880.0,30936.0,2020-09-17
@@ -27101,7 +26903,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 825623,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-18
 825624,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-18
 825625,France,Reunion,-21.1151,55.5364,3194.0,1794.0,15.0,2020-09-18
-825626,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-18
 825627,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-18
 825628,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-18
 825629,France,,46.2276,2.2137,446961.0,76583.0,31090.0,2020-09-18
@@ -27288,7 +27089,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 829578,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-19
 829579,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-19
 829580,France,Reunion,-21.1151,55.5364,3194.0,2482.0,15.0,2020-09-19
-829581,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-19
 829582,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-19
 829583,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-19
 829584,France,,46.2276,2.2137,460328.0,76583.0,31115.0,2020-09-19
@@ -27475,7 +27275,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 833533,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-20
 833534,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-20
 833535,France,Reunion,-21.1151,55.5364,3194.0,2482.0,15.0,2020-09-20
-833536,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-20
 833537,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-20
 833538,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-20
 833539,France,,46.2276,2.2137,470864.0,76583.0,31126.0,2020-09-20
@@ -27662,7 +27461,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 837489,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-21
 837490,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-21
 837491,France,Reunion,-21.1151,55.5364,3415.0,2482.0,15.0,2020-09-21
-837492,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-21
 837493,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-21
 837494,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-21
 837495,France,,46.2276,2.2137,476162.0,77254.0,31179.0,2020-09-21
@@ -27849,7 +27647,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 841446,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-22
 841447,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-22
 841448,France,Reunion,-21.1151,55.5364,3415.0,2482.0,15.0,2020-09-22
-841449,France,Saint Barthelemy,17.9,-62.8333,23.0,16.0,0.0,2020-09-22
 841450,France,Saint Pierre and Miquelon,46.8852,-56.3159,11.0,5.0,0.0,2020-09-22
 841451,France,St Martin,18.0708,-63.0501,330.0,206.0,6.0,2020-09-22
 841452,France,,46.2276,2.2137,485929.0,77757.0,31256.0,2020-09-22
@@ -28036,7 +27833,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 845403,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-23
 845404,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-23
 845405,France,Reunion,-21.1151,55.5364,3501.0,2482.0,15.0,2020-09-23
-845406,France,Saint Barthelemy,17.9,-62.8333,45.0,25.0,0.0,2020-09-23
 845407,France,Saint Pierre and Miquelon,46.8852,-56.3159,12.0,6.0,0.0,2020-09-23
 845408,France,St Martin,18.0708,-63.0501,367.0,273.0,8.0,2020-09-23
 845409,France,,46.2276,2.2137,497914.0,77757.0,31283.0,2020-09-23
@@ -28223,7 +28019,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 849360,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-24
 849361,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-24
 849362,France,Reunion,-21.1151,55.5364,3501.0,2482.0,11.0,2020-09-24
-849363,France,Saint Barthelemy,17.9,-62.8333,45.0,25.0,0.0,2020-09-24
 849364,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-09-24
 849365,France,St Martin,18.0708,-63.0501,367.0,273.0,8.0,2020-09-24
 849366,France,,46.2276,2.2137,513732.0,77214.0,31333.0,2020-09-24
@@ -28410,7 +28205,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 853317,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-25
 853318,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-25
 853319,France,Reunion,-21.1151,55.5364,3685.0,2819.0,11.0,2020-09-25
-853320,France,Saint Barthelemy,17.9,-62.8333,45.0,25.0,0.0,2020-09-25
 853321,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-09-25
 853322,France,St Martin,18.0708,-63.0501,367.0,273.0,8.0,2020-09-25
 853323,France,,46.2276,2.2137,529501.0,77692.0,31483.0,2020-09-25
@@ -28597,7 +28391,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 857274,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-26
 857275,France,New Caledonia,-20.904305,165.618042,27.0,26.0,0.0,2020-09-26
 857276,France,Reunion,-21.1151,55.5364,3685.0,2819.0,11.0,2020-09-26
-857277,France,Saint Barthelemy,17.9,-62.8333,45.0,25.0,0.0,2020-09-26
 857278,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-09-26
 857279,France,St Martin,18.0708,-63.0501,367.0,273.0,8.0,2020-09-26
 857280,France,,46.2276,2.2137,543688.0,77692.0,31522.0,2020-09-26
@@ -28784,7 +28577,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 861231,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-27
 861232,France,New Caledonia,-20.904305,165.618042,27.0,26.0,0.0,2020-09-27
 861233,France,Reunion,-21.1151,55.5364,3685.0,2819.0,11.0,2020-09-27
-861234,France,Saint Barthelemy,17.9,-62.8333,48.0,25.0,0.0,2020-09-27
 861235,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-09-27
 861236,France,St Martin,18.0708,-63.0501,383.0,273.0,8.0,2020-09-27
 861237,France,,46.2276,2.2137,554304.0,77692.0,31549.0,2020-09-27
@@ -28971,7 +28763,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 865188,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-28
 865189,France,New Caledonia,-20.904305,165.618042,27.0,26.0,0.0,2020-09-28
 865190,France,Reunion,-21.1151,55.5364,3882.0,2819.0,14.0,2020-09-28
-865191,France,Saint Barthelemy,17.9,-62.8333,48.0,25.0,0.0,2020-09-28
 865192,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-09-28
 865193,France,St Martin,18.0708,-63.0501,383.0,273.0,8.0,2020-09-28
 865194,France,,46.2276,2.2137,558374.0,77846.0,31630.0,2020-09-28
@@ -29158,7 +28949,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 869145,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-29
 869146,France,New Caledonia,-20.904305,165.618042,27.0,26.0,0.0,2020-09-29
 869147,France,Reunion,-21.1151,55.5364,3882.0,2819.0,14.0,2020-09-29
-869148,France,Saint Barthelemy,17.9,-62.8333,48.0,25.0,0.0,2020-09-29
 869149,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-09-29
 869150,France,St Martin,18.0708,-63.0501,383.0,273.0,8.0,2020-09-29
 869151,France,,46.2276,2.2137,566196.0,78678.0,31701.0,2020-09-29
@@ -29345,7 +29135,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 873102,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-09-30
 873103,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-09-30
 873104,France,Reunion,-21.1151,55.5364,3993.0,2819.0,16.0,2020-09-30
-873105,France,Saint Barthelemy,17.9,-62.8333,48.0,25.0,0.0,2020-09-30
 873106,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-09-30
 873107,France,St Martin,18.0708,-63.0501,383.0,273.0,8.0,2020-09-30
 873108,France,,46.2276,2.2137,578769.0,79128.0,31761.0,2020-09-30
@@ -29532,7 +29321,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 877059,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-10-01
 877060,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-01
 877061,France,Reunion,-21.1151,55.5364,3993.0,2819.0,16.0,2020-10-01
-877062,France,Saint Barthelemy,17.9,-62.8333,54.0,37.0,0.0,2020-10-01
 877063,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-10-01
 877064,France,St Martin,18.0708,-63.0501,403.0,309.0,8.0,2020-10-01
 877065,France,,46.2276,2.2137,591783.0,79578.0,31817.0,2020-10-01
@@ -29719,7 +29507,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 881016,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-10-02
 881017,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-02
 881018,France,Reunion,-21.1151,55.5364,4178.0,3360.0,16.0,2020-10-02
-881019,France,Saint Barthelemy,17.9,-62.8333,54.0,37.0,0.0,2020-10-02
 881020,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-10-02
 881021,France,St Martin,18.0708,-63.0501,403.0,309.0,8.0,2020-10-02
 881022,France,,46.2276,2.2137,603920.0,80061.0,31952.0,2020-10-02
@@ -29906,7 +29693,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 884973,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-10-03
 884974,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-03
 884975,France,Reunion,-21.1151,55.5364,4178.0,3360.0,16.0,2020-10-03
-884976,France,Saint Barthelemy,17.9,-62.8333,62.0,37.0,0.0,2020-10-03
 884977,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-10-03
 884978,France,St Martin,18.0708,-63.0501,412.0,309.0,8.0,2020-10-03
 884979,France,,46.2276,2.2137,620330.0,80061.0,31977.0,2020-10-03
@@ -30093,7 +29879,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 888930,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-10-04
 888931,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-04
 888932,France,Reunion,-21.1151,55.5364,4178.0,3360.0,16.0,2020-10-04
-888933,France,Saint Barthelemy,17.9,-62.8333,62.0,37.0,0.0,2020-10-04
 888934,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-10-04
 888935,France,St Martin,18.0708,-63.0501,412.0,309.0,8.0,2020-10-04
 888936,France,,46.2276,2.2137,632834.0,80061.0,32009.0,2020-10-04
@@ -30280,7 +30065,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 892887,France,Mayotte,-12.8275,45.166244,3892.0,2964.0,42.0,2020-10-05
 892888,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-05
 892889,France,Reunion,-21.1151,55.5364,4328.0,3360.0,16.0,2020-10-05
-892890,France,Saint Barthelemy,17.9,-62.8333,62.0,37.0,0.0,2020-10-05
 892891,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-10-05
 892892,France,St Martin,18.0708,-63.0501,412.0,309.0,8.0,2020-10-05
 892893,France,,46.2276,2.2137,637918.0,80394.0,32078.0,2020-10-05
@@ -30467,7 +30251,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 896844,France,Mayotte,-12.8275,45.166244,3892.0,2964.0,42.0,2020-10-06
 896845,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-06
 896846,France,Reunion,-21.1151,55.5364,4328.0,3360.0,16.0,2020-10-06
-896847,France,Saint Barthelemy,17.9,-62.8333,62.0,37.0,0.0,2020-10-06
 896848,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-10-06
 896849,France,St Martin,18.0708,-63.0501,412.0,309.0,8.0,2020-10-06
 896850,France,,46.2276,2.2137,648116.0,80933.0,32143.0,2020-10-06
@@ -30654,7 +30437,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 900801,France,Mayotte,-12.8275,45.166244,3892.0,2964.0,42.0,2020-10-07
 900802,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-07
 900803,France,Reunion,-21.1151,55.5364,4385.0,3360.0,16.0,2020-10-07
-900804,France,Saint Barthelemy,17.9,-62.8333,62.0,37.0,0.0,2020-10-07
 900805,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-10-07
 900806,France,St Martin,18.0708,-63.0501,412.0,309.0,8.0,2020-10-07
 900807,France,,46.2276,2.2137,666849.0,81431.0,32222.0,2020-10-07
@@ -30841,7 +30623,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 904758,France,Mayotte,-12.8275,45.166244,3892.0,2964.0,42.0,2020-10-08
 904759,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-08
 904760,France,Reunion,-21.1151,55.5364,4385.0,3360.0,16.0,2020-10-08
-904761,France,Saint Barthelemy,17.9,-62.8333,62.0,37.0,0.0,2020-10-08
 904762,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,6.0,0.0,2020-10-08
 904763,France,St Martin,18.0708,-63.0501,412.0,309.0,8.0,2020-10-08
 904764,France,,46.2276,2.2137,684164.0,81886.0,32295.0,2020-10-08
@@ -31028,7 +30809,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 908715,France,Mayotte,-12.8275,45.166244,3989.0,2964.0,43.0,2020-10-09
 908716,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-09
 908717,France,Reunion,-21.1151,55.5364,4491.0,3994.0,16.0,2020-10-09
-908718,France,Saint Barthelemy,17.9,-62.8333,65.0,37.0,0.0,2020-10-09
 908719,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-09
 908720,France,St Martin,18.0708,-63.0501,466.0,309.0,8.0,2020-10-09
 908721,France,,46.2276,2.2137,704478.0,81763.0,32404.0,2020-10-09
@@ -31215,7 +30995,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 912672,France,Mayotte,-12.8275,45.166244,3989.0,2964.0,43.0,2020-10-10
 912673,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-10
 912674,France,Reunion,-21.1151,55.5364,4491.0,3994.0,16.0,2020-10-10
-912675,France,Saint Barthelemy,17.9,-62.8333,65.0,37.0,0.0,2020-10-10
 912676,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-10
 912677,France,St Martin,18.0708,-63.0501,466.0,309.0,8.0,2020-10-10
 912678,France,,46.2276,2.2137,731155.0,81739.0,32439.0,2020-10-10
@@ -31402,7 +31181,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 916629,France,Mayotte,-12.8275,45.166244,3989.0,2964.0,43.0,2020-10-11
 916630,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-11
 916631,France,Reunion,-21.1151,55.5364,4491.0,3994.0,16.0,2020-10-11
-916632,France,Saint Barthelemy,17.9,-62.8333,65.0,37.0,0.0,2020-10-11
 916633,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-11
 916634,France,St Martin,18.0708,-63.0501,466.0,309.0,8.0,2020-10-11
 916635,France,,46.2276,2.2137,747092.0,81739.0,32485.0,2020-10-11
@@ -31589,7 +31367,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 920586,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-12
 920587,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-12
 920588,France,Reunion,-21.1151,55.5364,4624.0,3994.0,17.0,2020-10-12
-920589,France,Saint Barthelemy,17.9,-62.8333,65.0,37.0,0.0,2020-10-12
 920590,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-12
 920591,France,St Martin,18.0708,-63.0501,466.0,309.0,8.0,2020-10-12
 920592,France,,46.2276,2.2137,755597.0,82402.0,32580.0,2020-10-12
@@ -31776,7 +31553,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 924544,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-13
 924545,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-13
 924546,France,Reunion,-21.1151,55.5364,4624.0,3994.0,17.0,2020-10-13
-924547,France,Saint Barthelemy,17.9,-62.8333,65.0,37.0,0.0,2020-10-13
 924548,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-13
 924549,France,St Martin,18.0708,-63.0501,466.0,309.0,8.0,2020-10-13
 924550,France,,46.2276,2.2137,768380.0,83544.0,32687.0,2020-10-13
@@ -31963,7 +31739,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 928502,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-14
 928503,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-14
 928504,France,Reunion,-21.1151,55.5364,4678.0,3994.0,17.0,2020-10-14
-928505,France,Saint Barthelemy,17.9,-62.8333,67.0,55.0,0.0,2020-10-14
 928506,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-14
 928507,France,St Martin,18.0708,-63.0501,501.0,380.0,8.0,2020-10-14
 928508,France,,46.2276,2.2137,790959.0,84266.0,32791.0,2020-10-14
@@ -32150,7 +31925,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 932460,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-15
 932461,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-15
 932462,France,Reunion,-21.1151,55.5364,4678.0,3994.0,17.0,2020-10-15
-932463,France,Saint Barthelemy,17.9,-62.8333,67.0,55.0,0.0,2020-10-15
 932464,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-15
 932465,France,St Martin,18.0708,-63.0501,501.0,380.0,8.0,2020-10-15
 932466,France,,46.2276,2.2137,820685.0,84933.0,32876.0,2020-10-15
@@ -32337,7 +32111,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 936418,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-16
 936419,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-16
 936420,France,Reunion,-21.1151,55.5364,4776.0,4445.0,17.0,2020-10-16
-936421,France,Saint Barthelemy,17.9,-62.8333,72.0,55.0,0.0,2020-10-16
 936422,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-16
 936423,France,St Martin,18.0708,-63.0501,531.0,380.0,8.0,2020-10-16
 936424,France,,46.2276,2.2137,845740.0,85035.0,33054.0,2020-10-16
@@ -32524,7 +32297,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 940377,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-17
 940378,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-17
 940379,France,Reunion,-21.1151,55.5364,4776.0,4445.0,17.0,2020-10-17
-940380,France,Saint Barthelemy,17.9,-62.8333,72.0,55.0,0.0,2020-10-17
 940381,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-17
 940382,France,St Martin,18.0708,-63.0501,531.0,380.0,8.0,2020-10-17
 940383,France,,46.2276,2.2137,877840.0,85008.0,33127.0,2020-10-17
@@ -32711,7 +32483,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 944336,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-18
 944337,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-18
 944338,France,Reunion,-21.1151,55.5364,4776.0,4445.0,17.0,2020-10-18
-944339,France,Saint Barthelemy,17.9,-62.8333,72.0,55.0,0.0,2020-10-18
 944340,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-18
 944341,France,St Martin,18.0708,-63.0501,531.0,380.0,8.0,2020-10-18
 944342,France,,46.2276,2.2137,907677.0,85008.0,33212.0,2020-10-18
@@ -32898,7 +32669,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 948295,France,Mayotte,-12.8275,45.166244,4159.0,2964.0,43.0,2020-10-19
 948296,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-19
 948297,France,Reunion,-21.1151,55.5364,4921.0,4445.0,17.0,2020-10-19
-948298,France,Saint Barthelemy,17.9,-62.8333,72.0,55.0,0.0,2020-10-19
 948299,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-19
 948300,France,St Martin,18.0708,-63.0501,531.0,380.0,8.0,2020-10-19
 948301,France,,46.2276,2.2137,920916.0,86234.0,33358.0,2020-10-19
@@ -33085,7 +32855,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 952255,France,Mayotte,-12.8275,45.166244,4159.0,2964.0,43.0,2020-10-20
 952256,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-20
 952257,France,Reunion,-21.1151,55.5364,4921.0,4445.0,17.0,2020-10-20
-952258,France,Saint Barthelemy,17.9,-62.8333,72.0,55.0,0.0,2020-10-20
 952259,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-20
 952260,France,St Martin,18.0708,-63.0501,531.0,380.0,8.0,2020-10-20
 952261,France,,46.2276,2.2137,941085.0,87138.0,33620.0,2020-10-20
@@ -33272,7 +33041,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 956215,France,Mayotte,-12.8275,45.166244,4203.0,2964.0,44.0,2020-10-21
 956216,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-21
 956217,France,Reunion,-21.1151,55.5364,5015.0,4445.0,19.0,2020-10-21
-956218,France,Saint Barthelemy,17.9,-62.8333,77.0,66.0,0.0,2020-10-21
 956219,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-21
 956220,France,St Martin,18.0708,-63.0501,538.0,422.0,8.0,2020-10-21
 956221,France,,46.2276,2.2137,967717.0,87951.0,33782.0,2020-10-21
@@ -33459,7 +33227,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 960175,France,Mayotte,-12.8275,45.166244,4203.0,2964.0,44.0,2020-10-22
 960176,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-22
 960177,France,Reunion,-21.1151,55.5364,5015.0,4445.0,19.0,2020-10-22
-960178,France,Saint Barthelemy,17.9,-62.8333,77.0,66.0,0.0,2020-10-22
 960179,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-22
 960180,France,St Martin,18.0708,-63.0501,538.0,422.0,8.0,2020-10-22
 960181,France,,46.2276,2.2137,1008483.0,88898.0,33936.0,2020-10-22
@@ -33646,7 +33413,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 964135,France,Mayotte,-12.8275,45.166244,4276.0,2964.0,44.0,2020-10-23
 964136,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-23
 964137,France,Reunion,-21.1151,55.5364,5149.0,4630.0,20.0,2020-10-23
-964138,France,Saint Barthelemy,17.9,-62.8333,77.0,66.0,0.0,2020-10-23
 964139,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-23
 964140,France,St Martin,18.0708,-63.0501,538.0,422.0,8.0,2020-10-23
 964141,France,,46.2276,2.2137,1050468.0,89600.0,34234.0,2020-10-23
@@ -33833,7 +33599,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 968095,France,Mayotte,-12.8275,45.166244,4276.0,2964.0,44.0,2020-10-24
 968096,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-24
 968097,France,Reunion,-21.1151,55.5364,5149.0,4630.0,20.0,2020-10-24
-968098,France,Saint Barthelemy,17.9,-62.8333,77.0,66.0,0.0,2020-10-24
 968099,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-24
 968100,France,St Martin,18.0708,-63.0501,538.0,422.0,8.0,2020-10-24
 968101,France,,46.2276,2.2137,1095683.0,89600.0,34370.0,2020-10-24
@@ -34020,7 +33785,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 972055,France,Mayotte,-12.8275,45.166244,4276.0,2964.0,44.0,2020-10-25
 972056,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-25
 972057,France,Reunion,-21.1151,55.5364,5149.0,4630.0,20.0,2020-10-25
-972058,France,Saint Barthelemy,17.9,-62.8333,77.0,66.0,0.0,2020-10-25
 972059,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-25
 972060,France,St Martin,18.0708,-63.0501,538.0,422.0,8.0,2020-10-25
 972061,France,,46.2276,2.2137,1147659.0,90436.0,34486.0,2020-10-25
@@ -34207,7 +33971,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 976015,France,Mayotte,-12.8275,45.166244,4321.0,2964.0,44.0,2020-10-26
 976016,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-26
 976017,France,Reunion,-21.1151,55.5364,5361.0,4630.0,20.0,2020-10-26
-976018,France,Saint Barthelemy,17.9,-62.8333,83.0,66.0,0.0,2020-10-26
 976019,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-26
 976020,France,St Martin,18.0708,-63.0501,542.0,422.0,8.0,2020-10-26
 976021,France,,46.2276,2.2137,1174279.0,91461.0,34732.0,2020-10-26
@@ -34394,7 +34157,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 979975,France,Mayotte,-12.8275,45.166244,4321.0,2964.0,44.0,2020-10-27
 979976,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-27
 979977,France,Reunion,-21.1151,55.5364,5361.0,4630.0,20.0,2020-10-27
-979978,France,Saint Barthelemy,17.9,-62.8333,83.0,67.0,0.0,2020-10-27
 979979,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-27
 979980,France,St Martin,18.0708,-63.0501,566.0,488.0,9.0,2020-10-27
 979981,France,,46.2276,2.2137,1207430.0,92830.0,35253.0,2020-10-27
@@ -34581,7 +34343,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 983935,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-10-28
 983936,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-28
 983937,France,Reunion,-21.1151,55.5364,5472.0,4630.0,22.0,2020-10-28
-983938,France,Saint Barthelemy,17.9,-62.8333,83.0,67.0,0.0,2020-10-28
 983939,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-28
 983940,France,St Martin,18.0708,-63.0501,566.0,488.0,9.0,2020-10-28
 983941,France,,46.2276,2.2137,1243855.0,94048.0,35496.0,2020-10-28
@@ -34768,7 +34529,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 987896,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-10-29
 987897,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-29
 987898,France,Reunion,-21.1151,55.5364,5472.0,4630.0,22.0,2020-10-29
-987899,France,Saint Barthelemy,17.9,-62.8333,83.0,67.0,0.0,2020-10-29
 987900,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-29
 987901,France,St Martin,18.0708,-63.0501,566.0,488.0,9.0,2020-10-29
 987902,France,,46.2276,2.2137,1290446.0,95358.0,35728.0,2020-10-29
@@ -34955,7 +34715,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 991857,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-10-30
 991858,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-10-30
 991859,France,Reunion,-21.1151,55.5364,5659.0,4884.0,24.0,2020-10-30
-991860,France,Saint Barthelemy,17.9,-62.8333,83.0,67.0,0.0,2020-10-30
 991861,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-30
 991862,France,St Martin,18.0708,-63.0501,566.0,488.0,9.0,2020-10-30
 991863,France,,46.2276,2.2137,1339640.0,96604.0,36273.0,2020-10-30
@@ -35142,7 +34901,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 995818,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-10-31
 995819,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-10-31
 995820,France,Reunion,-21.1151,55.5364,5659.0,4884.0,24.0,2020-10-31
-995821,France,Saint Barthelemy,17.9,-62.8333,83.0,67.0,0.0,2020-10-31
 995822,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-10-31
 995823,France,St Martin,18.0708,-63.0501,566.0,488.0,9.0,2020-10-31
 995824,France,,46.2276,2.2137,1374691.0,97475.0,36495.0,2020-10-31
@@ -35329,7 +35087,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 999779,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-11-01
 999780,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-11-01
 999781,France,Reunion,-21.1151,55.5364,5659.0,4884.0,24.0,2020-11-01
-999782,France,Saint Barthelemy,17.9,-62.8333,83.0,67.0,0.0,2020-11-01
 999783,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-01
 999784,France,St Martin,18.0708,-63.0501,566.0,488.0,9.0,2020-11-01
 999785,France,,46.2276,2.2137,1420870.0,98044.0,36726.0,2020-11-01
@@ -35516,7 +35273,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1003740,France,Mayotte,-12.8275,45.166244,4489.0,2964.0,45.0,2020-11-02
 1003741,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-11-02
 1003742,France,Reunion,-21.1151,55.5364,5898.0,4884.0,26.0,2020-11-02
-1003743,France,Saint Barthelemy,17.9,-62.8333,83.0,67.0,0.0,2020-11-02
 1003744,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-02
 1003745,France,St Martin,18.0708,-63.0501,566.0,488.0,9.0,2020-11-02
 1003746,France,,46.2276,2.2137,1473388.0,98044.0,37142.0,2020-11-02
@@ -35703,7 +35459,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1007701,France,Mayotte,-12.8275,45.166244,4524.0,2964.0,45.0,2020-11-03
 1007702,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-11-03
 1007703,France,Reunion,-21.1151,55.5364,5898.0,4884.0,26.0,2020-11-03
-1007704,France,Saint Barthelemy,17.9,-62.8333,83.0,67.0,0.0,2020-11-03
 1007705,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-03
 1007706,France,St Martin,18.0708,-63.0501,566.0,488.0,9.0,2020-11-03
 1007707,France,,46.2276,2.2137,1509356.0,98044.0,37991.0,2020-11-03
@@ -35890,7 +35645,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1011662,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-04
 1011663,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-11-04
 1011664,France,Reunion,-21.1151,55.5364,6037.0,4884.0,26.0,2020-11-04
-1011665,France,Saint Barthelemy,17.9,-62.8333,90.0,77.0,0.0,2020-11-04
 1011666,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-04
 1011667,France,St Martin,18.0708,-63.0501,604.0,522.0,12.0,2020-11-04
 1011668,France,,46.2276,2.2137,1549838.0,100531.0,38376.0,2020-11-04
@@ -36077,7 +35831,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1015624,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-05
 1015625,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-05
 1015626,France,Reunion,-21.1151,55.5364,6037.0,4884.0,26.0,2020-11-05
-1015627,France,Saint Barthelemy,17.9,-62.8333,90.0,77.0,0.0,2020-11-05
 1015628,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-05
 1015629,France,St Martin,18.0708,-63.0501,604.0,522.0,12.0,2020-11-05
 1015630,France,,46.2276,2.2137,1607147.0,104095.0,38730.0,2020-11-05
@@ -36264,7 +36017,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1019586,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-06
 1019587,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-06
 1019588,France,Reunion,-21.1151,55.5364,6264.0,5380.0,27.0,2020-11-06
-1019589,France,Saint Barthelemy,17.9,-62.8333,90.0,77.0,0.0,2020-11-06
 1019590,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-06
 1019591,France,St Martin,18.0708,-63.0501,604.0,522.0,12.0,2020-11-06
 1019592,France,,46.2276,2.2137,1667604.0,105650.0,39558.0,2020-11-06
@@ -36451,7 +36203,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1023548,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-07
 1023549,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-07
 1023550,France,Reunion,-21.1151,55.5364,6264.0,5380.0,27.0,2020-11-07
-1023551,France,Saint Barthelemy,17.9,-62.8333,90.0,77.0,0.0,2020-11-07
 1023552,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-07
 1023553,France,St Martin,18.0708,-63.0501,604.0,522.0,12.0,2020-11-07
 1023554,France,,46.2276,2.2137,1754202.0,107259.0,39861.0,2020-11-07
@@ -36638,7 +36389,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1027510,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-08
 1027511,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-08
 1027512,France,Reunion,-21.1151,55.5364,6264.0,5380.0,27.0,2020-11-08
-1027513,France,Saint Barthelemy,17.9,-62.8333,90.0,77.0,0.0,2020-11-08
 1027514,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-08
 1027515,France,St Martin,18.0708,-63.0501,604.0,522.0,12.0,2020-11-08
 1027516,France,,46.2276,2.2137,1792764.0,107935.0,40131.0,2020-11-08
@@ -36825,7 +36575,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1031472,France,Mayotte,-12.8275,45.166244,4815.0,2964.0,46.0,2020-11-09
 1031473,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-09
 1031474,France,Reunion,-21.1151,55.5364,6572.0,5380.0,28.0,2020-11-09
-1031475,France,Saint Barthelemy,17.9,-62.8333,90.0,77.0,0.0,2020-11-09
 1031476,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-09
 1031477,France,St Martin,18.0708,-63.0501,604.0,522.0,12.0,2020-11-09
 1031478,France,,46.2276,2.2137,1812919.0,109056.0,40679.0,2020-11-09
@@ -37012,7 +36761,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1035434,France,Mayotte,-12.8275,45.166244,4815.0,2964.0,46.0,2020-11-10
 1035435,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-10
 1035436,France,Reunion,-21.1151,55.5364,6572.0,5380.0,28.0,2020-11-10
-1035437,France,Saint Barthelemy,17.9,-62.8333,90.0,77.0,0.0,2020-11-10
 1035438,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-10
 1035439,France,St Martin,18.0708,-63.0501,604.0,522.0,12.0,2020-11-10
 1035440,France,,46.2276,2.2137,1834515.0,111241.0,41897.0,2020-11-10
@@ -37199,7 +36947,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1039397,France,Mayotte,-12.8275,45.166244,4815.0,2964.0,46.0,2020-11-11
 1039398,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-11
 1039399,France,Reunion,-21.1151,55.5364,6735.0,5380.0,28.0,2020-11-11
-1039400,France,Saint Barthelemy,17.9,-62.8333,90.0,77.0,0.0,2020-11-11
 1039401,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-11
 1039402,France,St Martin,18.0708,-63.0501,604.0,522.0,12.0,2020-11-11
 1039403,France,,46.2276,2.2137,1870380.0,113017.0,42225.0,2020-11-11
@@ -37396,7 +37143,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1043371,France,Mayotte,-12.8275,45.166244,4921.0,2964.0,46.0,2020-11-12
 1043372,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-12
 1043373,France,Reunion,-21.1151,55.5364,6735.0,5380.0,28.0,2020-11-12
-1043374,France,Saint Barthelemy,17.9,-62.8333,109.0,83.0,0.0,2020-11-12
 1043375,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-12
 1043376,France,St Martin,18.0708,-63.0501,655.0,551.0,12.0,2020-11-12
 1043377,France,,46.2276,2.2137,1902644.0,114275.0,42640.0,2020-11-12
@@ -37593,7 +37339,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1047346,France,Mayotte,-12.8275,45.166244,4921.0,2964.0,46.0,2020-11-13
 1047347,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-13
 1047348,France,Reunion,-21.1151,55.5364,6881.0,5928.0,28.0,2020-11-13
-1047349,France,Saint Barthelemy,17.9,-62.8333,109.0,83.0,0.0,2020-11-13
 1047350,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-13
 1047351,France,St Martin,18.0708,-63.0501,655.0,551.0,12.0,2020-11-13
 1047352,France,,46.2276,2.2137,1926314.0,115928.0,43572.0,2020-11-13
@@ -37790,7 +37535,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1051321,France,Mayotte,-12.8275,45.166244,4921.0,2964.0,46.0,2020-11-14
 1051322,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-14
 1051323,France,Reunion,-21.1151,55.5364,6881.0,5928.0,28.0,2020-11-14
-1051324,France,Saint Barthelemy,17.9,-62.8333,109.0,83.0,0.0,2020-11-14
 1051325,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-14
 1051326,France,St Martin,18.0708,-63.0501,655.0,551.0,12.0,2020-11-14
 1051327,France,,46.2276,2.2137,1958235.0,117913.0,43925.0,2020-11-14
@@ -37987,7 +37731,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1055296,France,Mayotte,-12.8275,45.166244,4921.0,2964.0,46.0,2020-11-15
 1055297,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-15
 1055298,France,Reunion,-21.1151,55.5364,6881.0,5928.0,29.0,2020-11-15
-1055299,France,Saint Barthelemy,17.9,-62.8333,109.0,83.0,0.0,2020-11-15
 1055300,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-15
 1055301,France,St Martin,18.0708,-63.0501,655.0,551.0,12.0,2020-11-15
 1055302,France,,46.2276,2.2137,1985427.0,118583.0,44227.0,2020-11-15
@@ -38184,7 +37927,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1059271,France,Mayotte,-12.8275,45.166244,4943.0,2964.0,46.0,2020-11-16
 1059272,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-16
 1059273,France,Reunion,-21.1151,55.5364,7161.0,5928.0,31.0,2020-11-16
-1059274,France,Saint Barthelemy,17.9,-62.8333,109.0,83.0,0.0,2020-11-16
 1059275,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-16
 1059276,France,St Martin,18.0708,-63.0501,655.0,551.0,12.0,2020-11-16
 1059277,France,,46.2276,2.2137,1994728.0,119653.0,44733.0,2020-11-16
@@ -38381,7 +38123,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1063246,France,Mayotte,-12.8275,45.166244,4943.0,2964.0,46.0,2020-11-17
 1063247,France,New Caledonia,-20.904305,165.618042,30.0,29.0,0.0,2020-11-17
 1063248,France,Reunion,-21.1151,55.5364,7161.0,5928.0,31.0,2020-11-17
-1063249,France,Saint Barthelemy,17.9,-62.8333,109.0,83.0,0.0,2020-11-17
 1063250,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-17
 1063251,France,St Martin,18.0708,-63.0501,655.0,551.0,12.0,2020-11-17
 1063252,France,,46.2276,2.2137,2039938.0,121925.0,45950.0,2020-11-17
@@ -38578,7 +38319,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1067221,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-18
 1067222,France,New Caledonia,-20.904305,165.618042,30.0,29.0,0.0,2020-11-18
 1067223,France,Reunion,-21.1151,55.5364,7298.0,5928.0,34.0,2020-11-18
-1067224,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-18
 1067225,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-18
 1067226,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-18
 1067227,France,,46.2276,2.2137,2068297.0,124164.0,46375.0,2020-11-18
@@ -38775,7 +38515,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1071196,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-19
 1071197,France,New Caledonia,-20.904305,165.618042,30.0,30.0,0.0,2020-11-19
 1071198,France,Reunion,-21.1151,55.5364,7298.0,5928.0,34.0,2020-11-19
-1071199,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-19
 1071200,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-19
 1071201,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-19
 1071202,France,,46.2276,2.2137,2088784.0,126342.0,46792.0,2020-11-19
@@ -38972,7 +38711,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1075171,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-20
 1075172,France,New Caledonia,-20.904305,165.618042,30.0,30.0,0.0,2020-11-20
 1075173,France,Reunion,-21.1151,55.5364,7501.0,6660.0,35.0,2020-11-20
-1075174,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-20
 1075175,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-20
 1075176,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-20
 1075177,France,,46.2276,2.2137,2111646.0,128294.0,47930.0,2020-11-20
@@ -39169,7 +38907,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1079146,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-21
 1079147,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-21
 1079148,France,Reunion,-21.1151,55.5364,7501.0,6660.0,35.0,2020-11-21
-1079149,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-21
 1079150,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-21
 1079151,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-21
 1079152,France,,46.2276,2.2137,2129287.0,129218.0,48182.0,2020-11-21
@@ -39366,7 +39103,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1083121,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-22
 1083122,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-22
 1083123,France,Reunion,-21.1151,55.5364,7501.0,6660.0,35.0,2020-11-22
-1083124,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-22
 1083125,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-22
 1083126,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-22
 1083127,France,,46.2276,2.2137,2142417.0,129722.0,48396.0,2020-11-22
@@ -39563,7 +39299,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1087096,France,Mayotte,-12.8275,45.166244,5122.0,2964.0,49.0,2020-11-23
 1087097,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-23
 1087098,France,Reunion,-21.1151,55.5364,7689.0,6660.0,35.0,2020-11-23
-1087099,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-23
 1087100,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-23
 1087101,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-23
 1087102,France,,46.2276,2.2137,2146869.0,130633.0,48896.0,2020-11-23
@@ -39760,7 +39495,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1091072,France,Mayotte,-12.8275,45.166244,5122.0,2964.0,49.0,2020-11-24
 1091073,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-24
 1091074,France,Reunion,-21.1151,55.5364,7689.0,6660.0,35.0,2020-11-24
-1091075,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-24
 1091076,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-24
 1091077,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-24
 1091078,France,,46.2276,2.2137,2155722.0,132720.0,49900.0,2020-11-24
@@ -39957,7 +39691,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1095048,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-25
 1095049,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-25
 1095050,France,Reunion,-21.1151,55.5364,7836.0,6660.0,39.0,2020-11-25
-1095051,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-25
 1095052,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-25
 1095053,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-25
 1095054,France,,46.2276,2.2137,2171967.0,134593.0,50281.0,2020-11-25
@@ -40154,7 +39887,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1099024,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-26
 1099025,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-26
 1099026,France,Reunion,-21.1151,55.5364,7836.0,6660.0,39.0,2020-11-26
-1099027,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-26
 1099028,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-26
 1099029,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-26
 1099030,France,,46.2276,2.2137,2184846.0,136277.0,50610.0,2020-11-26
@@ -40351,7 +40083,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1103000,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-27
 1103001,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-27
 1103002,France,Reunion,-21.1151,55.5364,7940.0,6660.0,40.0,2020-11-27
-1103003,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-27
 1103004,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-27
 1103005,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-27
 1103006,France,,46.2276,2.2137,2197283.0,137956.0,51567.0,2020-11-27
@@ -40548,7 +40279,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1106976,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-28
 1106977,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-28
 1106978,France,Reunion,-21.1151,55.5364,7940.0,7172.0,40.0,2020-11-28
-1106979,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-28
 1106980,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-28
 1106981,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-28
 1106982,France,,46.2276,2.2137,2209739.0,138666.0,51779.0,2020-11-28
@@ -40745,7 +40475,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1110952,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-29
 1110953,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-29
 1110954,France,Reunion,-21.1151,55.5364,7940.0,7172.0,40.0,2020-11-29
-1110955,France,Saint Barthelemy,17.9,-62.8333,127.0,94.0,0.0,2020-11-29
 1110956,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-29
 1110957,France,St Martin,18.0708,-63.0501,690.0,598.0,12.0,2020-11-29
 1110958,France,,46.2276,2.2137,2219502.0,138956.0,51977.0,2020-11-29
@@ -40942,7 +40671,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1114928,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-30
 1114929,France,New Caledonia,-20.904305,165.618042,33.0,32.0,0.0,2020-11-30
 1114930,France,Reunion,-21.1151,55.5364,8054.0,7172.0,40.0,2020-11-30
-1114931,France,Saint Barthelemy,17.9,-62.8333,147.0,105.0,1.0,2020-11-30
 1114932,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,12.0,0.0,2020-11-30
 1114933,France,St Martin,18.0708,-63.0501,717.0,641.0,12.0,2020-11-30
 1114934,France,,46.2276,2.2137,2223393.0,139810.0,52383.0,2020-11-30
@@ -41139,7 +40867,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1118904,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-01
 1118905,France,New Caledonia,-20.904305,165.618042,33.0,32.0,0.0,2020-12-01
 1118906,France,Reunion,-21.1151,55.5364,8054.0,7172.0,40.0,2020-12-01
-1118907,France,Saint Barthelemy,17.9,-62.8333,147.0,105.0,1.0,2020-12-01
 1118908,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-01
 1118909,France,St Martin,18.0708,-63.0501,717.0,641.0,12.0,2020-12-01
 1118910,France,,46.2276,2.2137,2231344.0,141558.0,53158.0,2020-12-01
@@ -41336,7 +41063,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1122880,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-02
 1122881,France,New Caledonia,-20.904305,165.618042,33.0,32.0,0.0,2020-12-02
 1122882,France,Reunion,-21.1151,55.5364,8102.0,7172.0,40.0,2020-12-02
-1122883,France,Saint Barthelemy,17.9,-62.8333,147.0,105.0,1.0,2020-12-02
 1122884,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-02
 1122885,France,St Martin,18.0708,-63.0501,717.0,641.0,12.0,2020-12-02
 1122886,France,,46.2276,2.2137,2245324.0,143092.0,53468.0,2020-12-02
@@ -41533,7 +41259,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1126856,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-03
 1126857,France,New Caledonia,-20.904305,165.618042,34.0,32.0,0.0,2020-12-03
 1126858,France,Reunion,-21.1151,55.5364,8102.0,7172.0,40.0,2020-12-03
-1126859,France,Saint Barthelemy,17.9,-62.8333,147.0,105.0,1.0,2020-12-03
 1126860,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-03
 1126861,France,St Martin,18.0708,-63.0501,717.0,641.0,12.0,2020-12-03
 1126862,France,,46.2276,2.2137,2257894.0,144469.0,53791.0,2020-12-03
@@ -41730,7 +41455,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1130832,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-04
 1130833,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-04
 1130834,France,Reunion,-21.1151,55.5364,8200.0,7729.0,41.0,2020-12-04
-1130835,France,Saint Barthelemy,17.9,-62.8333,147.0,105.0,1.0,2020-12-04
 1130836,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-04
 1130837,France,St Martin,18.0708,-63.0501,717.0,641.0,12.0,2020-12-04
 1130838,France,,46.2276,2.2137,2269080.0,145324.0,54418.0,2020-12-04
@@ -41927,7 +41651,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1134808,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-05
 1134809,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-05
 1134810,France,Reunion,-21.1151,55.5364,8200.0,7729.0,41.0,2020-12-05
-1134811,France,Saint Barthelemy,17.9,-62.8333,147.0,105.0,1.0,2020-12-05
 1134812,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-05
 1134813,France,St Martin,18.0708,-63.0501,717.0,641.0,12.0,2020-12-05
 1134814,France,,46.2276,2.2137,2281889.0,146330.0,54630.0,2020-12-05
@@ -42124,7 +41847,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1138784,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-06
 1138785,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-06
 1138786,France,Reunion,-21.1151,55.5364,8200.0,7729.0,41.0,2020-12-06
-1138787,France,Saint Barthelemy,17.9,-62.8333,147.0,105.0,1.0,2020-12-06
 1138788,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-06
 1138789,France,St Martin,18.0708,-63.0501,717.0,641.0,12.0,2020-12-06
 1138790,France,,46.2276,2.2137,2292838.0,146558.0,54804.0,2020-12-06
@@ -42321,7 +42043,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1142760,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-07
 1142761,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-07
 1142762,France,Reunion,-21.1151,55.5364,8200.0,7729.0,41.0,2020-12-07
-1142763,France,Saint Barthelemy,17.9,-62.8333,147.0,105.0,1.0,2020-12-07
 1142764,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-07
 1142765,France,St Martin,18.0708,-63.0501,717.0,641.0,12.0,2020-12-07
 1142766,France,,46.2276,2.2137,2296249.0,147257.0,55170.0,2020-12-07
@@ -42518,7 +42239,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1146736,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-08
 1146737,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-08
 1146738,France,Reunion,-21.1151,55.5364,8294.0,7729.0,41.0,2020-12-08
-1146739,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-08
 1146740,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-08
 1146741,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-08
 1146742,France,,46.2276,2.2137,2309760.0,148840.0,56001.0,2020-12-08
@@ -42715,7 +42435,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1150712,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-09
 1150713,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-09
 1150714,France,Reunion,-21.1151,55.5364,8294.0,7729.0,41.0,2020-12-09
-1150715,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-09
 1150716,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-09
 1150717,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-09
 1150718,France,,46.2276,2.2137,2324300.0,150219.0,56294.0,2020-12-09
@@ -42912,7 +42631,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1154688,France,Mayotte,-12.8275,45.166244,5499.0,2964.0,51.0,2020-12-10
 1154689,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-10
 1154690,France,Reunion,-21.1151,55.5364,8345.0,7729.0,41.0,2020-12-10
-1154691,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-10
 1154692,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-10
 1154693,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-10
 1154694,France,,46.2276,2.2137,2337594.0,151630.0,56584.0,2020-12-10
@@ -43109,7 +42827,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1158664,France,Mayotte,-12.8275,45.166244,5499.0,2964.0,52.0,2020-12-11
 1158665,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-11
 1158666,France,Reunion,-21.1151,55.5364,8345.0,8037.0,41.0,2020-12-11
-1158667,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-11
 1158668,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-11
 1158669,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-11
 1158670,France,,46.2276,2.2137,2350923.0,152555.0,57211.0,2020-12-11
@@ -43306,7 +43023,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1162640,France,Mayotte,-12.8275,45.166244,5551.0,2964.0,52.0,2020-12-12
 1162641,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-12
 1162642,France,Reunion,-21.1151,55.5364,8345.0,8037.0,41.0,2020-12-12
-1162643,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-12
 1162644,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-12
 1162645,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-12
 1162646,France,,46.2276,2.2137,2350793.0,152555.0,57210.0,2020-12-12
@@ -43503,7 +43219,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1166616,France,Mayotte,-12.8275,45.166244,5551.0,2964.0,52.0,2020-12-13
 1166617,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-13
 1166618,France,Reunion,-21.1151,55.5364,8345.0,8037.0,41.0,2020-12-13
-1166619,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-13
 1166620,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-13
 1166621,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-13
 1166622,France,,46.2276,2.2137,2376228.0,153659.0,57554.0,2020-12-13
@@ -43700,7 +43415,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1170592,France,Mayotte,-12.8275,45.166244,5551.0,2964.0,52.0,2020-12-14
 1170593,France,New Caledonia,-20.904305,165.618042,36.0,35.0,0.0,2020-12-14
 1170594,France,Reunion,-21.1151,55.5364,8345.0,8037.0,41.0,2020-12-14
-1170595,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-14
 1170596,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-14
 1170597,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-14
 1170598,France,,46.2276,2.2137,2379291.0,154311.0,57925.0,2020-12-14
@@ -43897,7 +43611,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1174568,France,Mayotte,-12.8275,45.166244,5616.0,2964.0,53.0,2020-12-15
 1174569,France,New Caledonia,-20.904305,165.618042,36.0,35.0,0.0,2020-12-15
 1174570,France,Reunion,-21.1151,55.5364,8534.0,8037.0,42.0,2020-12-15
-1174571,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-15
 1174572,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-15
 1174573,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-15
 1174574,France,,46.2276,2.2137,2390419.0,155751.0,58712.0,2020-12-15
@@ -44094,7 +43807,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1178544,France,Mayotte,-12.8275,45.166244,5616.0,2964.0,53.0,2020-12-16
 1178545,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-16
 1178546,France,Reunion,-21.1151,55.5364,8534.0,8037.0,42.0,2020-12-16
-1178547,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-16
 1178548,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-16
 1178549,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-16
 1178550,France,,46.2276,2.2137,2407983.0,156975.0,59001.0,2020-12-16
@@ -44291,7 +44003,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1182520,France,Mayotte,-12.8275,45.166244,5616.0,2964.0,53.0,2020-12-17
 1182521,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-17
 1182522,France,Reunion,-21.1151,55.5364,8588.0,8037.0,42.0,2020-12-17
-1182523,France,Saint Barthelemy,17.9,-62.8333,162.0,127.0,1.0,2020-12-17
 1182524,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-17
 1182525,France,St Martin,18.0708,-63.0501,801.0,675.0,12.0,2020-12-17
 1182526,France,,46.2276,2.2137,2426063.0,158170.0,59259.0,2020-12-17
@@ -44488,7 +44199,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1186496,France,Mayotte,-12.8275,45.166244,5616.0,2964.0,53.0,2020-12-18
 1186497,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-18
 1186498,France,Reunion,-21.1151,55.5364,8588.0,8219.0,42.0,2020-12-18
-1186499,France,Saint Barthelemy,17.9,-62.8333,175.0,161.0,1.0,2020-12-18
 1186500,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-18
 1186501,France,St Martin,18.0708,-63.0501,918.0,780.0,12.0,2020-12-18
 1186502,France,,46.2276,2.2137,2441737.0,159138.0,59869.0,2020-12-18
@@ -44685,7 +44395,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1190472,France,Mayotte,-12.8275,45.166244,5708.0,2964.0,53.0,2020-12-19
 1190473,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-19
 1190474,France,Reunion,-21.1151,55.5364,8704.0,8219.0,42.0,2020-12-19
-1190475,France,Saint Barthelemy,17.9,-62.8333,175.0,161.0,1.0,2020-12-19
 1190476,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-19
 1190477,France,St Martin,18.0708,-63.0501,918.0,780.0,12.0,2020-12-19
 1190478,France,,46.2276,2.2137,2458839.0,160053.0,60056.0,2020-12-19
@@ -44882,7 +44591,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1194448,France,Mayotte,-12.8275,45.166244,5708.0,2964.0,53.0,2020-12-20
 1194449,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-20
 1194450,France,Reunion,-21.1151,55.5364,8704.0,8219.0,42.0,2020-12-20
-1194451,France,Saint Barthelemy,17.9,-62.8333,175.0,161.0,1.0,2020-12-20
 1194452,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-20
 1194453,France,St Martin,18.0708,-63.0501,918.0,780.0,12.0,2020-12-20
 1194454,France,,46.2276,2.2137,2471458.0,160288.0,60186.0,2020-12-20
@@ -45079,7 +44787,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1198424,France,Mayotte,-12.8275,45.166244,5708.0,2964.0,53.0,2020-12-21
 1198425,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-21
 1198426,France,Reunion,-21.1151,55.5364,8704.0,8219.0,42.0,2020-12-21
-1198427,France,Saint Barthelemy,17.9,-62.8333,175.0,161.0,1.0,2020-12-21
 1198428,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-21
 1198429,France,St Martin,18.0708,-63.0501,918.0,780.0,12.0,2020-12-21
 1198430,France,,46.2276,2.2137,2477255.0,160946.0,60537.0,2020-12-21
@@ -45276,7 +44983,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1202400,France,Mayotte,-12.8275,45.166244,5708.0,2964.0,53.0,2020-12-22
 1202401,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-22
 1202402,France,Reunion,-21.1151,55.5364,8801.0,8219.0,42.0,2020-12-22
-1202403,France,Saint Barthelemy,17.9,-62.8333,175.0,161.0,1.0,2020-12-22
 1202404,France,Saint Pierre and Miquelon,46.8852,-56.3159,14.0,14.0,0.0,2020-12-22
 1202405,France,St Martin,18.0708,-63.0501,918.0,780.0,12.0,2020-12-22
 1202406,France,,46.2276,2.2137,2488889.0,162540.0,61339.0,2020-12-22
@@ -45473,7 +45179,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1206376,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-23
 1206377,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-23
 1206378,France,Reunion,-21.1151,55.5364,8801.0,8219.0,42.0,2020-12-23
-1206379,France,Saint Barthelemy,17.9,-62.8333,184.0,172.0,1.0,2020-12-23
 1206380,France,Saint Pierre and Miquelon,46.8852,-56.3159,15.0,14.0,0.0,2020-12-23
 1206381,France,St Martin,18.0708,-63.0501,961.0,855.0,12.0,2020-12-23
 1206382,France,,46.2276,2.2137,2503693.0,163754.0,61614.0,2020-12-23
@@ -45670,7 +45375,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1210352,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-24
 1210353,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-24
 1210354,France,Reunion,-21.1151,55.5364,8846.0,8219.0,42.0,2020-12-24
-1210355,France,Saint Barthelemy,17.9,-62.8333,184.0,172.0,1.0,2020-12-24
 1210356,France,Saint Pierre and Miquelon,46.8852,-56.3159,15.0,14.0,0.0,2020-12-24
 1210357,France,St Martin,18.0708,-63.0501,961.0,855.0,12.0,2020-12-24
 1210358,France,,46.2276,2.2137,2525234.0,165121.0,61904.0,2020-12-24
@@ -45867,7 +45571,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1214328,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-25
 1214329,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-25
 1214330,France,Reunion,-21.1151,55.5364,8846.0,8496.0,42.0,2020-12-25
-1214331,France,Saint Barthelemy,17.9,-62.8333,184.0,172.0,1.0,2020-12-25
 1214332,France,Saint Pierre and Miquelon,46.8852,-56.3159,15.0,14.0,0.0,2020-12-25
 1214333,France,St Martin,18.0708,-63.0501,961.0,855.0,12.0,2020-12-25
 1214334,France,,46.2276,2.2137,2545358.0,165650.0,62063.0,2020-12-25
@@ -46064,7 +45767,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1218304,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-26
 1218305,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-26
 1218306,France,Reunion,-21.1151,55.5364,8909.0,8496.0,42.0,2020-12-26
-1218307,France,Saint Barthelemy,17.9,-62.8333,184.0,172.0,1.0,2020-12-26
 1218308,France,Saint Pierre and Miquelon,46.8852,-56.3159,15.0,14.0,0.0,2020-12-26
 1218309,France,St Martin,18.0708,-63.0501,961.0,855.0,12.0,2020-12-26
 1218310,France,,46.2276,2.2137,2548388.0,165923.0,62209.0,2020-12-26
@@ -46261,7 +45963,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1222280,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-27
 1222281,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-27
 1222282,France,Reunion,-21.1151,55.5364,8909.0,8496.0,42.0,2020-12-27
-1222283,France,Saint Barthelemy,17.9,-62.8333,184.0,172.0,1.0,2020-12-27
 1222284,France,Saint Pierre and Miquelon,46.8852,-56.3159,15.0,14.0,0.0,2020-12-27
 1222285,France,St Martin,18.0708,-63.0501,961.0,855.0,12.0,2020-12-27
 1222286,France,,46.2276,2.2137,2556621.0,166146.0,62382.0,2020-12-27
@@ -46458,7 +46159,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1226256,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-28
 1226257,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-28
 1226258,France,Reunion,-21.1151,55.5364,8909.0,8496.0,42.0,2020-12-28
-1226259,France,Saint Barthelemy,17.9,-62.8333,184.0,172.0,1.0,2020-12-28
 1226260,France,Saint Pierre and Miquelon,46.8852,-56.3159,15.0,14.0,0.0,2020-12-28
 1226261,France,St Martin,18.0708,-63.0501,961.0,855.0,12.0,2020-12-28
 1226262,France,,46.2276,2.2137,2559575.0,166927.0,62745.0,2020-12-28
@@ -46655,7 +46355,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1230232,France,Mayotte,-12.8275,45.166244,5890.0,2964.0,55.0,2020-12-29
 1230233,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-29
 1230234,France,Reunion,-21.1151,55.5364,8936.0,8496.0,42.0,2020-12-29
-1230235,France,Saint Barthelemy,17.9,-62.8333,184.0,172.0,1.0,2020-12-29
 1230236,France,Saint Pierre and Miquelon,46.8852,-56.3159,15.0,14.0,0.0,2020-12-29
 1230237,France,St Martin,18.0708,-63.0501,961.0,855.0,12.0,2020-12-29
 1230238,France,,46.2276,2.2137,2570767.0,168011.0,63713.0,2020-12-29
@@ -46852,7 +46551,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1234208,France,Mayotte,-12.8275,45.166244,5890.0,2964.0,55.0,2020-12-30
 1234209,France,New Caledonia,-20.904305,165.618042,38.0,38.0,0.0,2020-12-30
 1234210,France,Reunion,-21.1151,55.5364,8972.0,8496.0,42.0,2020-12-30
-1234211,France,Saint Barthelemy,17.9,-62.8333,184.0,172.0,1.0,2020-12-30
 1234212,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-30
 1234213,France,St Martin,18.0708,-63.0501,961.0,855.0,12.0,2020-12-30
 1234214,France,,46.2276,2.2137,2597124.0,169250.0,64016.0,2020-12-30
@@ -47049,7 +46747,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1238184,France,Mayotte,-12.8275,45.166244,5890.0,2964.0,55.0,2020-12-31
 1238185,France,New Caledonia,-20.904305,165.618042,38.0,38.0,0.0,2020-12-31
 1238186,France,Reunion,-21.1151,55.5364,8972.0,8496.0,42.0,2020-12-31
-1238187,France,Saint Barthelemy,17.9,-62.8333,190.0,172.0,1.0,2020-12-31
 1238188,France,Saint Pierre and Miquelon,46.8852,-56.3159,16.0,14.0,0.0,2020-12-31
 1238189,France,St Martin,18.0708,-63.0501,995.0,855.0,12.0,2020-12-31
 1238190,France,,46.2276,2.2137,2616902.0,170426.0,64267.0,2020-12-31
