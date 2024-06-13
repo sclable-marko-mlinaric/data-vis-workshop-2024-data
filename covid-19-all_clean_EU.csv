@@ -525,7 +525,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 174917,Azerbaijan,,40.1431,47.5769,9.0,0.0,0.0,2020-03-07
 174918,Romania,,46.0,25.0,9.0,3.0,0.0,2020-03-07
 174923,Slovenia,,46.1512,14.9955,7.0,0.0,0.0,2020-03-07
-174929,French Guiana,,3.9339,-53.1258,5.0,0.0,0.0,2020-03-07
 174931,Poland,,51.9194,19.1451,5.0,0.0,0.0,2020-03-07
 174937,Georgia,,42.3154,43.3569,4.0,0.0,0.0,2020-03-07
 174938,Hungary,,47.1625,19.5033,4.0,0.0,0.0,2020-03-07
@@ -572,7 +571,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 175149,Estonia,,58.5953,25.0136,10.0,0.0,0.0,2020-03-08
 175152,Azerbaijan,,40.1431,47.5769,9.0,0.0,0.0,2020-03-08
 175158,Hungary,,47.1625,19.5033,7.0,0.0,0.0,2020-03-08
-175170,French Guiana,,3.9339,-53.1258,5.0,0.0,0.0,2020-03-08
 175177,Bulgaria,,42.7339,25.4858,4.0,0.0,0.0,2020-03-08
 175188,Bosnia and Herzegovina,,43.9159,17.6791,3.0,0.0,0.0,2020-03-08
 175190,Luxembourg,,49.8144,6.1317,3.0,0.0,0.0,2020-03-08
@@ -618,7 +616,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 175408,Azerbaijan,,40.1431,47.5769,9.0,0.0,0.0,2020-03-09
 175410,Hungary,,47.1625,19.5033,9.0,0.0,0.0,2020-03-09
 175423,Latvia,,56.8796,24.6032,6.0,0.0,0.0,2020-03-09
-175429,French Guiana,,3.9339,-53.1258,5.0,0.0,0.0,2020-03-09
 175436,Bulgaria,,42.7339,25.4858,4.0,0.0,0.0,2020-03-09
 175447,Bosnia and Herzegovina,,43.9159,17.6791,3.0,0.0,0.0,2020-03-09
 175449,Luxembourg,,49.8144,6.1317,3.0,0.0,0.0,2020-03-09
@@ -669,7 +666,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 175692,North Macedonia,,41.6086,21.7453,7.0,0.0,0.0,2020-03-10
 175693,Slovakia,,48.669,19.699,7.0,0.0,0.0,2020-03-10
 175705,Bosnia and Herzegovina,,43.9159,17.6791,5.0,0.0,0.0,2020-03-10
-175707,French Guiana,,3.9339,-53.1258,5.0,0.0,0.0,2020-03-10
 175708,Luxembourg,,49.8144,6.1317,5.0,0.0,0.0,2020-03-10
 175709,Malta,,35.9375,14.3754,5.0,0.0,0.0,2020-03-10
 175711,Serbia,,44.0165,21.0059,5.0,0.0,0.0,2020-03-10
@@ -721,7 +717,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 175917,Luxembourg,,49.8144,6.1317,7.0,0.0,0.0,2020-03-11
 175918,North Macedonia,,41.6086,21.7453,7.0,0.0,0.0,2020-03-11
 175923,Malta,,35.9375,14.3754,6.0,0.0,0.0,2020-03-11
-175927,French Guiana,,3.9339,-53.1258,5.0,0.0,0.0,2020-03-11
 175940,Lithuania,,55.1694,23.8813,3.0,0.0,0.0,2020-03-11
 175942,Moldova,,47.4116,28.3699,3.0,0.0,0.0,2020-03-11
 175949,Denmark,Faroe Islands,61.8926,-6.9118,2.0,0.0,0.0,2020-03-11
@@ -770,7 +765,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 176139,Bulgaria,,42.7339,25.4858,7.0,0.0,1.0,2020-03-12
 176140,North Macedonia,,41.6086,21.7453,7.0,0.0,0.0,2020-03-12
 176143,Malta,,35.9375,14.3754,6.0,0.0,0.0,2020-03-12
-176148,French Guiana,,3.9339,-53.1258,5.0,0.0,0.0,2020-03-12
 176156,Armenia,,40.0691,45.0382,4.0,0.0,0.0,2020-03-12
 176162,Lithuania,,55.1694,23.8813,3.0,0.0,0.0,2020-03-12
 176164,Moldova,,47.4116,28.3699,3.0,0.0,0.0,2020-03-12
@@ -828,7 +822,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 176367,Serbia,,44.0165,21.0059,35.0,0.0,0.0,2020-03-13
 176369,Slovakia,,48.669,19.699,32.0,0.0,0.0,2020-03-13
 176372,Romania,,45.9432,24.9668,89.0,7.0,0.0,2020-03-13
-176378,French Guiana,,3.9339,-53.1258,5.0,0.0,0.0,2020-03-13
 176379,Malta,,35.9375,14.3754,12.0,1.0,0.0,2020-03-13
 176381,Moldova,,47.4116,28.3699,6.0,0.0,0.0,2020-03-13
 176383,Bulgaria,,42.7339,25.4858,23.0,0.0,1.0,2020-03-13
@@ -874,13 +867,11 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 176605,Denmark,Faroe Islands,61.8926,-6.9118,9.0,0.0,0.0,2020-03-14
 176609,Lithuania,,55.1694,23.8813,6.0,1.0,0.0,2020-03-14
 176621,France,Fench Guiana,4.0,-53.0,5.0,0.0,0.0,2020-03-14
-176622,French Guiana,,3.9339,-53.1258,5.0,0.0,0.0,2020-03-14
 176623,Turkey,,38.9637,35.2433,5.0,0.0,0.0,2020-03-14
 176628,Liechtenstein,,47.166,9.5554,4.0,0.0,0.0,2020-03-14
 176634,France,French Polynesia,-17.6797,149.4068,3.0,0.0,0.0,2020-03-14
 176638,Ukraine,,48.3794,31.1656,3.0,0.0,1.0,2020-03-14
 176644,France,St Martin,18.0708,-63.0501,2.0,0.0,0.0,2020-03-14
-176646,Jersey,,49.19,-2.11,2.0,0.0,0.0,2020-03-14
 176647,Monaco,,43.7384,7.4246,2.0,0.0,0.0,2020-03-14
 176654,United Kingdom,Channel Islands,49.3723,-2.3644,2.0,0.0,0.0,2020-03-14
 176656,Andorra,,42.5063,1.5218,1.0,1.0,0.0,2020-03-14
@@ -928,13 +919,11 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 176848,Moldova,,47.4116,28.3699,23.0,0.0,0.0,2020-03-15
 176851,Denmark,Faroe Islands,61.8926,-6.9118,11.0,0.0,0.0,2020-03-15
 176872,Turkey,,38.9637,35.2433,6.0,0.0,0.0,2020-03-15
-176878,France,French Guiana,3.9339,-53.1258,7.0,0.0,0.0,2020-03-15
 176885,Liechtenstein,,47.166,9.5554,4.0,0.0,0.0,2020-03-15
 176888,France,French Polynesia,-17.6797,-149.4068,3.0,0.0,0.0,2020-03-15
 176893,Ukraine,,48.3794,31.1656,3.0,0.0,1.0,2020-03-15
 176894,United Kingdom,Channel Islands,49.3723,-2.3644,3.0,0.0,0.0,2020-03-15
 176901,France,St Martin,18.0708,-63.0501,2.0,0.0,0.0,2020-03-15
-176902,Jersey,,49.19,-2.11,2.0,0.0,0.0,2020-03-15
 176903,Kosovo,,42.6026,20.903,2.0,0.0,0.0,2020-03-15
 176904,Monaco,,43.7384,7.4246,2.0,0.0,0.0,2020-03-15
 176909,Andorra,,42.5063,1.5218,1.0,1.0,0.0,2020-03-15
@@ -983,18 +972,13 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177106,Turkey,,38.9637,35.2433,18.0,0.0,0.0,2020-03-16
 177110,Lithuania,,55.1694,23.8813,12.0,1.0,0.0,2020-03-16
 177115,Azerbaijan,,40.1431,47.5769,15.0,6.0,1.0,2020-03-16
-177124,French Guiana,,3.9339,-53.1258,11.0,0.0,0.0,2020-03-16
 177140,Monaco,,43.7384,7.4246,7.0,0.0,0.0,2020-03-16
 177143,Ukraine,,48.3794,31.1656,7.0,0.0,1.0,2020-03-16
 177149,United Kingdom,Channel Islands,49.3723,-2.3644,6.0,0.0,0.0,2020-03-16
-177153,France,French Guiana,4.0,-53.0,5.0,0.0,0.0,2020-03-16
 177160,Liechtenstein,,47.166,9.5554,4.0,0.0,0.0,2020-03-16
 177162,France,French Polynesia,-17.6797,-149.4068,3.0,0.0,0.0,2020-03-16
-177165,Guam,,13.4443,144.7937,3.0,0.0,0.0,2020-03-16
-177167,Puerto Rico,,18.2,-66.5,3.0,0.0,0.0,2020-03-16
 177171,Andorra,,42.5063,1.5218,2.0,1.0,0.0,2020-03-16
 177176,France,St Martin,18.0708,-63.0501,2.0,0.0,0.0,2020-03-16
-177178,Jersey,,49.19,-2.11,2.0,0.0,0.0,2020-03-16
 177179,Kosovo,,42.6026,20.903,2.0,0.0,0.0,2020-03-16
 177195,France,Mayotte,-12.8431,45.1383,1.0,0.0,0.0,2020-03-16
 177197,Greenland,,71.7069,-42.6043,1.0,0.0,0.0,2020-03-16
@@ -1045,13 +1029,10 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177375,North Macedonia,,41.6086,21.7453,26.0,1.0,0.0,2020-03-17
 177379,Lithuania,,55.1694,23.8813,19.0,1.0,0.0,2020-03-17
 177400,Ukraine,,48.3794,31.1656,14.0,0.0,2.0,2020-03-17
-177407,French Guiana,,3.9339,-53.1258,11.0,0.0,0.0,2020-03-17
-177427,France,French Guiana,4.0,-53.0,7.0,0.0,0.0,2020-03-17
 177430,Liechtenstein,,47.166,9.5554,7.0,0.0,0.0,2020-03-17
 177431,Monaco,,43.7384,7.4246,7.0,0.0,0.0,2020-03-17
 177435,United Kingdom,Channel Islands,49.3723,-2.3644,6.0,0.0,0.0,2020-03-17
 177446,France,French Polynesia,-17.6797,-149.4068,3.0,0.0,0.0,2020-03-17
-177448,Guam,,13.4443,144.7937,3.0,0.0,0.0,2020-03-17
 177450,Netherlands,Curacao,12.1696,-68.99,3.0,0.0,0.0,2020-03-17
 177455,United Kingdom,Gibraltar,36.1408,-5.3536,3.0,1.0,0.0,2020-03-17
 177458,France,St Martin,18.0708,-63.0501,2.0,0.0,0.0,2020-03-17
@@ -1062,8 +1043,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177478,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-17
 177481,Mayotte,,-12.8275,45.1662,1.0,0.0,0.0,2020-03-17
 177494,Guernsey,,49.45,-2.58,0.0,0.0,0.0,2020-03-17
-177495,Jersey,,49.19,-2.11,0.0,0.0,0.0,2020-03-17
-177496,Puerto Rico,,18.2,-66.5,0.0,0.0,0.0,2020-03-17
 177500,Italy,,41.8719,12.5674,35713.0,4025.0,2978.0,2020-03-18
 177502,Spain,,40.4637,-3.7492,13910.0,1081.0,623.0,2020-03-18
 177503,Germany,,51.1657,10.4515,12327.0,105.0,28.0,2020-03-18
@@ -1107,7 +1086,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177660,Liechtenstein,,47.166,9.5554,28.0,0.0,0.0,2020-03-18
 177662,Lithuania,,55.1694,23.8813,27.0,1.0,0.0,2020-03-18
 177686,Ukraine,,48.3794,31.1656,14.0,0.0,2.0,2020-03-18
-177693,French Guiana,,3.9339,-53.1258,11.0,0.0,0.0,2020-03-18
 177705,United Kingdom,Gibraltar,36.1408,-5.3536,8.0,2.0,0.0,2020-03-18
 177709,Monaco,,43.7384,7.4246,7.0,0.0,0.0,2020-03-18
 177717,United Kingdom,Channel Islands,49.3723,-2.3644,6.0,0.0,0.0,2020-03-18
@@ -1120,12 +1098,8 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177759,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-18
 177761,Montenegro,,42.7087,19.3744,1.0,0.0,0.0,2020-03-18
 177771,United Kingdom,Montserrat,16.7425,-62.1874,1.0,0.0,0.0,2020-03-18
-177773,France,French Guiana,4.0,-53.0,0.0,0.0,0.0,2020-03-18
 177775,France,Mayotte,-12.8431,45.1383,0.0,0.0,0.0,2020-03-18
-177777,Guam,,13.4443,144.7937,0.0,0.0,0.0,2020-03-18
 177778,Guernsey,,49.45,-2.58,0.0,0.0,0.0,2020-03-18
-177779,Jersey,,49.19,-2.11,0.0,0.0,0.0,2020-03-18
-177780,Puerto Rico,,18.2,-66.5,0.0,0.0,0.0,2020-03-18
 177784,Italy,,41.8719,12.5674,41035.0,4440.0,3405.0,2020-03-19
 177786,Spain,,40.4637,-3.7492,17963.0,1107.0,830.0,2020-03-19
 177787,Germany,,51.1657,10.4515,15320.0,113.0,44.0,2020-03-19
@@ -1169,7 +1143,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 177947,Lithuania,,55.1694,23.8813,36.0,1.0,0.0,2020-03-19
 177957,Liechtenstein,,47.166,9.5554,28.0,0.0,0.0,2020-03-19
 177972,Ukraine,,48.3794,31.1656,16.0,0.0,2.0,2020-03-19
-177984,French Guiana,,3.9339,-53.1258,11.0,0.0,0.0,2020-03-19
 177990,United Kingdom,Channel Islands,49.3723,-2.3644,11.0,0.0,0.0,2020-03-19
 177992,United Kingdom,Gibraltar,36.1408,-5.3536,10.0,2.0,0.0,2020-03-19
 178002,Monaco,,43.7384,7.4246,7.0,0.0,0.0,2020-03-19
@@ -1184,13 +1157,9 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 178038,United Kingdom,Bermuda,32.3078,-64.7505,2.0,0.0,0.0,2020-03-19
 178053,Vatican City,,41.9029,12.4534,1.0,0.0,0.0,2020-03-19
 178061,United Kingdom,Montserrat,16.7425,-62.1874,1.0,0.0,0.0,2020-03-19
-178063,France,French Guiana,4.0,-53.0,0.0,0.0,0.0,2020-03-19
 178065,France,Mayotte,-12.8431,45.1383,0.0,0.0,0.0,2020-03-19
 178067,Greenland,,72.0,-40.0,0.0,0.0,0.0,2020-03-19
-178068,Guam,,13.4443,144.7937,0.0,0.0,0.0,2020-03-19
 178069,Guernsey,,49.45,-2.58,0.0,0.0,0.0,2020-03-19
-178070,Jersey,,49.19,-2.11,0.0,0.0,0.0,2020-03-19
-178071,Puerto Rico,,18.2,-66.5,0.0,0.0,0.0,2020-03-19
 178076,Italy,,41.8719,12.5674,47021.0,4440.0,4032.0,2020-03-20
 178077,Spain,,40.4637,-3.7492,20410.0,1588.0,1043.0,2020-03-20
 178078,Germany,,51.1657,10.4515,19848.0,180.0,67.0,2020-03-20
@@ -1234,7 +1203,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 178242,Georgia,,42.3154,43.3569,43.0,1.0,0.0,2020-03-20
 178253,Ukraine,,48.3794,31.1656,29.0,0.0,3.0,2020-03-20
 178254,Liechtenstein,,47.166,9.5554,28.0,0.0,0.0,2020-03-20
-178276,French Guiana,,3.9339,-53.1258,15.0,0.0,0.0,2020-03-20
 178278,Montenegro,,42.7087,19.3744,14.0,0.0,0.0,2020-03-20
 178282,United Kingdom,Channel Islands,49.3723,-2.3644,14.0,0.0,0.0,2020-03-20
 178290,France,French Polynesia,-17.6797,-149.4068,11.0,0.0,0.0,2020-03-20
@@ -1251,13 +1219,9 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 178351,Netherlands,Sint Maarten,18.0425,-63.0548,1.0,0.0,0.0,2020-03-20
 178358,United Kingdom,Isle of Man,54.2361,-4.5481,1.0,0.0,0.0,2020-03-20
 178359,United Kingdom,Montserrat,16.7425,-62.1874,1.0,0.0,0.0,2020-03-20
-178362,France,French Guiana,4.0,-53.0,0.0,0.0,0.0,2020-03-20
 178364,France,Mayotte,-12.8431,45.1383,0.0,0.0,0.0,2020-03-20
 178366,Greenland,,72.0,-40.0,0.0,0.0,0.0,2020-03-20
-178367,Guam,,13.4443,144.7937,0.0,0.0,0.0,2020-03-20
 178368,Guernsey,,49.45,-2.58,0.0,0.0,0.0,2020-03-20
-178369,Jersey,,49.19,-2.11,0.0,0.0,0.0,2020-03-20
-178370,Puerto Rico,,18.2,-66.5,0.0,0.0,0.0,2020-03-20
 178375,Italy,,41.8719,12.5674,53578.0,6072.0,4825.0,2020-03-21
 178376,Spain,,40.4637,-3.7492,25374.0,2125.0,1375.0,2020-03-21
 178377,Germany,,51.1657,10.4515,22213.0,233.0,84.0,2020-03-21
@@ -1302,7 +1266,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 178547,Ukraine,,48.3794,31.1656,47.0,1.0,3.0,2020-03-21
 178553,Liechtenstein,,47.166,9.5554,37.0,0.0,0.0,2020-03-21
 178557,United Kingdom,Channel Islands,49.3723,-2.3644,32.0,0.0,0.0,2020-03-21
-178578,French Guiana,,3.9339,-53.1258,18.0,6.0,0.0,2020-03-21
 178586,France,French Polynesia,-17.6797,-149.4068,15.0,0.0,0.0,2020-03-21
 178592,Montenegro,,42.7087,19.3744,14.0,0.0,0.0,2020-03-21
 178595,Monaco,,43.7384,7.4246,11.0,0.0,0.0,2020-03-21
@@ -1320,13 +1283,9 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 178656,Netherlands,Sint Maarten,18.0425,-63.0548,1.0,0.0,0.0,2020-03-21
 178663,United Kingdom,Isle of Man,54.2361,-4.5481,1.0,0.0,0.0,2020-03-21
 178664,United Kingdom,Montserrat,16.7425,-62.1874,1.0,0.0,0.0,2020-03-21
-178666,France,French Guiana,4.0,-53.0,0.0,0.0,0.0,2020-03-21
 178668,France,Mayotte,-12.8431,45.1383,0.0,0.0,0.0,2020-03-21
 178670,Greenland,,72.0,-40.0,0.0,0.0,0.0,2020-03-21
-178671,Guam,,13.4443,144.7937,0.0,0.0,0.0,2020-03-21
 178672,Guernsey,,49.45,-2.58,0.0,0.0,0.0,2020-03-21
-178673,Jersey,,49.19,-2.11,0.0,0.0,0.0,2020-03-21
-178674,Puerto Rico,,18.2,-66.5,0.0,0.0,0.0,2020-03-21
 181912,Italy,,41.87194,12.56738,59138.0,7024.0,5476.0,2020-03-22
 181913,Spain,,40.463667,-3.74922,28603.0,2125.0,1756.0,2020-03-22
 181914,Germany,,51.165691,10.451526,24873.0,266.0,94.0,2020-03-22
@@ -1373,7 +1332,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 182013,United Kingdom,Channel Islands,49.3723,-2.3644,32.0,0.0,0.0,2020-03-22
 182021,Monaco,,43.7333,7.4167,23.0,1.0,0.0,2020-03-22
 182023,Montenegro,,42.708678000000006,19.37439,21.0,0.0,0.0,2020-03-22
-182028,France,French Guiana,4.0,-53.0,18.0,0.0,0.0,2020-03-22
 182030,France,French Polynesia,-17.6797,149.4068,15.0,0.0,0.0,2020-03-22
 182031,United Kingdom,Gibraltar,36.1408,-5.3536,15.0,2.0,0.0,2020-03-22
 182039,France,Mayotte,-12.8275,45.166244,11.0,0.0,0.0,2020-03-22
@@ -1390,7 +1348,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 185276,United Kingdom,Channel Islands,49.3723,-2.3644,36.0,0.0,0.0,2020-03-23
 185278,Netherlands,Curacao,12.1696,-68.99,4.0,0.0,1.0,2020-03-23
 185282,Denmark,Faroe Islands,61.8926,-6.9118,118.0,23.0,0.0,2020-03-23
-185283,France,French Guiana,4.0,-53.0,20.0,6.0,0.0,2020-03-23
 185284,France,French Polynesia,-17.6797,-149.4068,19874.0,2200.0,860.0,2020-03-23
 185287,United Kingdom,Gibraltar,36.1408,-5.3536,15.0,5.0,0.0,2020-03-23
 185290,Denmark,Greenland,71.7069,-42.6043,4.0,0.0,0.0,2020-03-23
@@ -1448,7 +1405,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 188690,United Kingdom,Channel Islands,49.3723,-2.3644,36.0,0.0,0.0,2020-03-24
 188692,Netherlands,Curacao,12.1696,-68.99,6.0,0.0,1.0,2020-03-24
 188695,Denmark,Faroe Islands,61.8926,-6.9118,122.0,33.0,0.0,2020-03-24
-188696,France,French Guiana,4.0,-53.0,23.0,6.0,0.0,2020-03-24
 188697,France,French Polynesia,-17.6797,-149.4068,25.0,0.0,0.0,2020-03-24
 188700,United Kingdom,Gibraltar,36.1408,-5.3536,15.0,5.0,0.0,2020-03-24
 188703,Denmark,Greenland,71.7069,-42.6043,5.0,2.0,0.0,2020-03-24
@@ -1507,7 +1463,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 192108,United Kingdom,Channel Islands,49.3723,-2.3644,46.0,0.0,0.0,2020-03-25
 192110,Netherlands,Curacao,12.1696,-68.99,6.0,0.0,1.0,2020-03-25
 192113,Denmark,Faroe Islands,61.8926,-6.9118,132.0,38.0,0.0,2020-03-25
-192114,France,French Guiana,4.0,-53.0,28.0,6.0,0.0,2020-03-25
 192115,France,French Polynesia,-17.6797,-149.4068,25.0,0.0,0.0,2020-03-25
 192118,United Kingdom,Gibraltar,36.1408,-5.3536,26.0,5.0,0.0,2020-03-25
 192121,Denmark,Greenland,71.7069,-42.6043,6.0,2.0,0.0,2020-03-25
@@ -1566,7 +1521,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 195527,United Kingdom,Channel Islands,49.3723,-2.3644,66.0,0.0,1.0,2020-03-26
 195529,Netherlands,Curacao,12.1696,-68.99,6.0,2.0,1.0,2020-03-26
 195532,Denmark,Faroe Islands,61.8926,-6.9118,140.0,47.0,0.0,2020-03-26
-195533,France,French Guiana,4.0,-53.0,28.0,6.0,0.0,2020-03-26
 195534,France,French Polynesia,-17.6797,-149.4068,30.0,0.0,0.0,2020-03-26
 195537,United Kingdom,Gibraltar,36.1408,-5.3536,35.0,13.0,0.0,2020-03-26
 195540,Denmark,Greenland,71.7069,-42.6043,6.0,2.0,0.0,2020-03-26
@@ -1626,7 +1580,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 198957,United Kingdom,Channel Islands,49.3723,-2.3644,88.0,0.0,1.0,2020-03-27
 198959,Netherlands,Curacao,12.1696,-68.99,8.0,2.0,1.0,2020-03-27
 198962,Denmark,Faroe Islands,61.8926,-6.9118,144.0,54.0,0.0,2020-03-27
-198963,France,French Guiana,4.0,-53.0,28.0,6.0,0.0,2020-03-27
 198964,France,French Polynesia,-17.6797,-149.4068,30.0,0.0,0.0,2020-03-27
 198967,United Kingdom,Gibraltar,36.1408,-5.3536,55.0,14.0,0.0,2020-03-27
 198970,Denmark,Greenland,71.7069,-42.6043,10.0,2.0,0.0,2020-03-27
@@ -1688,7 +1641,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 202387,United Kingdom,Channel Islands,49.3723,-2.3644,97.0,0.0,1.0,2020-03-28
 202389,Netherlands,Curacao,12.1696,-68.99,8.0,2.0,1.0,2020-03-28
 202392,Denmark,Faroe Islands,61.8926,-6.9118,155.0,54.0,0.0,2020-03-28
-202393,France,French Guiana,4.0,-53.0,28.0,6.0,0.0,2020-03-28
 202394,France,French Polynesia,-17.6797,149.4068,30.0,0.0,0.0,2020-03-28
 202397,United Kingdom,Gibraltar,36.1408,-5.3536,56.0,14.0,0.0,2020-03-28
 202400,Denmark,Greenland,71.7069,-42.6043,10.0,2.0,0.0,2020-03-28
@@ -1751,7 +1703,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 205823,United Kingdom,Channel Islands,49.3723,-2.3644,108.0,0.0,2.0,2020-03-29
 205825,Netherlands,Curacao,12.1696,-68.99,8.0,2.0,1.0,2020-03-29
 205828,Denmark,Faroe Islands,61.8926,-6.9118,159.0,70.0,0.0,2020-03-29
-205829,France,French Guiana,4.0,-53.0,28.0,6.0,0.0,2020-03-29
 205830,France,French Polynesia,-17.6797,149.4068,30.0,0.0,0.0,2020-03-29
 205833,United Kingdom,Gibraltar,36.1408,-5.3536,65.0,14.0,0.0,2020-03-29
 205836,Denmark,Greenland,71.7069,-42.6043,10.0,2.0,0.0,2020-03-29
@@ -1814,7 +1765,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 209263,United Kingdom,Channel Islands,49.3723,-2.3644,141.0,0.0,2.0,2020-03-30
 209265,Netherlands,Curacao,12.1696,-68.99,11.0,2.0,1.0,2020-03-30
 209268,Denmark,Faroe Islands,61.8926,-6.9118,168.0,70.0,0.0,2020-03-30
-209269,France,French Guiana,4.0,-53.0,43.0,6.0,0.0,2020-03-30
 209270,France,French Polynesia,-17.6797,149.4068,36.0,0.0,0.0,2020-03-30
 209273,United Kingdom,Gibraltar,36.1408,-5.3536,69.0,34.0,0.0,2020-03-30
 209276,Denmark,Greenland,71.7069,-42.6043,10.0,2.0,0.0,2020-03-30
@@ -1877,7 +1827,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 211697,United Kingdom,Channel Islands,49.3723,-2.3644,141.0,0.0,3.0,2020-03-31
 211699,Netherlands,Curacao,12.1696,-68.99,11.0,2.0,1.0,2020-03-31
 211702,Denmark,Faroe Islands,61.8926,-6.9118,169.0,74.0,0.0,2020-03-31
-211703,France,French Guiana,4.0,-53.0,43.0,6.0,0.0,2020-03-31
 211704,France,French Polynesia,-17.6797,149.4068,36.0,0.0,0.0,2020-03-31
 211707,United Kingdom,Gibraltar,36.1408,-5.3536,69.0,34.0,0.0,2020-03-31
 211710,Denmark,Greenland,71.7069,-42.6043,10.0,2.0,0.0,2020-03-31
@@ -1940,7 +1889,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 214182,United Kingdom,Channel Islands,49.3723,-2.3644,172.0,0.0,3.0,2020-04-01
 214184,Netherlands,Curacao,12.1696,-68.99,11.0,3.0,1.0,2020-04-01
 214187,Denmark,Faroe Islands,61.8926,-6.9118,173.0,75.0,0.0,2020-04-01
-214188,France,French Guiana,4.0,-53.0,51.0,15.0,0.0,2020-04-01
 214189,France,French Polynesia,-17.6797,-149.4068,37.0,0.0,0.0,2020-04-01
 214192,United Kingdom,Gibraltar,36.1408,-5.3536,81.0,34.0,0.0,2020-04-01
 214195,Denmark,Greenland,71.7069,-42.6043,10.0,2.0,0.0,2020-04-01
@@ -2003,7 +1951,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 216751,United Kingdom,Channel Islands,49.3723,-2.3644,193.0,0.0,3.0,2020-04-02
 216753,Netherlands,Curacao,12.1696,-68.99,11.0,3.0,1.0,2020-04-02
 216756,Denmark,Faroe Islands,61.8926,-6.9118,177.0,81.0,0.0,2020-04-02
-216757,France,French Guiana,4.0,-53.0,51.0,15.0,0.0,2020-04-02
 216758,France,French Polynesia,-17.6797,-149.4068,37.0,0.0,0.0,2020-04-02
 216761,United Kingdom,Gibraltar,36.1408,-5.3536,88.0,46.0,0.0,2020-04-02
 216764,Denmark,Greenland,71.7069,-42.6043,10.0,2.0,0.0,2020-04-02
@@ -2066,7 +2013,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 219377,United Kingdom,Channel Islands,49.3723,-2.3644,232.0,13.0,4.0,2020-04-03
 219379,Netherlands,Curacao,12.1696,-68.99,11.0,3.0,1.0,2020-04-03
 219382,Denmark,Faroe Islands,61.8926,-6.9118,179.0,91.0,0.0,2020-04-03
-219383,France,French Guiana,4.0,-53.0,57.0,22.0,0.0,2020-04-03
 219384,France,French Polynesia,-17.6797,-149.4068,39.0,0.0,0.0,2020-04-03
 219387,United Kingdom,Gibraltar,36.1408,-5.3536,95.0,46.0,0.0,2020-04-03
 219390,Denmark,Greenland,71.7069,-42.6043,10.0,3.0,0.0,2020-04-03
@@ -2130,7 +2076,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 222058,Netherlands,Curacao,12.1696,-68.99,11.0,5.0,1.0,2020-04-04
 222061,United Kingdom,Falkland Islands (Islas Malvinas),-51.7963,-59.5236,1.0,0.0,0.0,2020-04-04
 222062,Denmark,Faroe Islands,61.8926,-6.9118,181.0,93.0,0.0,2020-04-04
-222063,France,French Guiana,4.0,-53.0,61.0,22.0,0.0,2020-04-04
 222064,France,French Polynesia,-17.6797,-149.4068,40.0,0.0,0.0,2020-04-04
 222067,United Kingdom,Gibraltar,36.1408,-5.3536,98.0,52.0,0.0,2020-04-04
 222070,Denmark,Greenland,71.7069,-42.6043,11.0,3.0,0.0,2020-04-04
@@ -2194,7 +2139,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 224820,Netherlands,Curacao,12.1696,-68.99,11.0,5.0,1.0,2020-04-05
 224823,United Kingdom,Falkland Islands (Islas Malvinas),-51.7963,-59.5236,2.0,0.0,0.0,2020-04-05
 224824,Denmark,Faroe Islands,61.8926,-6.9118,181.0,99.0,0.0,2020-04-05
-224825,France,French Guiana,4.0,-53.0,61.0,22.0,0.0,2020-04-05
 224826,France,French Polynesia,-17.6797,-149.4068,41.0,0.0,0.0,2020-04-05
 224829,United Kingdom,Gibraltar,36.1408,-5.3536,103.0,52.0,0.0,2020-04-05
 224832,Denmark,Greenland,71.7069,-42.6043,11.0,3.0,0.0,2020-04-05
@@ -2259,7 +2203,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 227628,Netherlands,Curacao,12.1696,-68.99,13.0,5.0,1.0,2020-04-06
 227631,United Kingdom,Falkland Islands (Islas Malvinas),-51.7963,-59.5236,2.0,0.0,0.0,2020-04-06
 227632,Denmark,Faroe Islands,61.8926,-6.9118,183.0,107.0,0.0,2020-04-06
-227633,France,French Guiana,4.0,-53.0,72.0,34.0,0.0,2020-04-06
 227634,France,French Polynesia,-17.6797,-149.4068,42.0,0.0,0.0,2020-04-06
 227637,United Kingdom,Gibraltar,36.1408,-5.3536,109.0,52.0,0.0,2020-04-06
 227640,Denmark,Greenland,71.7069,-42.6043,11.0,4.0,0.0,2020-04-06
@@ -2324,7 +2267,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 230486,Netherlands,Curacao,12.1696,-68.99,13.0,7.0,1.0,2020-04-07
 230489,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,2.0,0.0,0.0,2020-04-07
 230490,Denmark,Faroe Islands,61.8926,-6.9118,184.0,120.0,0.0,2020-04-07
-230491,France,French Guiana,4.0,-53.0,72.0,34.0,0.0,2020-04-07
 230492,France,French Polynesia,-17.6797,-149.4068,47.0,0.0,0.0,2020-04-07
 230495,United Kingdom,Gibraltar,36.1408,-5.3536,113.0,60.0,0.0,2020-04-07
 230498,Denmark,Greenland,71.7069,-42.6043,11.0,10.0,0.0,2020-04-07
@@ -2389,7 +2331,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 233369,Netherlands,Curacao,12.1696,-68.99,14.0,7.0,1.0,2020-04-08
 233372,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,5.0,1.0,0.0,2020-04-08
 233373,Denmark,Faroe Islands,61.8926,-6.9118,184.0,131.0,0.0,2020-04-08
-233374,France,French Guiana,4.0,-53.0,77.0,34.0,0.0,2020-04-08
 233375,France,French Polynesia,-17.6797,-149.4068,51.0,0.0,0.0,2020-04-08
 233378,United Kingdom,Gibraltar,36.1408,-5.3536,120.0,60.0,0.0,2020-04-08
 233381,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-08
@@ -2454,7 +2395,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 236280,Netherlands,Curacao,12.1696,-68.99,14.0,7.0,1.0,2020-04-09
 236283,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,5.0,1.0,0.0,2020-04-09
 236284,Denmark,Faroe Islands,61.8926,-6.9118,184.0,136.0,0.0,2020-04-09
-236285,France,French Guiana,4.0,-53.0,83.0,43.0,0.0,2020-04-09
 236286,France,French Polynesia,-17.6797,-149.4068,51.0,0.0,0.0,2020-04-09
 236289,United Kingdom,Gibraltar,36.1408,-5.3536,123.0,60.0,0.0,2020-04-09
 236292,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-09
@@ -2519,7 +2459,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 239220,Netherlands,Curacao,12.1696,-68.99,14.0,7.0,1.0,2020-04-10
 239223,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,5.0,1.0,0.0,2020-04-10
 239224,Denmark,Faroe Islands,61.8926,-6.9118,184.0,145.0,0.0,2020-04-10
-239225,France,French Guiana,4.0,-53.0,83.0,43.0,0.0,2020-04-10
 239226,France,French Polynesia,-17.6797,-149.4068,51.0,0.0,0.0,2020-04-10
 239229,United Kingdom,Gibraltar,36.1408,-5.3536,127.0,69.0,0.0,2020-04-10
 239232,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-10
@@ -2584,7 +2523,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 242186,Netherlands,Curacao,12.1696,-68.99,14.0,7.0,1.0,2020-04-11
 242189,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,5.0,1.0,0.0,2020-04-11
 242190,Denmark,Faroe Islands,61.8926,-6.9118,184.0,145.0,0.0,2020-04-11
-242191,France,French Guiana,4.0,-53.0,83.0,43.0,0.0,2020-04-11
 242192,France,French Polynesia,-17.6797,-149.4068,51.0,0.0,0.0,2020-04-11
 242195,United Kingdom,Gibraltar,36.1408,-5.3536,129.0,84.0,0.0,2020-04-11
 242198,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-11
@@ -2649,7 +2587,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 245176,Netherlands,Curacao,12.1696,-68.99,14.0,8.0,1.0,2020-04-12
 245178,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,5.0,1.0,0.0,2020-04-12
 245179,Denmark,Faroe Islands,61.8926,-6.9118,184.0,157.0,0.0,2020-04-12
-245180,France,French Guiana,4.0,-53.0,86.0,51.0,0.0,2020-04-12
 245181,France,French Polynesia,-17.6797,-149.4068,53.0,0.0,0.0,2020-04-12
 245184,United Kingdom,Gibraltar,36.1408,-5.3536,129.0,84.0,0.0,2020-04-12
 245187,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-12
@@ -2714,7 +2651,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 248179,Netherlands,Curacao,12.1696,-68.99,14.0,8.0,1.0,2020-04-13
 248181,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,5.0,1.0,0.0,2020-04-13
 248182,Denmark,Faroe Islands,61.8926,-6.9118,184.0,157.0,0.0,2020-04-13
-248183,France,French Guiana,4.0,-53.0,86.0,51.0,0.0,2020-04-13
 248184,France,French Polynesia,-17.6797,-149.4068,55.0,0.0,0.0,2020-04-13
 248187,United Kingdom,Gibraltar,36.1408,-5.3536,129.0,84.0,0.0,2020-04-13
 248190,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-13
@@ -2779,7 +2715,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 251193,Netherlands,Curacao,12.1696,-68.99,14.0,10.0,1.0,2020-04-14
 251195,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,1.0,0.0,2020-04-14
 251196,Denmark,Faroe Islands,61.8926,-6.9118,184.0,163.0,0.0,2020-04-14
-251197,France,French Guiana,4.0,-53.0,86.0,51.0,0.0,2020-04-14
 251198,France,French Polynesia,-17.6797,-149.4068,55.0,0.0,0.0,2020-04-14
 251201,United Kingdom,Gibraltar,36.1408,-5.3536,129.0,93.0,0.0,2020-04-14
 251204,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-14
@@ -2844,7 +2779,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 254220,Netherlands,Curacao,12.1696,-68.99,14.0,10.0,1.0,2020-04-15
 254222,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,1.0,0.0,2020-04-15
 254223,Denmark,Faroe Islands,61.8926,-6.9118,184.0,166.0,0.0,2020-04-15
-254224,France,French Guiana,4.0,-53.0,86.0,51.0,0.0,2020-04-15
 254225,France,French Polynesia,-17.6797,-149.4068,55.0,0.0,0.0,2020-04-15
 254228,United Kingdom,Gibraltar,36.1408,-5.3536,131.0,104.0,0.0,2020-04-15
 254231,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-15
@@ -2909,7 +2843,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 257262,Netherlands,Curacao,12.1696,-68.99,14.0,10.0,1.0,2020-04-16
 257264,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,1.0,0.0,2020-04-16
 257265,Denmark,Faroe Islands,61.8926,-6.9118,184.0,169.0,0.0,2020-04-16
-257266,France,French Guiana,4.0,-53.0,86.0,51.0,0.0,2020-04-16
 257267,France,French Polynesia,-17.6797,-149.4068,55.0,0.0,0.0,2020-04-16
 257270,United Kingdom,Gibraltar,36.1408,-5.3536,131.0,104.0,0.0,2020-04-16
 257273,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-16
@@ -2974,7 +2907,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 260308,Netherlands,Curacao,12.1696,-68.99,14.0,10.0,1.0,2020-04-17
 260310,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,1.0,0.0,2020-04-17
 260311,Denmark,Faroe Islands,61.8926,-6.9118,184.0,171.0,0.0,2020-04-17
-260312,France,French Guiana,4.0,-53.0,96.0,61.0,0.0,2020-04-17
 260313,France,French Polynesia,-17.6797,-149.4068,55.0,0.0,0.0,2020-04-17
 260316,United Kingdom,Gibraltar,36.1408,-5.3536,132.0,105.0,0.0,2020-04-17
 260319,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-17
@@ -3039,7 +2971,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 263362,Netherlands,Curacao,12.1696,-68.99,14.0,11.0,1.0,2020-04-18
 263364,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,3.0,0.0,2020-04-18
 263365,Denmark,Faroe Islands,61.8926,-6.9118,184.0,173.0,0.0,2020-04-18
-263366,France,French Guiana,4.0,-53.0,96.0,64.0,0.0,2020-04-18
 263367,France,French Polynesia,-17.6797,-149.4068,55.0,2.0,0.0,2020-04-18
 263370,United Kingdom,Gibraltar,36.1408,-5.3536,132.0,111.0,0.0,2020-04-18
 263373,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-18
@@ -3104,7 +3035,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 266435,Netherlands,Curacao,12.1696,-68.99,14.0,11.0,1.0,2020-04-19
 266437,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,3.0,0.0,2020-04-19
 266438,Denmark,Faroe Islands,61.8926,-6.9118,185.0,176.0,0.0,2020-04-19
-266439,France,French Guiana,4.0,-53.0,96.0,64.0,0.0,2020-04-19
 266440,France,French Polynesia,-17.6797,-149.4068,55.0,2.0,0.0,2020-04-19
 266443,United Kingdom,Gibraltar,36.1408,-5.3536,132.0,120.0,0.0,2020-04-19
 266446,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-19
@@ -3169,7 +3099,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 269517,Netherlands,Curacao,12.1696,-68.99,14.0,11.0,1.0,2020-04-20
 269519,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,3.0,0.0,2020-04-20
 269520,Denmark,Faroe Islands,61.8926,-6.9118,185.0,176.0,0.0,2020-04-20
-269521,France,French Guiana,4.0,-53.0,97.0,69.0,1.0,2020-04-20
 269522,France,French Polynesia,-17.6797,-149.4068,56.0,19.0,0.0,2020-04-20
 269525,United Kingdom,Gibraltar,36.1408,-5.3536,132.0,120.0,0.0,2020-04-20
 269528,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-20
@@ -3234,7 +3163,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 272609,Netherlands,Curacao,12.1696,-68.99,14.0,11.0,1.0,2020-04-21
 272611,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,3.0,0.0,2020-04-21
 272612,Denmark,Faroe Islands,61.8926,-6.9118,185.0,178.0,0.0,2020-04-21
-272613,France,French Guiana,4.0,-53.0,97.0,76.0,1.0,2020-04-21
 272614,France,French Polynesia,-17.6797,-149.4068,56.0,19.0,0.0,2020-04-21
 272617,United Kingdom,Gibraltar,36.1408,-5.3536,132.0,120.0,0.0,2020-04-21
 272620,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-21
@@ -3299,7 +3227,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 275710,Netherlands,Curacao,12.1696,-68.99,14.0,11.0,1.0,2020-04-22
 275712,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,11.0,3.0,0.0,2020-04-22
 275713,Denmark,Faroe Islands,61.8926,-6.9118,185.0,178.0,0.0,2020-04-22
-275714,France,French Guiana,4.0,-53.0,97.0,83.0,1.0,2020-04-22
 275715,France,French Polynesia,-17.6797,-149.4068,57.0,35.0,0.0,2020-04-22
 275718,United Kingdom,Gibraltar,36.1408,-5.3536,132.0,127.0,0.0,2020-04-22
 275720,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-22
@@ -3364,7 +3291,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 278829,Netherlands,Curacao,12.1696,-68.99,14.0,11.0,1.0,2020-04-23
 278832,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,12.0,11.0,0.0,2020-04-23
 278833,Denmark,Faroe Islands,61.8926,-6.9118,187.0,178.0,0.0,2020-04-23
-278834,France,French Guiana,4.0,-53.0,107.0,84.0,1.0,2020-04-23
 278835,France,French Polynesia,-17.6797,-149.4068,57.0,36.0,0.0,2020-04-23
 278838,United Kingdom,Gibraltar,36.1408,-5.3536,133.0,129.0,0.0,2020-04-23
 278840,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-23
@@ -3429,7 +3355,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 281959,Netherlands,Curacao,12.1696,-68.99,16.0,11.0,1.0,2020-04-24
 281962,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,11.0,0.0,2020-04-24
 281963,Denmark,Faroe Islands,61.8926,-6.9118,187.0,178.0,0.0,2020-04-24
-281964,France,French Guiana,4.0,-53.0,111.0,87.0,1.0,2020-04-24
 281965,France,French Polynesia,-17.6797,-149.4068,57.0,41.0,0.0,2020-04-24
 281968,United Kingdom,Gibraltar,36.1408,-5.3536,133.0,131.0,0.0,2020-04-24
 281970,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-24
@@ -3494,7 +3419,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 285093,Netherlands,Curacao,12.1696,-68.99,16.0,11.0,1.0,2020-04-25
 285096,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,11.0,0.0,2020-04-25
 285097,Denmark,Faroe Islands,61.8926,-6.9118,187.0,178.0,0.0,2020-04-25
-285098,France,French Guiana,4.0,-53.0,111.0,87.0,1.0,2020-04-25
 285099,France,French Polynesia,-17.6797,-149.4068,57.0,41.0,0.0,2020-04-25
 285102,United Kingdom,Gibraltar,36.1408,-5.3536,136.0,131.0,0.0,2020-04-25
 285104,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-25
@@ -3559,7 +3483,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 288235,Netherlands,Curacao,12.1696,-68.99,16.0,11.0,1.0,2020-04-26
 288238,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,11.0,0.0,2020-04-26
 288239,Denmark,Faroe Islands,61.8926,-6.9118,187.0,178.0,0.0,2020-04-26
-288240,France,French Guiana,4.0,-53.0,111.0,87.0,1.0,2020-04-26
 288241,France,French Polynesia,-17.6797,-149.4068,57.0,41.0,0.0,2020-04-26
 288244,United Kingdom,Gibraltar,36.1408,-5.3536,141.0,131.0,0.0,2020-04-26
 288246,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-26
@@ -3624,7 +3547,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 291385,Netherlands,Curacao,12.1696,-68.99,16.0,11.0,1.0,2020-04-27
 291388,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,11.0,0.0,2020-04-27
 291389,Denmark,Faroe Islands,61.8926,-6.9118,187.0,178.0,0.0,2020-04-27
-291390,France,French Guiana,4.0,-53.0,111.0,87.0,1.0,2020-04-27
 291391,France,French Polynesia,-17.6797,-149.4068,57.0,43.0,0.0,2020-04-27
 291394,United Kingdom,Gibraltar,36.1408,-5.3536,141.0,131.0,0.0,2020-04-27
 291397,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-27
@@ -3689,7 +3611,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 294550,Netherlands,Curacao,12.1696,-68.99,16.0,11.0,1.0,2020-04-28
 294553,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,11.0,0.0,2020-04-28
 294554,Denmark,Faroe Islands,61.8926,-6.9118,187.0,181.0,0.0,2020-04-28
-294555,France,French Guiana,4.0,-53.0,125.0,93.0,1.0,2020-04-28
 294556,France,French Polynesia,-17.6797,-149.4068,58.0,49.0,0.0,2020-04-28
 294559,United Kingdom,Gibraltar,36.1408,-5.3536,141.0,131.0,0.0,2020-04-28
 294562,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-28
@@ -3754,7 +3675,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 297719,Netherlands,Curacao,12.1696,-68.99,16.0,13.0,1.0,2020-04-29
 297722,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,11.0,0.0,2020-04-29
 297723,Denmark,Faroe Islands,61.8926,-6.9118,187.0,181.0,0.0,2020-04-29
-297724,France,French Guiana,4.0,-53.0,125.0,93.0,1.0,2020-04-29
 297725,France,French Polynesia,-17.6797,-149.4068,58.0,50.0,0.0,2020-04-29
 297728,United Kingdom,Gibraltar,36.1408,-5.3536,141.0,131.0,0.0,2020-04-29
 297731,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-29
@@ -3819,7 +3739,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 300895,Netherlands,Curacao,12.1696,-68.99,16.0,13.0,1.0,2020-04-30
 300898,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,11.0,0.0,2020-04-30
 300899,Denmark,Faroe Islands,61.8926,-6.9118,187.0,184.0,0.0,2020-04-30
-300900,France,French Guiana,4.0,-53.0,126.0,94.0,1.0,2020-04-30
 300901,France,French Polynesia,-17.6797,-149.4068,58.0,50.0,0.0,2020-04-30
 300904,United Kingdom,Gibraltar,36.1408,-5.3536,144.0,131.0,0.0,2020-04-30
 300907,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-04-30
@@ -3884,7 +3803,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 304084,Netherlands,Curacao,12.1696,-68.99,16.0,13.0,1.0,2020-05-01
 304087,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-01
 304088,Denmark,Faroe Islands,61.8926,-6.9118,187.0,184.0,0.0,2020-05-01
-304089,France,French Guiana,4.0,-53.0,128.0,98.0,1.0,2020-05-01
 304090,France,French Polynesia,-17.6797,-149.4068,58.0,51.0,0.0,2020-05-01
 304093,United Kingdom,Gibraltar,36.1408,-5.3536,144.0,131.0,0.0,2020-05-01
 304096,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-01
@@ -3949,7 +3867,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 307277,Netherlands,Curacao,12.1696,-68.99,16.0,13.0,1.0,2020-05-02
 307280,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-02
 307281,Denmark,Faroe Islands,61.8926,-6.9118,187.0,184.0,0.0,2020-05-02
-307282,France,French Guiana,4.0,-53.0,128.0,98.0,1.0,2020-05-02
 307283,France,French Polynesia,-17.6797,-149.4068,58.0,51.0,0.0,2020-05-02
 307286,United Kingdom,Gibraltar,36.1408,-5.3536,144.0,132.0,0.0,2020-05-02
 307289,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-02
@@ -4014,7 +3931,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 310476,Netherlands,Curacao,12.1696,-68.99,16.0,13.0,1.0,2020-05-03
 310479,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-03
 310480,Denmark,Faroe Islands,61.8926,-6.9118,187.0,185.0,0.0,2020-05-03
-310481,France,French Guiana,4.0,-53.0,128.0,98.0,1.0,2020-05-03
 310482,France,French Polynesia,-17.6797,-149.4068,58.0,51.0,0.0,2020-05-03
 310485,United Kingdom,Gibraltar,36.1408,-5.3536,144.0,132.0,0.0,2020-05-03
 310488,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-03
@@ -4079,7 +3995,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 313678,Netherlands,Curacao,12.1696,-68.99,16.0,13.0,1.0,2020-05-04
 313681,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-04
 313682,Denmark,Faroe Islands,61.8926,-6.9118,187.0,185.0,0.0,2020-05-04
-313683,France,French Guiana,4.0,-53.0,133.0,100.0,1.0,2020-05-04
 313684,France,French Polynesia,-17.6797,-149.4068,58.0,53.0,0.0,2020-05-04
 313687,United Kingdom,Gibraltar,36.1408,-5.3536,144.0,133.0,0.0,2020-05-04
 313690,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-04
@@ -4144,7 +4059,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 316888,Netherlands,Curacao,12.1696,-68.99,16.0,13.0,1.0,2020-05-05
 316891,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-05
 316892,Denmark,Faroe Islands,61.8926,-6.9118,187.0,185.0,0.0,2020-05-05
-316893,France,French Guiana,4.0,-53.0,133.0,100.0,1.0,2020-05-05
 316894,France,French Polynesia,-17.6797,-149.4068,60.0,54.0,0.0,2020-05-05
 316897,United Kingdom,Gibraltar,36.1408,-5.3536,144.0,133.0,0.0,2020-05-05
 316900,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-05
@@ -4209,7 +4123,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 320105,Netherlands,Curacao,12.1696,-68.99,16.0,13.0,1.0,2020-05-06
 320108,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-06
 320109,Denmark,Faroe Islands,61.8926,-6.9118,187.0,185.0,0.0,2020-05-06
-320110,France,French Guiana,4.0,-53.0,138.0,111.0,1.0,2020-05-06
 320111,France,French Polynesia,-17.6797,-149.4068,60.0,54.0,0.0,2020-05-06
 320114,United Kingdom,Gibraltar,36.1408,-5.3536,144.0,136.0,0.0,2020-05-06
 320117,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-06
@@ -4274,7 +4187,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 323329,Netherlands,Curacao,12.1696,-68.99,16.0,14.0,1.0,2020-05-07
 323332,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-07
 323333,Denmark,Faroe Islands,61.8926,-6.9118,187.0,185.0,0.0,2020-05-07
-323334,France,French Guiana,4.0,-53.0,138.0,112.0,1.0,2020-05-07
 323335,France,French Polynesia,-17.6797,-149.4068,60.0,56.0,0.0,2020-05-07
 323338,United Kingdom,Gibraltar,36.1408,-5.3536,144.0,141.0,0.0,2020-05-07
 323341,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-07
@@ -4339,7 +4251,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 326560,Netherlands,Curacao,12.1696,-68.99,16.0,14.0,1.0,2020-05-08
 326563,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-08
 326564,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-08
-326565,France,French Guiana,4.0,-53.0,141.0,119.0,1.0,2020-05-08
 326566,France,French Polynesia,-17.6797,-149.4068,60.0,56.0,0.0,2020-05-08
 326569,United Kingdom,Gibraltar,36.1408,-5.3536,146.0,142.0,0.0,2020-05-08
 326572,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-08
@@ -4404,7 +4315,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 329793,Netherlands,Curacao,12.1696,-68.99,16.0,14.0,1.0,2020-05-09
 329796,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-09
 329797,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-09
-329798,France,French Guiana,4.0,-53.0,141.0,119.0,1.0,2020-05-09
 329799,France,French Polynesia,-17.6797,-149.4068,60.0,56.0,0.0,2020-05-09
 329802,United Kingdom,Gibraltar,36.1408,-5.3536,146.0,142.0,0.0,2020-05-09
 329805,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-09
@@ -4469,7 +4379,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 333028,Netherlands,Curacao,12.1696,-68.99,16.0,14.0,1.0,2020-05-10
 333031,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-10
 333032,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-10
-333033,France,French Guiana,4.0,-53.0,144.0,122.0,1.0,2020-05-10
 333034,France,French Polynesia,-17.6797,-149.4068,60.0,56.0,0.0,2020-05-10
 333037,United Kingdom,Gibraltar,36.1408,-5.3536,146.0,143.0,0.0,2020-05-10
 333040,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-10
@@ -4534,7 +4443,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 336263,Netherlands,Curacao,12.1696,-68.99,16.0,14.0,1.0,2020-05-11
 336266,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-11
 336267,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-11
-336268,France,French Guiana,4.0,-53.0,144.0,122.0,1.0,2020-05-11
 336269,France,French Polynesia,-17.6797,-149.4068,60.0,56.0,0.0,2020-05-11
 336272,United Kingdom,Gibraltar,36.1408,-5.3536,147.0,143.0,0.0,2020-05-11
 336275,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-11
@@ -4599,7 +4507,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 339501,Netherlands,Curacao,12.1696,-68.99,16.0,14.0,1.0,2020-05-12
 339504,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-12
 339505,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-12
-339506,France,French Guiana,4.0,-53.0,153.0,124.0,1.0,2020-05-12
 339507,France,French Polynesia,-17.6797,-149.4068,60.0,58.0,0.0,2020-05-12
 339510,United Kingdom,Gibraltar,36.1408,-5.3536,148.0,144.0,0.0,2020-05-12
 339513,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-12
@@ -4664,7 +4571,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 342740,Netherlands,Curacao,12.1696,-68.99,16.0,14.0,1.0,2020-05-13
 342743,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-13
 342744,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-13
-342745,France,French Guiana,4.0,-53.0,153.0,124.0,1.0,2020-05-13
 342746,France,French Polynesia,-17.6797,-149.4068,60.0,58.0,0.0,2020-05-13
 342749,United Kingdom,Gibraltar,36.1408,-5.3536,147.0,144.0,0.0,2020-05-13
 342752,Denmark,Greenland,71.7069,-42.6043,11.0,11.0,0.0,2020-05-13
@@ -4750,7 +4656,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 346006,Spain,Extremadura,39.4937,-6.0679,2923.0,2482.0,492.0,2020-05-14
 346007,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-14
 346008,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-14
-346009,France,French Guiana,4.0,-53.0,164.0,124.0,1.0,2020-05-14
 346010,France,French Polynesia,-17.6797,-149.4068,60.0,59.0,0.0,2020-05-14
 346011,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3161.0,2074.0,317.0,2020-05-14
 346013,Spain,Galicia,42.5751,-8.1339,9317.0,8157.0,601.0,2020-05-14
@@ -4868,7 +4773,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 349307,Spain,Extremadura,39.4937,-6.0679,2933.0,2587.0,494.0,2020-05-15
 349308,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-15
 349309,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-15
-349310,France,French Guiana,4.0,-53.0,189.0,124.0,1.0,2020-05-15
 349311,France,French Polynesia,-17.6797,-149.4068,60.0,59.0,0.0,2020-05-15
 349312,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3175.0,2116.0,318.0,2020-05-15
 349314,Spain,Galicia,42.5751,-8.1339,9323.0,8283.0,601.0,2020-05-15
@@ -4986,7 +4890,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 352612,Spain,Extremadura,39.4937,-6.0679,2958.0,2609.0,497.0,2020-05-16
 352613,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-16
 352614,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-16
-352615,France,French Guiana,4.0,-53.0,197.0,125.0,1.0,2020-05-16
 352616,France,French Polynesia,-17.6797,-149.4068,60.0,59.0,0.0,2020-05-16
 352617,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3183.0,2184.0,319.0,2020-05-16
 352619,Spain,Galicia,42.5751,-8.1339,9041.0,8409.0,604.0,2020-05-16
@@ -5104,7 +5007,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 355920,Spain,Extremadura,39.4937,-6.0679,2958.0,2609.0,497.0,2020-05-17
 355921,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-17
 355922,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-17
-355923,France,French Guiana,4.0,-53.0,197.0,125.0,1.0,2020-05-17
 355924,France,French Polynesia,-17.6797,-149.4068,60.0,59.0,0.0,2020-05-17
 355925,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3191.0,2218.0,319.0,2020-05-17
 355927,Spain,Galicia,42.5751,-8.1339,9041.0,8409.0,604.0,2020-05-17
@@ -5222,7 +5124,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 359229,Spain,Extremadura,39.4937,-6.0679,2948.0,2652.0,500.0,2020-05-18
 359230,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-18
 359231,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-18
-359232,France,French Guiana,4.0,-53.0,210.0,131.0,1.0,2020-05-18
 359233,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-18
 359234,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3198.0,2257.0,320.0,2020-05-18
 359236,Spain,Galicia,42.5751,-8.1339,9056.0,9204.0,607.0,2020-05-18
@@ -5341,7 +5242,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 362544,Spain,Extremadura,39.4937,-6.0679,2953.0,0.0,504.0,2020-05-19
 362545,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-19
 362546,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-19
-362547,France,French Guiana,4.0,-53.0,218.0,136.0,1.0,2020-05-19
 362548,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-19
 362549,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3203.0,2283.0,320.0,2020-05-19
 362551,Spain,Galicia,42.5751,-8.1339,9058.0,0.0,607.0,2020-05-19
@@ -5459,7 +5359,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 365889,Spain,Extremadura,39.4937,-6.0679,3040.0,0.0,504.0,2020-05-20
 365890,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-20
 365891,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-20
-365892,France,French Guiana,4.0,-53.0,237.0,136.0,1.0,2020-05-20
 365893,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-20
 365894,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3209.0,2291.0,322.0,2020-05-20
 365896,Spain,Galicia,42.5751,-8.1339,9067.0,0.0,607.0,2020-05-20
@@ -5578,7 +5477,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 369286,Spain,Extremadura,39.4937,-6.0679,3042.0,0.0,505.0,2020-05-21
 369287,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-21
 369288,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-21
-369289,France,French Guiana,4.0,-53.0,249.0,137.0,1.0,2020-05-21
 369290,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-21
 369291,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3215.0,2314.0,323.0,2020-05-21
 369293,Spain,Galicia,42.5751,-8.1339,9077.0,0.0,608.0,2020-05-21
@@ -5697,7 +5595,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 372690,Spain,Extremadura,39.4937,-6.0679,3044.0,0.0,506.0,2020-05-22
 372691,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-22
 372692,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-22
-372693,France,French Guiana,4.0,-53.0,261.0,141.0,1.0,2020-05-22
 372694,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-22
 372695,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3227.0,2417.0,325.0,2020-05-22
 372697,Spain,Galicia,42.5751,-8.1339,9084.0,0.0,609.0,2020-05-22
@@ -5816,7 +5713,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 376096,Spain,Extremadura,39.4937,-6.0679,3048.0,0.0,507.0,2020-05-23
 376097,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-23
 376098,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-23
-376099,France,French Guiana,4.0,-53.0,279.0,143.0,1.0,2020-05-23
 376100,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-23
 376101,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3233.0,2447.0,327.0,2020-05-23
 376103,Spain,Galicia,42.5751,-8.1339,9098.0,0.0,610.0,2020-05-23
@@ -5935,7 +5831,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 379506,Spain,Extremadura,39.4937,-6.0679,3047.0,0.0,506.0,2020-05-24
 379507,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-24
 379508,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-24
-379509,France,French Guiana,4.0,-53.0,328.0,145.0,1.0,2020-05-24
 379510,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-24
 379511,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3236.0,2495.0,329.0,2020-05-24
 379513,Spain,Galicia,42.5751,-8.1339,9105.0,0.0,613.0,2020-05-24
@@ -6054,7 +5949,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 382917,Spain,Extremadura,39.4937,-6.0679,2952.0,0.0,506.0,2020-05-25
 382918,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-25
 382919,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-25
-382920,France,French Guiana,4.0,-53.0,353.0,146.0,1.0,2020-05-25
 382921,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-25
 382922,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3240.0,2525.0,329.0,2020-05-25
 382924,Spain,Galicia,42.5751,-8.1339,9079.0,0.0,607.0,2020-05-25
@@ -6173,7 +6067,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 386329,Spain,Extremadura,39.4937,-6.0679,2955.0,2652.0,507.0,2020-05-26
 386330,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-26
 386331,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-26
-386332,France,French Guiana,4.0,-53.0,384.0,146.0,1.0,2020-05-26
 386333,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-26
 386334,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3251.0,2547.0,329.0,2020-05-26
 386336,Spain,Galicia,42.5751,-8.1339,9108.0,9204.0,607.0,2020-05-26
@@ -6292,7 +6185,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 389745,Spain,Extremadura,39.4937,-6.0679,2955.0,2652.0,507.0,2020-05-27
 389746,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-27
 389747,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-27
-389748,France,French Guiana,4.0,-53.0,406.0,150.0,1.0,2020-05-27
 389749,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-27
 389750,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3255.0,2568.0,331.0,2020-05-27
 389752,Spain,Galicia,42.5751,-8.1339,9108.0,9204.0,607.0,2020-05-27
@@ -6411,7 +6303,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 393192,Spain,Extremadura,39.4937,-6.0679,2961.0,2652.0,507.0,2020-05-28
 393193,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-28
 393194,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-28
-393195,France,French Guiana,4.0,-53.0,436.0,161.0,1.0,2020-05-28
 393196,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-28
 393197,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3262.0,2593.0,333.0,2020-05-28
 393202,Spain,Galicia,42.5751,-8.1339,9115.0,9204.0,608.0,2020-05-28
@@ -6530,7 +6421,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 396715,Spain,Extremadura,39.4937,-6.0679,2963.0,2652.0,507.0,2020-05-29
 396716,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-29
 396717,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-29
-396718,France,French Guiana,4.0,-53.0,450.0,172.0,1.0,2020-05-29
 396719,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-29
 396720,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3267.0,2611.0,333.0,2020-05-29
 396725,Spain,Galicia,42.5751,-8.1339,9117.0,9204.0,608.0,2020-05-29
@@ -6649,7 +6539,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 400241,Spain,Extremadura,39.4937,-6.0679,2964.0,2652.0,508.0,2020-05-30
 400242,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-30
 400243,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-30
-400244,France,French Guiana,4.0,-53.0,477.0,185.0,1.0,2020-05-30
 400245,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-30
 400246,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3271.0,2633.0,333.0,2020-05-30
 400251,Spain,Galicia,42.5751,-8.1339,9120.0,9204.0,609.0,2020-05-30
@@ -6768,7 +6657,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 403769,Spain,Extremadura,39.4937,-6.0679,2966.0,2652.0,508.0,2020-05-31
 403770,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-05-31
 403771,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-05-31
-403772,France,French Guiana,4.0,-53.0,499.0,200.0,1.0,2020-05-31
 403773,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-05-31
 403774,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3273.0,2662.0,333.0,2020-05-31
 403779,Spain,Galicia,42.5751,-8.1339,9119.0,9204.0,609.0,2020-05-31
@@ -6893,7 +6781,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 407320,Spain,Extremadura,39.4937,-6.0679,2966.0,2652.0,508.0,2020-06-01
 407321,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-01
 407322,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-01
-407323,France,French Guiana,4.0,-53.0,499.0,200.0,1.0,2020-06-01
 407324,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-01
 407325,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3274.0,2673.0,335.0,2020-06-01
 407330,Spain,Galicia,42.5751,-8.1339,9129.0,9204.0,609.0,2020-06-01
@@ -7038,7 +6925,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 410963,Spain,Extremadura,39.4937,-6.0679,2971.0,2652.0,508.0,2020-06-02
 410964,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-02
 410965,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-02
-410966,France,French Guiana,4.0,-53.0,517.0,207.0,1.0,2020-06-02
 410967,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-02
 410968,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3276.0,2696.0,336.0,2020-06-02
 410973,Spain,Galicia,42.5751,-8.1339,9130.0,9204.0,609.0,2020-06-02
@@ -7183,7 +7069,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 414609,Spain,Extremadura,39.4937,-6.0679,2974.0,2652.0,508.0,2020-06-03
 414610,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-03
 414611,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-03
-414612,France,French Guiana,4.0,-53.0,533.0,254.0,1.0,2020-06-03
 414613,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-03
 414614,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3276.0,2707.0,336.0,2020-06-03
 414619,Spain,Galicia,42.5751,-8.1339,9132.0,9204.0,609.0,2020-06-03
@@ -7328,7 +7213,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 418256,Spain,Extremadura,39.4937,-6.0679,2973.0,2652.0,508.0,2020-06-04
 418257,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-04
 418258,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-04
-418259,France,French Guiana,4.0,-53.0,556.0,296.0,1.0,2020-06-04
 418260,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-04
 418261,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3279.0,2730.0,336.0,2020-06-04
 418266,Spain,Galicia,42.5751,-8.1339,9134.0,9204.0,609.0,2020-06-04
@@ -7475,7 +7359,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 421909,Spain,Extremadura,39.4937,-6.0679,2976.0,2652.0,508.0,2020-06-05
 421910,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-05
 421911,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-05
-421912,France,French Guiana,4.0,-53.0,589.0,321.0,1.0,2020-06-05
 421913,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-05
 421914,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3280.0,2762.0,338.0,2020-06-05
 421919,Spain,Galicia,42.5751,-8.1339,9146.0,9204.0,609.0,2020-06-05
@@ -7640,7 +7523,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 425582,Spain,Extremadura,39.4937,-6.0679,2977.0,2652.0,508.0,2020-06-06
 425583,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-06
 425584,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-06
-425585,France,French Guiana,4.0,-53.0,639.0,348.0,1.0,2020-06-06
 425586,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-06
 425587,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3283.0,2784.0,338.0,2020-06-06
 425592,Spain,Galicia,42.5751,-8.1339,9144.0,9204.0,609.0,2020-06-06
@@ -7805,7 +7687,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 429255,Spain,Extremadura,39.4937,-6.0679,2977.0,2652.0,508.0,2020-06-07
 429256,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-07
 429257,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-07
-429258,France,French Guiana,4.0,-53.0,689.0,383.0,1.0,2020-06-07
 429259,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-07
 429260,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3283.0,2793.0,339.0,2020-06-07
 429265,Spain,Galicia,42.5751,-8.1339,9145.0,9204.0,609.0,2020-06-07
@@ -7970,7 +7851,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 432929,Spain,Extremadura,39.4937,-6.0679,2977.0,2652.0,508.0,2020-06-08
 432930,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-08
 432931,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-08
-432932,France,French Guiana,4.0,-53.0,729.0,400.0,2.0,2020-06-08
 432933,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-08
 432934,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3284.0,2800.0,340.0,2020-06-08
 432939,Spain,Galicia,42.5751,-8.1339,9141.0,9204.0,609.0,2020-06-08
@@ -8135,7 +8015,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 436605,Spain,Extremadura,39.4937,-6.0679,2978.0,2652.0,508.0,2020-06-09
 436606,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-09
 436607,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-09
-436608,France,French Guiana,4.0,-53.0,773.0,427.0,2.0,2020-06-09
 436609,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-09
 436610,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3284.0,2816.0,340.0,2020-06-09
 436615,Spain,Galicia,42.5751,-8.1339,9148.0,9204.0,609.0,2020-06-09
@@ -8300,7 +8179,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 440294,Spain,Extremadura,39.4937,-6.0679,2982.0,2652.0,508.0,2020-06-10
 440295,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-10
 440296,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-10
-440297,France,French Guiana,4.0,-53.0,865.0,457.0,2.0,2020-06-10
 440298,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-10
 440299,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3286.0,2832.0,341.0,2020-06-10
 440304,Spain,Galicia,42.5751,-8.1339,9153.0,9204.0,609.0,2020-06-10
@@ -8466,7 +8344,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 444016,Spain,Extremadura,39.4937,-6.0679,2983.0,2652.0,508.0,2020-06-11
 444017,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-11
 444018,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-11
-444019,France,French Guiana,4.0,-53.0,917.0,462.0,2.0,2020-06-11
 444020,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-11
 444021,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3287.0,2833.0,342.0,2020-06-11
 444026,Spain,Galicia,42.5751,-8.1339,9154.0,9204.0,609.0,2020-06-11
@@ -8635,7 +8512,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 447756,Spain,Extremadura,39.4937,-6.0679,2984.0,2652.0,508.0,2020-06-12
 447757,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-12
 447758,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-12
-447759,France,French Guiana,4.0,-53.0,1043.0,489.0,2.0,2020-06-12
 447760,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-12
 447761,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3290.0,2840.0,342.0,2020-06-12
 447766,Spain,Galicia,42.5751,-8.1339,9157.0,9204.0,609.0,2020-06-12
@@ -8804,7 +8680,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 451499,Spain,Extremadura,39.4937,-6.0679,2985.0,2652.0,508.0,2020-06-13
 451500,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-13
 451501,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-13
-451502,France,French Guiana,4.0,-53.0,1161.0,520.0,2.0,2020-06-13
 451503,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-13
 451504,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3296.0,2848.0,343.0,2020-06-13
 451509,Spain,Galicia,42.5751,-8.1339,9158.0,9204.0,609.0,2020-06-13
@@ -8973,7 +8848,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 455242,Spain,Extremadura,39.4937,-6.0679,2987.0,2652.0,508.0,2020-06-14
 455243,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-14
 455244,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-14
-455245,France,French Guiana,4.0,-53.0,1255.0,534.0,3.0,2020-06-14
 455246,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-14
 455247,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3296.0,2850.0,343.0,2020-06-14
 455252,Spain,Galicia,42.5751,-8.1339,9159.0,9204.0,609.0,2020-06-14
@@ -9142,7 +9016,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 458990,Spain,Extremadura,39.4937,-6.0679,2988.0,2652.0,508.0,2020-06-15
 458991,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-15
 458992,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-15
-458993,France,French Guiana,4.0,-53.0,1326.0,552.0,3.0,2020-06-15
 458994,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-15
 458995,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3296.0,2854.0,343.0,2020-06-15
 459000,Spain,Galicia,42.5751,-8.1339,9160.0,9204.0,609.0,2020-06-15
@@ -9311,7 +9184,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 462736,Spain,Extremadura,39.4937,-6.0679,2990.0,2652.0,508.0,2020-06-16
 462737,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-16
 462738,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-16
-462739,France,French Guiana,4.0,-53.0,1421.0,619.0,5.0,2020-06-16
 462740,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-16
 462741,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3297.0,2855.0,343.0,2020-06-16
 462746,Spain,Galicia,42.5751,-8.1339,9161.0,9204.0,609.0,2020-06-16
@@ -9480,7 +9352,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 466485,Spain,Extremadura,39.4937,-6.0679,2992.0,2652.0,508.0,2020-06-17
 466486,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-17
 466487,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-17
-466488,France,French Guiana,4.0,-53.0,1554.0,663.0,5.0,2020-06-17
 466489,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-17
 466490,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3299.0,2857.0,343.0,2020-06-17
 466495,Spain,Galicia,42.5751,-8.1339,9164.0,9204.0,609.0,2020-06-17
@@ -9649,7 +9520,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 470235,Spain,Extremadura,39.4937,-6.0679,2999.0,2652.0,508.0,2020-06-18
 470236,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-18
 470237,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-18
-470238,France,French Guiana,4.0,-53.0,1758.0,784.0,5.0,2020-06-18
 470239,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-18
 470240,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3301.0,2861.0,343.0,2020-06-18
 470245,Spain,Galicia,42.5751,-8.1339,9164.0,9204.0,609.0,2020-06-18
@@ -9818,7 +9688,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 473986,Spain,Extremadura,39.4937,-6.0679,3000.0,2652.0,519.0,2020-06-19
 473987,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-19
 473988,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-19
-473989,France,French Guiana,4.0,-53.0,1969.0,840.0,5.0,2020-06-19
 473990,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-19
 473991,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3303.0,2875.0,343.0,2020-06-19
 473996,Spain,Galicia,42.5751,-8.1339,9169.0,9204.0,619.0,2020-06-19
@@ -9987,7 +9856,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 477741,Spain,Extremadura,39.4937,-6.0679,3001.0,2652.0,519.0,2020-06-20
 477742,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-20
 477743,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-20
-477744,France,French Guiana,4.0,-53.0,2163.0,890.0,5.0,2020-06-20
 477745,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-20
 477746,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3304.0,2877.0,344.0,2020-06-20
 477751,Spain,Galicia,42.5751,-8.1339,9167.0,9204.0,619.0,2020-06-20
@@ -10156,7 +10024,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 481496,Spain,Extremadura,39.4937,-6.0679,3006.0,2652.0,519.0,2020-06-21
 481497,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-21
 481498,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-21
-481499,France,French Guiana,4.0,-53.0,2441.0,930.0,6.0,2020-06-21
 481500,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-21
 481501,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3305.0,2883.0,344.0,2020-06-21
 481506,Spain,Galicia,42.5751,-8.1339,9174.0,9204.0,619.0,2020-06-21
@@ -10325,7 +10192,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 485254,Spain,Extremadura,39.4937,-6.0679,3010.0,2652.0,519.0,2020-06-22
 485255,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-22
 485256,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-22
-485257,France,French Guiana,4.0,-53.0,2458.0,972.0,8.0,2020-06-22
 485258,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-22
 485259,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3305.0,2889.0,344.0,2020-06-22
 485264,Spain,Galicia,42.5751,-8.1339,9174.0,9204.0,619.0,2020-06-22
@@ -10494,7 +10360,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 489017,Spain,Extremadura,39.4937,-6.0679,3011.0,2652.0,519.0,2020-06-23
 489018,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-23
 489019,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-23
-489020,France,French Guiana,4.0,-53.0,2593.0,1016.0,8.0,2020-06-23
 489021,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-23
 489022,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3305.0,2890.0,344.0,2020-06-23
 489027,Spain,Galicia,42.5751,-8.1339,9175.0,9204.0,619.0,2020-06-23
@@ -10663,7 +10528,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 492793,Spain,Extremadura,39.4937,-6.0679,3017.0,2652.0,519.0,2020-06-24
 492794,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-24
 492795,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-24
-492796,France,French Guiana,4.0,-53.0,2827.0,1056.0,9.0,2020-06-24
 492797,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-24
 492798,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3305.0,2904.0,344.0,2020-06-24
 492803,Spain,Galicia,42.5751,-8.1339,9178.0,9204.0,619.0,2020-06-24
@@ -10832,7 +10696,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 496576,Spain,Extremadura,39.4937,-6.0679,3019.0,2652.0,519.0,2020-06-25
 496577,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-25
 496578,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-25
-496579,France,French Guiana,4.0,-53.0,3033.0,1096.0,10.0,2020-06-25
 496580,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-25
 496581,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3305.0,2907.0,345.0,2020-06-25
 496586,Spain,Galicia,42.5751,-8.1339,9186.0,9204.0,619.0,2020-06-25
@@ -11001,7 +10864,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 500360,Spain,Extremadura,39.4937,-6.0679,3025.0,2652.0,519.0,2020-06-26
 500361,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-26
 500362,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-26
-500363,France,French Guiana,4.0,-53.0,3270.0,1166.0,11.0,2020-06-26
 500364,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-26
 500365,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3307.0,2914.0,345.0,2020-06-26
 500370,Spain,Galicia,42.5751,-8.1339,9193.0,9204.0,619.0,2020-06-26
@@ -11170,7 +11032,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 504145,Spain,Extremadura,39.4937,-6.0679,3026.0,2652.0,519.0,2020-06-27
 504146,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-27
 504147,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-27
-504148,France,French Guiana,4.0,-53.0,3461.0,1249.0,12.0,2020-06-27
 504149,France,French Polynesia,-17.6797,-149.4068,60.0,60.0,0.0,2020-06-27
 504150,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3307.0,2920.0,345.0,2020-06-27
 504155,Spain,Galicia,42.5751,-8.1339,9199.0,9204.0,619.0,2020-06-27
@@ -11339,7 +11200,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 507930,Spain,Extremadura,39.4937,-6.0679,3026.0,2652.0,519.0,2020-06-28
 507931,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-28
 507932,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-28
-507933,France,French Guiana,4.0,-53.0,3461.0,1249.0,12.0,2020-06-28
 507934,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-06-28
 507935,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3308.0,2925.0,345.0,2020-06-28
 507940,Spain,Galicia,42.5751,-8.1339,9202.0,9204.0,619.0,2020-06-28
@@ -11508,7 +11368,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 511717,Spain,Extremadura,39.4937,-6.0679,3027.0,2652.0,519.0,2020-06-29
 511718,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-29
 511719,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-29
-511720,France,French Guiana,4.0,-53.0,3774.0,1352.0,15.0,2020-06-29
 511721,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-06-29
 511722,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3308.0,2927.0,345.0,2020-06-29
 511727,Spain,Galicia,42.5751,-8.1339,9206.0,9204.0,619.0,2020-06-29
@@ -11677,7 +11536,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 515506,Spain,Extremadura,39.4937,-6.0679,3030.0,2652.0,519.0,2020-06-30
 515507,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-06-30
 515508,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-06-30
-515509,France,French Guiana,4.0,-53.0,4004.0,1508.0,15.0,2020-06-30
 515510,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-06-30
 515511,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3308.0,2918.0,345.0,2020-06-30
 515516,Spain,Galicia,42.5751,-8.1339,9215.0,9204.0,619.0,2020-06-30
@@ -11846,7 +11704,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 519297,Spain,Extremadura,39.4937,-6.0679,3033.0,2652.0,519.0,2020-07-01
 519298,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-01
 519299,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-07-01
-519300,France,French Guiana,4.0,-53.0,4268.0,1602.0,16.0,2020-07-01
 519301,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-01
 519302,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3312.0,2911.0,345.0,2020-07-01
 519307,Spain,Galicia,42.5751,-8.1339,9222.0,9204.0,619.0,2020-07-01
@@ -12015,7 +11872,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 523091,Spain,Extremadura,39.4937,-6.0679,3040.0,2652.0,519.0,2020-07-02
 523092,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-02
 523093,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-07-02
-523094,France,French Guiana,4.0,-53.0,4444.0,1680.0,16.0,2020-07-02
 523095,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-02
 523096,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3314.0,2907.0,345.0,2020-07-02
 523101,Spain,Galicia,42.5751,-8.1339,9239.0,9204.0,619.0,2020-07-02
@@ -12184,7 +12040,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 526890,Spain,Extremadura,39.4937,-6.0679,3047.0,2652.0,519.0,2020-07-03
 526891,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-03
 526892,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-07-03
-526893,France,French Guiana,4.0,-53.0,4558.0,1777.0,16.0,2020-07-03
 526894,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-03
 526895,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3318.0,2905.0,345.0,2020-07-03
 526900,Spain,Galicia,42.5751,-8.1339,9251.0,9204.0,619.0,2020-07-03
@@ -12353,7 +12208,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 530690,Spain,Extremadura,39.4937,-6.0679,3047.0,2652.0,519.0,2020-07-04
 530691,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-04
 530692,Denmark,Faroe Islands,61.8926,-6.9118,187.0,187.0,0.0,2020-07-04
-530693,France,French Guiana,4.0,-53.0,4913.0,1866.0,16.0,2020-07-04
 530694,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-04
 530695,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3326.0,2908.0,345.0,2020-07-04
 530700,Spain,Galicia,42.5751,-8.1339,9251.0,9204.0,619.0,2020-07-04
@@ -12522,7 +12376,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 534491,Spain,Extremadura,39.4937,-6.0679,3047.0,2652.0,519.0,2020-07-05
 534492,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-05
 534493,Denmark,Faroe Islands,61.8926,-6.9118,188.0,187.0,0.0,2020-07-05
-534494,France,French Guiana,4.0,-53.0,4913.0,1866.0,16.0,2020-07-05
 534495,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-05
 534496,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3326.0,2908.0,345.0,2020-07-05
 534501,Spain,Galicia,42.5751,-8.1339,9251.0,9204.0,619.0,2020-07-05
@@ -12691,7 +12544,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 538294,Spain,Extremadura,39.4937,-6.0679,3064.0,2652.0,519.0,2020-07-06
 538295,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-06
 538296,Denmark,Faroe Islands,61.8926,-6.9118,188.0,187.0,0.0,2020-07-06
-538297,France,French Guiana,4.0,-53.0,5054.0,1984.0,20.0,2020-07-06
 538298,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-06
 538299,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3326.0,2910.0,345.0,2020-07-06
 538304,Spain,Galicia,42.5751,-8.1339,9330.0,9204.0,619.0,2020-07-06
@@ -12860,7 +12712,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 542099,Spain,Extremadura,39.4937,-6.0679,3066.0,2652.0,519.0,2020-07-07
 542100,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-07
 542101,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-07
-542102,France,French Guiana,4.0,-53.0,5178.0,2119.0,21.0,2020-07-07
 542103,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-07
 542104,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3327.0,2910.0,345.0,2020-07-07
 542109,Spain,Galicia,42.5751,-8.1339,9336.0,9204.0,619.0,2020-07-07
@@ -13029,7 +12880,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 545907,Spain,Extremadura,39.4937,-6.0679,3076.0,2652.0,519.0,2020-07-08
 545908,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-08
 545909,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-08
-545910,France,French Guiana,4.0,-53.0,5459.0,2349.0,22.0,2020-07-08
 545911,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-08
 545912,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3331.0,2904.0,345.0,2020-07-08
 545917,Spain,Galicia,42.5751,-8.1339,9371.0,9204.0,619.0,2020-07-08
@@ -13198,7 +13048,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 549714,Spain,Extremadura,39.4937,-6.0679,3082.0,2652.0,519.0,2020-07-09
 549715,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-09
 549716,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-09
-549717,France,French Guiana,4.0,-53.0,5558.0,2555.0,22.0,2020-07-09
 549718,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-09
 549719,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3332.0,2912.0,345.0,2020-07-09
 549724,Spain,Galicia,42.5751,-8.1339,9403.0,9204.0,619.0,2020-07-09
@@ -13367,7 +13216,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 553526,Spain,Extremadura,39.4937,-6.0679,3106.0,2652.0,519.0,2020-07-10
 553527,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-10
 553528,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-10
-553529,France,French Guiana,4.0,-53.0,5704.0,2785.0,23.0,2020-07-10
 553530,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-10
 553531,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3333.0,2910.0,345.0,2020-07-10
 553536,Spain,Galicia,42.5751,-8.1339,9431.0,9204.0,619.0,2020-07-10
@@ -13536,7 +13384,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 557339,Spain,Extremadura,39.4937,-6.0679,3106.0,2652.0,519.0,2020-07-11
 557340,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-11
 557341,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-11
-557342,France,French Guiana,4.0,-53.0,5949.0,2981.0,26.0,2020-07-11
 557343,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-11
 557344,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3335.0,2911.0,345.0,2020-07-11
 557349,Spain,Galicia,42.5751,-8.1339,9431.0,9204.0,619.0,2020-07-11
@@ -13705,7 +13552,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 561154,Spain,Extremadura,39.4937,-6.0679,3106.0,2652.0,519.0,2020-07-12
 561155,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-12
 561156,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-12
-561157,France,French Guiana,4.0,-53.0,5949.0,2981.0,26.0,2020-07-12
 561158,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-12
 561159,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3335.0,2911.0,345.0,2020-07-12
 561164,Spain,Galicia,42.5751,-8.1339,9431.0,9204.0,619.0,2020-07-12
@@ -13874,7 +13720,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 564970,Spain,Extremadura,39.4937,-6.0679,3191.0,2652.0,519.0,2020-07-13
 564971,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-13
 564972,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-13
-564973,France,French Guiana,4.0,-53.0,6170.0,3210.0,29.0,2020-07-13
 564974,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-13
 564975,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3335.0,2910.0,345.0,2020-07-13
 564980,Spain,Galicia,42.5751,-8.1339,9454.0,9204.0,619.0,2020-07-13
@@ -14043,7 +13888,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 568794,Spain,Extremadura,39.4937,-6.0679,3202.0,2652.0,519.0,2020-07-14
 568795,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-14
 568796,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-14
-568797,France,French Guiana,4.0,-53.0,6229.0,3472.0,31.0,2020-07-14
 568798,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-14
 568799,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3338.0,2907.0,345.0,2020-07-14
 568804,Spain,Galicia,42.5751,-8.1339,9461.0,9204.0,619.0,2020-07-14
@@ -14212,7 +14056,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 572618,Spain,Extremadura,39.4937,-6.0679,3208.0,2652.0,519.0,2020-07-15
 572619,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-15
 572620,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-15
-572621,France,French Guiana,4.0,-53.0,6299.0,3738.0,33.0,2020-07-15
 572622,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-15
 572623,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3339.0,2901.0,345.0,2020-07-15
 572628,Spain,Galicia,42.5751,-8.1339,9471.0,9204.0,619.0,2020-07-15
@@ -14381,7 +14224,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 576444,Spain,Extremadura,39.4937,-6.0679,3218.0,2652.0,519.0,2020-07-16
 576445,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-16
 576446,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-16
-576447,France,French Guiana,4.0,-53.0,6393.0,3818.0,34.0,2020-07-16
 576448,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-16
 576449,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3343.0,2901.0,345.0,2020-07-16
 576454,Spain,Galicia,42.5751,-8.1339,9479.0,9204.0,619.0,2020-07-16
@@ -14552,7 +14394,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 580272,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-17
 580273,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-17
 580274,Netherlands,Flevoland,52.550383,5.515162,981.0,0.0,92.0,2020-07-17
-580275,France,French Guiana,4.0,-53.0,6509.0,3932.0,34.0,2020-07-17
 580276,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-17
 580277,Netherlands,Friesland,53.087337,5.7925,642.0,0.0,69.0,2020-07-17
 580278,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3346.0,2905.0,345.0,2020-07-17
@@ -14733,7 +14574,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 584192,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-18
 584193,Denmark,Faroe Islands,61.8926,-6.9118,188.0,188.0,0.0,2020-07-18
 584194,Netherlands,Flevoland,52.550383,5.515162,981.0,0.0,92.0,2020-07-18
-584195,France,French Guiana,4.0,-53.0,6655.0,4272.0,37.0,2020-07-18
 584196,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-18
 584197,Netherlands,Friesland,53.087337,5.7925,643.0,0.0,69.0,2020-07-18
 584198,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3350.0,2906.0,345.0,2020-07-18
@@ -14914,7 +14754,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 588112,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-19
 588113,Denmark,Faroe Islands,61.8926,-6.9118,191.0,188.0,0.0,2020-07-19
 588114,Netherlands,Flevoland,52.550383,5.515162,981.0,0.0,92.0,2020-07-19
-588115,France,French Guiana,4.0,-53.0,6655.0,4272.0,37.0,2020-07-19
 588116,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-19
 588117,Netherlands,Friesland,53.087337,5.7925,643.0,0.0,69.0,2020-07-19
 588118,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3352.0,2911.0,345.0,2020-07-19
@@ -15095,7 +14934,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 591947,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-20
 591948,Denmark,Faroe Islands,61.8926,-6.9118,191.0,188.0,0.0,2020-07-20
 591949,Netherlands,Flevoland,52.550383,5.515162,981.0,0.0,92.0,2020-07-20
-591950,France,French Guiana,4.0,-53.0,6745.0,4714.0,38.0,2020-07-20
 591951,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-20
 591952,Netherlands,Friesland,53.087337,5.7925,643.0,0.0,69.0,2020-07-20
 591953,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3356.0,2912.0,345.0,2020-07-20
@@ -15276,7 +15114,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 595961,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-21
 595962,Denmark,Faroe Islands,61.8926,-6.9118,191.0,188.0,0.0,2020-07-21
 595963,Netherlands,Flevoland,52.550383,5.515162,983.0,0.0,92.0,2020-07-21
-595964,France,French Guiana,4.0,-53.0,6851.0,4996.0,39.0,2020-07-21
 595965,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-21
 595966,Netherlands,Friesland,53.087337,5.7925,643.0,0.0,69.0,2020-07-21
 595967,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3358.0,2914.0,345.0,2020-07-21
@@ -15457,7 +15294,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 599888,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-22
 599889,Denmark,Faroe Islands,61.8926,-6.9118,191.0,188.0,0.0,2020-07-22
 599890,Netherlands,Flevoland,52.550383,5.515162,983.0,0.0,92.0,2020-07-22
-599891,France,French Guiana,4.0,-53.0,6883.0,5277.0,39.0,2020-07-22
 599892,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-22
 599893,Netherlands,Friesland,53.087337,5.7925,645.0,0.0,69.0,2020-07-22
 599894,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3360.0,2917.0,345.0,2020-07-22
@@ -15638,7 +15474,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 603808,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-23
 603809,Denmark,Faroe Islands,61.8926,-6.9118,191.0,188.0,0.0,2020-07-23
 603810,Netherlands,Flevoland,52.550383,5.515162,984.0,0.0,92.0,2020-07-23
-603811,France,French Guiana,4.0,-53.0,7086.0,5376.0,40.0,2020-07-23
 603812,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-23
 603813,Netherlands,Friesland,53.087337,5.7925,645.0,0.0,69.0,2020-07-23
 603814,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3363.0,2921.0,345.0,2020-07-23
@@ -15819,7 +15654,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 607748,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-24
 607749,Denmark,Faroe Islands,61.8926,-6.9118,191.0,188.0,0.0,2020-07-24
 607750,Netherlands,Flevoland,52.550383,5.515162,986.0,0.0,92.0,2020-07-24
-607751,France,French Guiana,4.0,-53.0,7251.0,5522.0,41.0,2020-07-24
 607752,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-24
 607753,Netherlands,Friesland,53.087337,5.7925,647.0,0.0,69.0,2020-07-24
 607754,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3368.0,2925.0,345.0,2020-07-24
@@ -16000,7 +15834,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 611680,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-25
 611681,Denmark,Faroe Islands,61.8926,-6.9118,192.0,188.0,0.0,2020-07-25
 611682,Netherlands,Flevoland,52.550383,5.515162,989.0,0.0,92.0,2020-07-25
-611683,France,French Guiana,4.0,-53.0,7332.0,5767.0,41.0,2020-07-25
 611684,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-25
 611685,Netherlands,Friesland,53.087337,5.7925,647.0,0.0,69.0,2020-07-25
 611686,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3373.0,2925.0,345.0,2020-07-25
@@ -16181,7 +16014,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 615613,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-26
 615614,Denmark,Faroe Islands,61.8926,-6.9118,214.0,188.0,0.0,2020-07-26
 615615,Netherlands,Flevoland,52.550383,5.515162,989.0,0.0,92.0,2020-07-26
-615616,France,French Guiana,4.0,-53.0,7332.0,5767.0,41.0,2020-07-26
 615617,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-26
 615618,Netherlands,Friesland,53.087337,5.7925,647.0,0.0,69.0,2020-07-26
 615619,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3375.0,2925.0,345.0,2020-07-26
@@ -16362,7 +16194,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 619546,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-27
 619547,Denmark,Faroe Islands,61.8926,-6.9118,214.0,188.0,0.0,2020-07-27
 619548,Netherlands,Flevoland,52.550383,5.515162,991.0,0.0,92.0,2020-07-27
-619549,France,French Guiana,4.0,-53.0,7514.0,6047.0,42.0,2020-07-27
 619550,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-27
 619551,Netherlands,Friesland,53.087337,5.7925,648.0,0.0,69.0,2020-07-27
 619552,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3375.0,2918.0,345.0,2020-07-27
@@ -16543,7 +16374,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 623479,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-28
 623480,Denmark,Faroe Islands,61.8926,-6.9118,220.0,188.0,0.0,2020-07-28
 623481,Netherlands,Flevoland,52.550383,5.515162,993.0,0.0,92.0,2020-07-28
-623482,France,French Guiana,4.0,-53.0,7562.0,6106.0,43.0,2020-07-28
 623483,France,French Polynesia,-17.6797,-149.4068,62.0,60.0,0.0,2020-07-28
 623484,Netherlands,Friesland,53.087337,5.7925,648.0,0.0,69.0,2020-07-28
 623485,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3375.0,2918.0,345.0,2020-07-28
@@ -16724,7 +16554,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 627417,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-29
 627418,Denmark,Faroe Islands,61.8926,-6.9118,220.0,188.0,0.0,2020-07-29
 627419,Netherlands,Flevoland,52.550383,5.515162,997.0,0.0,93.0,2020-07-29
-627420,France,French Guiana,4.0,-53.0,7647.0,6176.0,43.0,2020-07-29
 627421,France,French Polynesia,-17.6797,-149.4068,62.0,62.0,0.0,2020-07-29
 627422,Netherlands,Friesland,53.087337,5.7925,649.0,0.0,69.0,2020-07-29
 627423,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3378.0,2921.0,345.0,2020-07-29
@@ -16905,7 +16734,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 631354,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-30
 631355,Denmark,Faroe Islands,61.8926,-6.9118,225.0,188.0,0.0,2020-07-30
 631356,Netherlands,Flevoland,52.550383,5.515162,998.0,0.0,93.0,2020-07-30
-631357,France,French Guiana,4.0,-53.0,7728.0,6270.0,43.0,2020-07-30
 631358,France,French Polynesia,-17.6797,-149.4068,62.0,62.0,0.0,2020-07-30
 631359,Netherlands,Friesland,53.087337,5.7925,650.0,0.0,69.0,2020-07-30
 631360,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3391.0,2924.0,345.0,2020-07-30
@@ -17086,7 +16914,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 635293,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-07-31
 635294,Denmark,Faroe Islands,61.8926,-6.9118,225.0,189.0,0.0,2020-07-31
 635295,Netherlands,Flevoland,52.550383,5.515162,1007.0,0.0,93.0,2020-07-31
-635296,France,French Guiana,4.0,-53.0,7799.0,6386.0,43.0,2020-07-31
 635297,France,French Polynesia,-17.6797,-149.4068,62.0,62.0,0.0,2020-07-31
 635298,Netherlands,Friesland,53.087337,5.7925,652.0,0.0,69.0,2020-07-31
 635299,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3394.0,2927.0,345.0,2020-07-31
@@ -17267,7 +17094,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 639230,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-01
 639231,Denmark,Faroe Islands,61.8926,-6.9118,225.0,189.0,0.0,2020-08-01
 639232,Netherlands,Flevoland,52.550383,5.515162,1015.0,0.0,93.0,2020-08-01
-639233,France,French Guiana,4.0,-53.0,7857.0,6531.0,43.0,2020-08-01
 639234,France,French Polynesia,-17.6797,-149.4068,62.0,62.0,0.0,2020-08-01
 639235,Netherlands,Friesland,53.087337,5.7925,653.0,0.0,69.0,2020-08-01
 639236,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3401.0,2927.0,345.0,2020-08-01
@@ -17448,7 +17274,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 643167,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-02
 643168,Denmark,Faroe Islands,61.8926,-6.9118,225.0,192.0,0.0,2020-08-02
 643169,Netherlands,Flevoland,52.550383,5.515162,1019.0,0.0,93.0,2020-08-02
-643170,France,French Guiana,4.0,-53.0,7857.0,6531.0,43.0,2020-08-02
 643171,France,French Polynesia,-17.6797,-149.4068,62.0,62.0,0.0,2020-08-02
 643172,Netherlands,Friesland,53.087337,5.7925,656.0,0.0,69.0,2020-08-02
 643173,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3411.0,2929.0,345.0,2020-08-02
@@ -17629,7 +17454,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 647104,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-03
 647105,Denmark,Faroe Islands,61.8926,-6.9118,225.0,192.0,0.0,2020-08-03
 647106,Netherlands,Flevoland,52.550383,5.515162,1027.0,0.0,93.0,2020-08-03
-647107,France,French Guiana,4.0,-53.0,7948.0,6767.0,44.0,2020-08-03
 647108,France,French Polynesia,-17.6797,-149.4068,62.0,62.0,0.0,2020-08-03
 647109,Netherlands,Friesland,53.087337,5.7925,657.0,0.0,69.0,2020-08-03
 647110,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3411.0,2929.0,346.0,2020-08-03
@@ -17810,7 +17634,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 651041,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-04
 651042,Denmark,Faroe Islands,61.8926,-6.9118,227.0,192.0,0.0,2020-08-04
 651043,Netherlands,Flevoland,52.550383,5.515162,1033.0,0.0,93.0,2020-08-04
-651044,France,French Guiana,4.0,-53.0,7998.0,6873.0,45.0,2020-08-04
 651045,France,French Polynesia,-17.6797,-149.4068,64.0,62.0,0.0,2020-08-04
 651046,Netherlands,Friesland,53.087337,5.7925,657.0,0.0,69.0,2020-08-04
 651047,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3416.0,2932.0,346.0,2020-08-04
@@ -17991,7 +17814,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 654982,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-05
 654983,Denmark,Faroe Islands,61.8926,-6.9118,241.0,192.0,0.0,2020-08-05
 654984,Netherlands,Flevoland,52.550383,5.515162,1036.0,0.0,93.0,2020-08-05
-654985,France,French Guiana,4.0,-53.0,8069.0,7075.0,47.0,2020-08-05
 654986,France,French Polynesia,-17.6797,-149.4068,64.0,62.0,0.0,2020-08-05
 654987,Netherlands,Friesland,53.087337,5.7925,657.0,0.0,69.0,2020-08-05
 654988,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3425.0,2932.0,346.0,2020-08-05
@@ -18172,7 +17994,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 658924,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-06
 658925,Denmark,Faroe Islands,61.8926,-6.9118,266.0,192.0,0.0,2020-08-06
 658926,Netherlands,Flevoland,52.550383,5.515162,1041.0,0.0,93.0,2020-08-06
-658927,France,French Guiana,4.0,-53.0,8127.0,7240.0,47.0,2020-08-06
 658928,France,French Polynesia,-17.6797,-149.4068,64.0,62.0,0.0,2020-08-06
 658929,Netherlands,Friesland,53.087337,5.7925,657.0,0.0,69.0,2020-08-06
 658930,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3432.0,2933.0,346.0,2020-08-06
@@ -18353,7 +18174,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 662866,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-07
 662867,Denmark,Faroe Islands,61.8926,-6.9118,291.0,192.0,0.0,2020-08-07
 662868,Netherlands,Flevoland,52.550383,5.515162,1046.0,0.0,93.0,2020-08-07
-662869,France,French Guiana,4.0,-53.0,8204.0,7320.0,47.0,2020-08-07
 662870,France,French Polynesia,-17.6797,-149.4068,69.0,62.0,0.0,2020-08-07
 662871,Netherlands,Friesland,53.087337,5.7925,658.0,0.0,69.0,2020-08-07
 662872,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3436.0,2935.0,346.0,2020-08-07
@@ -18534,7 +18354,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 666808,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-08
 666809,Denmark,Faroe Islands,61.8926,-6.9118,295.0,193.0,0.0,2020-08-08
 666810,Netherlands,Flevoland,52.550383,5.515162,1050.0,0.0,93.0,2020-08-08
-666811,France,French Guiana,4.0,-53.0,8267.0,7501.0,48.0,2020-08-08
 666812,France,French Polynesia,-17.6797,-149.4068,69.0,62.0,0.0,2020-08-08
 666813,Netherlands,Friesland,53.087337,5.7925,661.0,0.0,69.0,2020-08-08
 666814,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3442.0,2936.0,346.0,2020-08-08
@@ -18715,7 +18534,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 670750,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-09
 670751,Denmark,Faroe Islands,61.8926,-6.9118,303.0,215.0,0.0,2020-08-09
 670752,Netherlands,Flevoland,52.550383,5.515162,1055.0,0.0,93.0,2020-08-09
-670753,France,French Guiana,4.0,-53.0,8267.0,7501.0,48.0,2020-08-09
 670754,France,French Polynesia,-17.6797,-149.4068,69.0,62.0,0.0,2020-08-09
 670755,Netherlands,Friesland,53.087337,5.7925,663.0,0.0,69.0,2020-08-09
 670756,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3449.0,2937.0,346.0,2020-08-09
@@ -18896,7 +18714,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 674692,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13.0,13.0,0.0,2020-08-10
 674693,Denmark,Faroe Islands,61.8926,-6.9118,306.0,215.0,0.0,2020-08-10
 674694,Netherlands,Flevoland,52.550383,5.515162,1057.0,0.0,93.0,2020-08-10
-674695,France,French Guiana,4.0,-53.0,8324.0,7549.0,49.0,2020-08-10
 674696,France,French Polynesia,-17.6797,-149.4068,112.0,62.0,0.0,2020-08-10
 674697,Netherlands,Friesland,53.087337,5.7925,677.0,0.0,69.0,2020-08-10
 674698,Italy,Friuli Venezia Giulia,45.6494354,13.76813649,3449.0,2938.0,347.0,2020-08-10
@@ -19052,7 +18869,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 675437,Denmark,,56.2639,9.5018,14959.0,12988.0,621.0,2020-08-11
 675447,Estonia,,58.5953,25.0136,2167.0,1968.0,63.0,2020-08-11
 675451,Finland,,61.92411,25.748151,7623.0,6980.0,333.0,2020-08-11
-675452,France,French Guiana,4.0,-53.0,8360.0,7632.0,49.0,2020-08-11
 675453,France,French Polynesia,-17.6797,149.4068,112.0,62.0,0.0,2020-08-11
 675456,France,Mayotte,-12.8275,45.166244,3091.0,2835.0,39.0,2020-08-11
 675457,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-11
@@ -19233,7 +19049,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 679381,Denmark,,56.2639,9.5018,15070.0,13066.0,621.0,2020-08-12
 679391,Estonia,,58.5953,25.0136,2174.0,1975.0,63.0,2020-08-12
 679395,Finland,,61.92411,25.748151,7642.0,7050.0,333.0,2020-08-12
-679396,France,French Guiana,4.0,-53.0,8423.0,7713.0,50.0,2020-08-12
 679397,France,French Polynesia,-17.6797,149.4068,139.0,64.0,0.0,2020-08-12
 679400,France,Mayotte,-12.8275,45.166244,3091.0,2835.0,39.0,2020-08-12
 679401,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-12
@@ -19414,7 +19229,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 683325,Denmark,,56.2639,9.5018,15214.0,13131.0,621.0,2020-08-13
 683335,Estonia,,58.5953,25.0136,2174.0,1975.0,63.0,2020-08-13
 683339,Finland,,61.92411,25.748151,7683.0,7050.0,333.0,2020-08-13
-683340,France,French Guiana,4.0,-53.0,8471.0,7784.0,51.0,2020-08-13
 683341,France,French Polynesia,-17.6797,149.4068,139.0,64.0,0.0,2020-08-13
 683344,France,Mayotte,-12.8275,45.166244,3119.0,2940.0,39.0,2020-08-13
 683345,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-13
@@ -19595,7 +19409,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 687271,Denmark,,56.2639,9.5018,15379.0,13216.0,621.0,2020-08-14
 687281,Estonia,,58.5953,25.0136,2177.0,1976.0,63.0,2020-08-14
 687285,Finland,,61.92411,25.748151,7700.0,7050.0,333.0,2020-08-14
-687286,France,French Guiana,4.0,-53.0,8549.0,7841.0,53.0,2020-08-14
 687287,France,French Polynesia,-17.6797,-149.4068,166.0,64.0,0.0,2020-08-14
 687290,France,Mayotte,-12.8275,45.166244,3119.0,2940.0,39.0,2020-08-14
 687291,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-14
@@ -19776,7 +19589,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 691217,Denmark,,56.2639,9.5018,15483.0,13275.0,621.0,2020-08-15
 691227,Estonia,,58.5953,25.0136,2184.0,1976.0,63.0,2020-08-15
 691231,Finland,,61.92411,25.748151,7720.0,7050.0,333.0,2020-08-15
-691232,France,French Guiana,4.0,-53.0,8588.0,7893.0,53.0,2020-08-15
 691233,France,French Polynesia,-17.6797,-149.4068,166.0,64.0,0.0,2020-08-15
 691236,France,Mayotte,-12.8275,45.166244,3119.0,2940.0,39.0,2020-08-15
 691237,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-15
@@ -19957,7 +19769,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 695163,Denmark,,56.2639,9.5018,15617.0,13340.0,621.0,2020-08-16
 695173,Estonia,,58.5953,25.0136,2190.0,1976.0,63.0,2020-08-16
 695177,Finland,,61.92411,25.748151,7731.0,7050.0,333.0,2020-08-16
-695178,France,French Guiana,4.0,-53.0,8588.0,7893.0,53.0,2020-08-16
 695179,France,French Polynesia,-17.6797,-149.4068,166.0,64.0,0.0,2020-08-16
 695182,France,Mayotte,-12.8275,45.166244,3119.0,2940.0,39.0,2020-08-16
 695183,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-16
@@ -20138,7 +19949,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 699109,Denmark,,56.2639,9.5018,15740.0,13417.0,621.0,2020-08-17
 699119,Estonia,,58.5953,25.0136,2192.0,1976.0,63.0,2020-08-17
 699123,Finland,,61.92411,25.748151,7752.0,7050.0,334.0,2020-08-17
-699124,France,French Guiana,4.0,-53.0,8622.0,7985.0,53.0,2020-08-17
 699125,France,French Polynesia,-17.6797,-149.4068,211.0,68.0,0.0,2020-08-17
 699128,France,Mayotte,-12.8275,45.166244,3160.0,2964.0,39.0,2020-08-17
 699129,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-17
@@ -20319,7 +20129,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 703057,Denmark,,56.2639,9.5018,15855.0,13529.0,621.0,2020-08-18
 703067,Estonia,,58.5953,25.0136,2200.0,1990.0,63.0,2020-08-18
 703071,Finland,,61.92411,25.748151,7776.0,7050.0,334.0,2020-08-18
-703072,France,French Guiana,4.0,-53.0,8657.0,8054.0,53.0,2020-08-18
 703073,France,French Polynesia,-17.6797,-149.4068,211.0,68.0,0.0,2020-08-18
 703076,France,Mayotte,-12.8275,45.166244,3160.0,2964.0,39.0,2020-08-18
 703077,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-18
@@ -20500,7 +20309,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 707005,Denmark,,56.2639,9.5018,15940.0,13651.0,621.0,2020-08-19
 707015,Estonia,,58.5953,25.0136,2207.0,2002.0,63.0,2020-08-19
 707019,Finland,,61.92411,25.748151,7805.0,7100.0,334.0,2020-08-19
-707020,France,French Guiana,4.0,-53.0,8711.0,8112.0,54.0,2020-08-19
 707021,France,French Polynesia,-17.6797,-149.4068,211.0,68.0,0.0,2020-08-19
 707024,France,Mayotte,-12.8275,45.166244,3160.0,2964.0,39.0,2020-08-19
 707025,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-19
@@ -20681,7 +20489,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 710955,Denmark,,56.2639,9.5018,16056.0,13769.0,621.0,2020-08-20
 710965,Estonia,,58.5953,25.0136,2227.0,2009.0,63.0,2020-08-20
 710969,Finland,,61.92411,25.748151,7842.0,7100.0,334.0,2020-08-20
-710970,France,French Guiana,4.0,-53.0,8743.0,8189.0,54.0,2020-08-20
 710971,France,French Polynesia,-17.6797,-149.4068,211.0,68.0,0.0,2020-08-20
 710974,France,Mayotte,-12.8275,45.166244,3160.0,2964.0,39.0,2020-08-20
 710975,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-20
@@ -20862,7 +20669,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 714905,Denmark,,56.2639,9.5018,16127.0,13944.0,621.0,2020-08-21
 714915,Estonia,,58.5953,25.0136,2244.0,2011.0,63.0,2020-08-21
 714919,Finland,,61.92411,25.748151,7871.0,7100.0,334.0,2020-08-21
-714920,France,French Guiana,4.0,-53.0,8777.0,8251.0,55.0,2020-08-21
 714921,France,French Polynesia,-17.6797,-149.4068,211.0,68.0,0.0,2020-08-21
 714924,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-21
 714925,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-21
@@ -21043,7 +20849,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 718855,Denmark,,56.2639,9.5018,16239.0,13944.0,622.0,2020-08-22
 718865,Estonia,,58.5953,25.0136,2265.0,2024.0,63.0,2020-08-22
 718869,Finland,,61.92411,25.748151,7906.0,7100.0,334.0,2020-08-22
-718870,France,French Guiana,4.0,-53.0,8797.0,8307.0,55.0,2020-08-22
 718871,France,French Polynesia,-17.6797,-149.4068,211.0,68.0,0.0,2020-08-22
 718874,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-22
 718875,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-22
@@ -21224,7 +21029,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 722806,Denmark,,56.2639,9.5018,16317.0,14180.0,622.0,2020-08-23
 722816,Estonia,,58.5953,25.0136,2272.0,2024.0,63.0,2020-08-23
 722820,Finland,,61.92411,25.748151,7920.0,7100.0,334.0,2020-08-23
-722821,France,French Guiana,4.0,-53.0,8797.0,8307.0,55.0,2020-08-23
 722822,France,French Polynesia,-17.6797,-149.4068,211.0,68.0,0.0,2020-08-23
 722825,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-23
 722826,France,New Caledonia,-20.904305,165.618042,23.0,22.0,0.0,2020-08-23
@@ -21405,7 +21209,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 726757,Denmark,,56.2639,9.5018,16397.0,14310.0,623.0,2020-08-24
 726767,Estonia,,58.5953,25.0136,2275.0,2025.0,64.0,2020-08-24
 726771,Finland,,61.92411,25.748151,7938.0,7100.0,335.0,2020-08-24
-726772,France,French Guiana,4.0,-53.0,8875.0,8363.0,56.0,2020-08-24
 726773,France,French Polynesia,-17.6797,-149.4068,211.0,68.0,0.0,2020-08-24
 726776,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-24
 726777,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-24
@@ -21586,7 +21389,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 730708,Denmark,,56.2639,9.5018,16480.0,14465.0,623.0,2020-08-25
 730718,Estonia,,58.5953,25.0136,2294.0,2038.0,64.0,2020-08-25
 730722,Finland,,61.92411,25.748151,7981.0,7100.0,335.0,2020-08-25
-730723,France,French Guiana,4.0,-53.0,8904.0,8399.0,56.0,2020-08-25
 730724,France,French Polynesia,-17.6797,-149.4068,372.0,148.0,0.0,2020-08-25
 730727,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-25
 730728,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-25
@@ -21767,7 +21569,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 734659,Denmark,,56.2639,9.5018,16537.0,14603.0,623.0,2020-08-26
 734669,Estonia,,58.5953,25.0136,2311.0,2054.0,64.0,2020-08-26
 734673,Finland,,61.92411,25.748151,8002.0,7200.0,335.0,2020-08-26
-734674,France,French Guiana,4.0,-53.0,8936.0,8461.0,56.0,2020-08-26
 734675,France,French Polynesia,-17.6797,-149.4068,415.0,202.0,0.0,2020-08-26
 734678,France,Mayotte,-12.8275,45.166244,3237.0,2964.0,39.0,2020-08-26
 734679,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-26
@@ -21948,7 +21749,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 738610,Denmark,,56.2639,9.5018,16627.0,14763.0,624.0,2020-08-27
 738620,Estonia,,58.5953,25.0136,2325.0,2067.0,64.0,2020-08-27
 738624,Finland,,61.92411,25.748151,8019.0,7200.0,335.0,2020-08-27
-738625,France,French Guiana,4.0,-53.0,8982.0,8508.0,58.0,2020-08-27
 738626,France,French Polynesia,-17.6797,-149.4068,415.0,202.0,0.0,2020-08-27
 738629,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-27
 738630,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-27
@@ -22129,7 +21929,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 742561,Denmark,,56.2639,9.5018,16700.0,14877.0,624.0,2020-08-28
 742571,Estonia,,58.5953,25.0136,2343.0,2076.0,64.0,2020-08-28
 742575,Finland,,61.92411,25.748151,8042.0,7200.0,335.0,2020-08-28
-742576,France,French Guiana,4.0,-53.0,9022.0,8586.0,58.0,2020-08-28
 742577,France,French Polynesia,-17.6797,-149.4068,482.0,202.0,0.0,2020-08-28
 742580,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-28
 742581,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-28
@@ -22310,7 +22109,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 746512,Denmark,,56.2639,9.5018,16779.0,14989.0,624.0,2020-08-29
 746522,Estonia,,58.5953,25.0136,2363.0,2086.0,64.0,2020-08-29
 746526,Finland,,61.92411,25.748151,8049.0,7200.0,335.0,2020-08-29
-746527,France,French Guiana,4.0,-53.0,9076.0,8620.0,58.0,2020-08-29
 746528,France,French Polynesia,-17.6797,-149.4068,482.0,202.0,0.0,2020-08-29
 746531,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-29
 746532,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-29
@@ -22491,7 +22289,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 750463,Denmark,,56.2639,9.5018,16891.0,15116.0,624.0,2020-08-30
 750473,Estonia,,58.5953,25.0136,2373.0,2088.0,64.0,2020-08-30
 750477,Finland,,61.92411,25.748151,8077.0,7200.0,335.0,2020-08-30
-750478,France,French Guiana,4.0,-53.0,9076.0,8620.0,58.0,2020-08-30
 750479,France,French Polynesia,-17.6797,-149.4068,482.0,202.0,0.0,2020-08-30
 750482,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-30
 750483,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-30
@@ -22672,7 +22469,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 754414,Denmark,,56.2639,9.5018,16985.0,15205.0,624.0,2020-08-31
 754424,Estonia,,58.5953,25.0136,2375.0,2088.0,64.0,2020-08-31
 754428,Finland,,61.92411,25.748151,8086.0,7200.0,336.0,2020-08-31
-754429,France,French Guiana,4.0,-53.0,9115.0,8654.0,59.0,2020-08-31
 754430,France,French Polynesia,-17.6797,-149.4068,573.0,205.0,0.0,2020-08-31
 754433,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-08-31
 754434,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-08-31
@@ -22853,7 +22649,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 758369,Denmark,,56.2639,9.5018,17084.0,15300.0,625.0,2020-09-01
 758379,Estonia,,58.5953,25.0136,2395.0,2112.0,64.0,2020-09-01
 758383,Finland,,61.92411,25.748151,8142.0,7200.0,336.0,2020-09-01
-758384,France,French Guiana,4.0,-53.0,9154.0,8707.0,60.0,2020-09-01
 758385,France,French Polynesia,-17.6797,-149.4068,573.0,205.0,0.0,2020-09-01
 758388,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-09-01
 758389,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-09-01
@@ -23034,7 +22829,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 762324,Denmark,,56.2639,9.5018,17195.0,15413.0,626.0,2020-09-02
 762334,Estonia,,58.5953,25.0136,2415.0,2130.0,64.0,2020-09-02
 762338,Finland,,61.92411,25.748151,8161.0,7350.0,336.0,2020-09-02
-762339,France,French Guiana,4.0,-53.0,9209.0,8739.0,61.0,2020-09-02
 762340,France,French Polynesia,-17.6797,-149.4068,622.0,336.0,0.0,2020-09-02
 762343,France,Mayotte,-12.8275,45.166244,3301.0,2964.0,40.0,2020-09-02
 762344,France,New Caledonia,-20.904305,165.618042,23.0,23.0,0.0,2020-09-02
@@ -23215,7 +23009,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 766279,Denmark,,56.2639,9.5018,17374.0,15499.0,626.0,2020-09-03
 766289,Estonia,,58.5953,25.0136,2441.0,2150.0,64.0,2020-09-03
 766293,Finland,,61.92411,25.748151,8200.0,7350.0,336.0,2020-09-03
-766294,France,French Guiana,4.0,-53.0,9251.0,8772.0,61.0,2020-09-03
 766295,France,French Polynesia,-17.6797,-149.4068,622.0,336.0,0.0,2020-09-03
 766298,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-03
 766299,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-03
@@ -23396,7 +23189,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 770234,Denmark,,56.2639,9.5018,17547.0,15586.0,627.0,2020-09-04
 770244,Estonia,,58.5953,25.0136,2456.0,2157.0,64.0,2020-09-04
 770248,Finland,,61.92411,25.748151,8225.0,7350.0,336.0,2020-09-04
-770249,France,French Guiana,4.0,-53.0,9276.0,8792.0,62.0,2020-09-04
 770250,France,French Polynesia,-17.6797,-149.4068,694.0,360.0,0.0,2020-09-04
 770253,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-04
 770254,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-04
@@ -23577,7 +23369,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 774189,Denmark,,56.2639,9.5018,17736.0,15671.0,627.0,2020-09-05
 774199,Estonia,,58.5953,25.0136,2491.0,2165.0,64.0,2020-09-05
 774203,Finland,,61.92411,25.748151,8261.0,7350.0,336.0,2020-09-05
-774204,France,French Guiana,4.0,-53.0,9322.0,8870.0,62.0,2020-09-05
 774205,France,French Polynesia,-17.6797,-149.4068,694.0,360.0,0.0,2020-09-05
 774208,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-05
 774209,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-05
@@ -23758,7 +23549,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 778144,Denmark,,56.2639,9.5018,17883.0,15760.0,627.0,2020-09-06
 778154,Estonia,,58.5953,25.0136,2516.0,2170.0,64.0,2020-09-06
 778158,Finland,,61.92411,25.748151,8291.0,7350.0,336.0,2020-09-06
-778159,France,French Guiana,4.0,-53.0,9322.0,8870.0,62.0,2020-09-06
 778160,France,French Polynesia,-17.6797,-149.4068,694.0,360.0,0.0,2020-09-06
 778163,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-06
 778164,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-06
@@ -23939,7 +23729,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 782099,Denmark,,56.2639,9.5018,18113.0,15833.0,628.0,2020-09-07
 782109,Estonia,,58.5953,25.0136,2532.0,2176.0,64.0,2020-09-07
 782113,Finland,,61.92411,25.748151,8327.0,7350.0,336.0,2020-09-07
-782114,France,French Guiana,4.0,-53.0,9355.0,8902.0,62.0,2020-09-07
 782115,France,French Polynesia,-17.6797,-149.4068,773.0,528.0,0.0,2020-09-07
 782118,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-07
 782119,France,New Caledonia,-20.904305,165.618042,26.0,23.0,0.0,2020-09-07
@@ -24120,7 +23909,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 786054,Denmark,,56.2639,9.5018,18356.0,15907.0,628.0,2020-09-08
 786064,Estonia,,58.5953,25.0136,2564.0,2195.0,64.0,2020-09-08
 786068,Finland,,61.92411,25.748151,8337.0,7350.0,336.0,2020-09-08
-786069,France,French Guiana,4.0,-53.0,9387.0,8946.0,62.0,2020-09-08
 786070,France,French Polynesia,-17.6797,-149.4068,773.0,528.0,0.0,2020-09-08
 786073,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-08
 786074,France,New Caledonia,-20.904305,165.618042,26.0,25.0,0.0,2020-09-08
@@ -24301,7 +24089,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 790009,Denmark,,56.2639,9.5018,18607.0,15990.0,628.0,2020-09-09
 790019,Estonia,,58.5953,25.0136,2585.0,2213.0,64.0,2020-09-09
 790023,Finland,,61.92411,25.748151,8430.0,7500.0,337.0,2020-09-09
-790024,France,French Guiana,4.0,-53.0,9418.0,8986.0,62.0,2020-09-09
 790025,France,French Polynesia,-17.6797,-149.4068,795.0,528.0,0.0,2020-09-09
 790028,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-09
 790029,France,New Caledonia,-20.904305,165.618042,26.0,25.0,0.0,2020-09-09
@@ -24482,7 +24269,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 793964,Denmark,,56.2639,9.5018,18924.0,16069.0,629.0,2020-09-10
 793974,Estonia,,58.5953,25.0136,2600.0,2223.0,64.0,2020-09-10
 793978,Finland,,61.92411,25.748151,8469.0,7500.0,337.0,2020-09-10
-793979,France,French Guiana,4.0,-53.0,9462.0,9040.0,63.0,2020-09-10
 793980,France,French Polynesia,-17.6797,-149.4068,857.0,576.0,0.0,2020-09-10
 793983,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-10
 793984,France,New Caledonia,-20.904305,165.618042,26.0,25.0,0.0,2020-09-10
@@ -24663,7 +24449,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 797919,Denmark,,56.2639,9.5018,19216.0,16139.0,629.0,2020-09-11
 797929,Estonia,,58.5953,25.0136,2632.0,2233.0,64.0,2020-09-11
 797933,Finland,,61.92411,25.748151,8512.0,7500.0,337.0,2020-09-11
-797934,France,French Guiana,4.0,-53.0,9494.0,9078.0,63.0,2020-09-11
 797935,France,French Polynesia,-17.6797,-149.4068,953.0,642.0,2.0,2020-09-11
 797938,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-11
 797939,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-11
@@ -24844,7 +24629,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 801874,Denmark,,56.2639,9.5018,19557.0,16247.0,630.0,2020-09-12
 801884,Estonia,,58.5953,25.0136,2655.0,2252.0,64.0,2020-09-12
 801888,Finland,,61.92411,25.748151,8557.0,7500.0,337.0,2020-09-12
-801889,France,French Guiana,4.0,-53.0,9521.0,9132.0,63.0,2020-09-12
 801890,France,French Polynesia,-17.6797,-149.4068,953.0,642.0,2.0,2020-09-12
 801893,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-12
 801894,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-12
@@ -25025,7 +24809,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 805829,Denmark,,56.2639,9.5018,19890.0,16333.0,631.0,2020-09-13
 805839,Estonia,,58.5953,25.0136,2676.0,2256.0,64.0,2020-09-13
 805843,Finland,,61.92411,25.748151,8580.0,7500.0,337.0,2020-09-13
-805844,France,French Guiana,4.0,-53.0,9521.0,9132.0,63.0,2020-09-13
 805845,France,French Polynesia,-17.6797,-149.4068,953.0,642.0,2.0,2020-09-13
 805848,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-13
 805849,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-13
@@ -25206,7 +24989,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 809784,Denmark,,56.2639,9.5018,20237.0,16437.0,633.0,2020-09-14
 809794,Estonia,,58.5953,25.0136,2698.0,2256.0,64.0,2020-09-14
 809798,Finland,,61.92411,25.748151,8627.0,7500.0,337.0,2020-09-14
-809799,France,French Guiana,4.0,-53.0,9552.0,9156.0,63.0,2020-09-14
 809800,France,French Polynesia,-17.6797,-149.4068,1099.0,672.0,2.0,2020-09-14
 809803,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-14
 809804,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-14
@@ -25387,7 +25169,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 813739,Denmark,,56.2639,9.5018,20571.0,16557.0,633.0,2020-09-15
 813749,Estonia,,58.5953,25.0136,2722.0,2286.0,64.0,2020-09-15
 813753,Finland,,61.92411,25.748151,8725.0,7500.0,339.0,2020-09-15
-813754,France,French Guiana,4.0,-53.0,9578.0,9202.0,64.0,2020-09-15
 813755,France,French Polynesia,-17.6797,-149.4068,1099.0,672.0,2.0,2020-09-15
 813758,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-15
 813759,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-15
@@ -25568,7 +25349,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 817694,Denmark,,56.2639,9.5018,20571.0,16557.0,633.0,2020-09-16
 817704,Estonia,,58.5953,25.0136,2756.0,2318.0,64.0,2020-09-16
 817708,Finland,,61.92411,25.748151,8750.0,7700.0,339.0,2020-09-16
-817709,France,French Guiana,4.0,-53.0,9595.0,9235.0,65.0,2020-09-16
 817710,France,French Polynesia,-17.6797,-149.4068,1099.0,672.0,2.0,2020-09-16
 817713,France,Mayotte,-12.8275,45.166244,3374.0,2964.0,40.0,2020-09-16
 817714,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-16
@@ -25749,7 +25529,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 821649,Denmark,,56.2639,9.5018,21393.0,16918.0,635.0,2020-09-17
 821659,Estonia,,58.5953,25.0136,2778.0,2337.0,64.0,2020-09-17
 821663,Finland,,61.92411,25.748151,8799.0,7700.0,339.0,2020-09-17
-821664,France,French Guiana,4.0,-53.0,9623.0,9267.0,65.0,2020-09-17
 821665,France,French Polynesia,-17.6797,-149.4068,1099.0,672.0,2.0,2020-09-17
 821668,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-17
 821669,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-17
@@ -25930,7 +25709,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 825604,Denmark,,56.2639,9.5018,21847.0,17110.0,635.0,2020-09-18
 825614,Estonia,,58.5953,25.0136,2814.0,2357.0,64.0,2020-09-18
 825618,Finland,,61.92411,25.748151,8858.0,7700.0,339.0,2020-09-18
-825619,France,French Guiana,4.0,-53.0,9659.0,9298.0,65.0,2020-09-18
 825620,France,French Polynesia,-17.6797,-149.4068,1111.0,873.0,2.0,2020-09-18
 825623,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-18
 825624,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-18
@@ -26111,7 +25889,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 829559,Denmark,,56.2639,9.5018,22436.0,17316.0,635.0,2020-09-19
 829569,Estonia,,58.5953,25.0136,2875.0,2374.0,64.0,2020-09-19
 829573,Finland,,61.92411,25.748151,8922.0,7700.0,339.0,2020-09-19
-829574,France,French Guiana,4.0,-53.0,9692.0,9341.0,65.0,2020-09-19
 829575,France,French Polynesia,-17.6797,-149.4068,1271.0,1028.0,2.0,2020-09-19
 829578,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-19
 829579,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-19
@@ -26292,7 +26069,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 833514,Denmark,,56.2639,9.5018,22905.0,17514.0,638.0,2020-09-20
 833524,Estonia,,58.5953,25.0136,2924.0,2377.0,64.0,2020-09-20
 833528,Finland,,61.92411,25.748151,8980.0,7700.0,339.0,2020-09-20
-833529,France,French Guiana,4.0,-53.0,9692.0,9341.0,65.0,2020-09-20
 833530,France,French Polynesia,-17.6797,-149.4068,1271.0,1028.0,2.0,2020-09-20
 833533,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-20
 833534,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-20
@@ -26473,7 +26249,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 837470,Denmark,,56.2639,9.5018,23323.0,17738.0,640.0,2020-09-21
 837480,Estonia,,58.5953,25.0136,2941.0,2379.0,64.0,2020-09-21
 837484,Finland,,61.92411,25.748151,9046.0,7700.0,341.0,2020-09-21
-837485,France,French Guiana,4.0,-53.0,9712.0,9373.0,65.0,2020-09-21
 837486,France,French Polynesia,-17.6797,-149.4068,1271.0,1028.0,2.0,2020-09-21
 837489,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-21
 837490,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-21
@@ -26654,7 +26429,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 841427,Denmark,,56.2639,9.5018,23799.0,18035.0,641.0,2020-09-22
 841437,Estonia,,58.5953,25.0136,2976.0,2385.0,64.0,2020-09-22
 841441,Finland,,61.92411,25.748151,9195.0,7700.0,341.0,2020-09-22
-841442,France,French Guiana,4.0,-53.0,9738.0,9400.0,65.0,2020-09-22
 841443,France,French Polynesia,-17.6797,-149.4068,1394.0,1170.0,2.0,2020-09-22
 841446,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-22
 841447,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-22
@@ -26835,7 +26609,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 845384,Denmark,,56.2639,9.5018,24357.0,18359.0,643.0,2020-09-23
 845394,Estonia,,58.5953,25.0136,3033.0,2387.0,64.0,2020-09-23
 845398,Finland,,61.92411,25.748151,9288.0,7850.0,343.0,2020-09-23
-845399,France,French Guiana,4.0,-53.0,9762.0,9431.0,65.0,2020-09-23
 845400,France,French Polynesia,-17.6797,-149.4068,1469.0,1237.0,5.0,2020-09-23
 845403,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-23
 845404,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-23
@@ -27016,7 +26789,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 849341,Denmark,,56.2639,9.5018,24916.0,18646.0,645.0,2020-09-24
 849351,Estonia,,58.5953,25.0136,3076.0,2395.0,64.0,2020-09-24
 849355,Finland,,61.92411,25.748151,9379.0,7850.0,343.0,2020-09-24
-849356,France,French Guiana,4.0,-53.0,9790.0,9456.0,65.0,2020-09-24
 849357,France,French Polynesia,-17.6797,-149.4068,1469.0,1237.0,5.0,2020-09-24
 849360,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-24
 849361,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-24
@@ -27197,7 +26969,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 853298,Denmark,,56.2639,9.5018,25594.0,19010.0,647.0,2020-09-25
 853308,Estonia,,58.5953,25.0136,3118.0,2417.0,64.0,2020-09-25
 853312,Finland,,61.92411,25.748151,9484.0,7850.0,343.0,2020-09-25
-853313,France,French Guiana,4.0,-53.0,9831.0,9472.0,65.0,2020-09-25
 853314,France,French Polynesia,-17.6797,-149.4068,1579.0,1335.0,6.0,2020-09-25
 853317,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-25
 853318,France,New Caledonia,-20.904305,165.618042,26.0,26.0,0.0,2020-09-25
@@ -27378,7 +27149,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 857255,Denmark,,56.2639,9.5018,26213.0,19350.0,648.0,2020-09-26
 857265,Estonia,,58.5953,25.0136,3165.0,2499.0,64.0,2020-09-26
 857269,Finland,,61.92411,25.748151,9577.0,7850.0,343.0,2020-09-26
-857270,France,French Guiana,4.0,-53.0,9863.0,9500.0,65.0,2020-09-26
 857271,France,French Polynesia,-17.6797,-149.4068,1579.0,1335.0,6.0,2020-09-26
 857274,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-26
 857275,France,New Caledonia,-20.904305,165.618042,27.0,26.0,0.0,2020-09-26
@@ -27559,7 +27329,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 861212,Denmark,,56.2639,9.5018,26637.0,19650.0,649.0,2020-09-27
 861222,Estonia,,58.5953,25.0136,3200.0,2506.0,64.0,2020-09-27
 861226,Finland,,61.92411,25.748151,9682.0,7850.0,343.0,2020-09-27
-861227,France,French Guiana,4.0,-53.0,9863.0,9500.0,65.0,2020-09-27
 861228,France,French Polynesia,-17.6797,-149.4068,1579.0,1335.0,6.0,2020-09-27
 861231,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-27
 861232,France,New Caledonia,-20.904305,165.618042,27.0,26.0,0.0,2020-09-27
@@ -27740,7 +27509,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 865169,Denmark,,56.2639,9.5018,27072.0,19942.0,649.0,2020-09-28
 865179,Estonia,,58.5953,25.0136,3267.0,2513.0,64.0,2020-09-28
 865183,Finland,,61.92411,25.748151,9743.0,7850.0,345.0,2020-09-28
-865184,France,French Guiana,4.0,-53.0,9895.0,9536.0,65.0,2020-09-28
 865185,France,French Polynesia,-17.6797,-149.4068,1579.0,1335.0,6.0,2020-09-28
 865188,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-28
 865189,France,New Caledonia,-20.904305,165.618042,27.0,26.0,0.0,2020-09-28
@@ -27921,7 +27689,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 869126,Denmark,,56.2639,9.5018,27464.0,20320.0,650.0,2020-09-29
 869136,Estonia,,58.5953,25.0136,3315.0,2564.0,64.0,2020-09-29
 869140,Finland,,61.92411,25.748151,9892.0,7850.0,345.0,2020-09-29
-869141,France,French Guiana,4.0,-53.0,9929.0,9569.0,66.0,2020-09-29
 869142,France,French Polynesia,-17.6797,-149.4068,1728.0,1431.0,7.0,2020-09-29
 869145,France,Mayotte,-12.8275,45.166244,3541.0,2964.0,40.0,2020-09-29
 869146,France,New Caledonia,-20.904305,165.618042,27.0,26.0,0.0,2020-09-29
@@ -28102,7 +27869,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 873083,Denmark,,56.2639,9.5018,27998.0,20754.0,650.0,2020-09-30
 873093,Estonia,,58.5953,25.0136,3371.0,2605.0,64.0,2020-09-30
 873097,Finland,,61.92411,25.748151,9992.0,8100.0,344.0,2020-09-30
-873098,France,French Guiana,4.0,-53.0,9955.0,9589.0,66.0,2020-09-30
 873099,France,French Polynesia,-17.6797,-149.4068,1852.0,1504.0,7.0,2020-09-30
 873102,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-09-30
 873103,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-09-30
@@ -28283,7 +28049,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 877040,Denmark,,56.2639,9.5018,28396.0,21309.0,651.0,2020-10-01
 877050,Estonia,,58.5953,25.0136,3450.0,2643.0,65.0,2020-10-01
 877054,Finland,,61.92411,25.748151,10103.0,8100.0,344.0,2020-10-01
-877055,France,French Guiana,4.0,-53.0,9966.0,9613.0,67.0,2020-10-01
 877056,France,French Polynesia,-17.6797,-149.4068,1852.0,1504.0,7.0,2020-10-01
 877059,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-10-01
 877060,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-01
@@ -28464,7 +28229,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 880997,Denmark,,56.2639,9.5018,28932.0,21824.0,652.0,2020-10-02
 881007,Estonia,,58.5953,25.0136,3507.0,2675.0,66.0,2020-10-02
 881011,Finland,,61.92411,25.748151,10244.0,8100.0,345.0,2020-10-02
-881012,France,French Guiana,4.0,-53.0,9968.0,9637.0,67.0,2020-10-02
 881013,France,French Polynesia,-17.6797,-149.4068,1964.0,1555.0,8.0,2020-10-02
 881016,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-10-02
 881017,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-02
@@ -28645,7 +28409,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 884954,Denmark,,56.2639,9.5018,29302.0,22297.0,654.0,2020-10-03
 884964,Estonia,,58.5953,25.0136,3577.0,2727.0,67.0,2020-10-03
 884968,Finland,,61.92411,25.748151,10391.0,8100.0,345.0,2020-10-03
-884969,France,French Guiana,4.0,-53.0,10029.0,9665.0,67.0,2020-10-03
 884970,France,French Polynesia,-17.6797,-149.4068,1964.0,1555.0,8.0,2020-10-03
 884973,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-10-03
 884974,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-03
@@ -28826,7 +28589,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 888911,Denmark,,56.2639,9.5018,29680.0,22716.0,658.0,2020-10-04
 888921,Estonia,,58.5953,25.0136,3607.0,2749.0,67.0,2020-10-04
 888925,Finland,,61.92411,25.748151,10538.0,8100.0,345.0,2020-10-04
-888926,France,French Guiana,4.0,-53.0,10029.0,9665.0,67.0,2020-10-04
 888927,France,French Polynesia,-17.6797,-149.4068,1964.0,1555.0,8.0,2020-10-04
 888930,France,Mayotte,-12.8275,45.166244,3779.0,2964.0,42.0,2020-10-04
 888931,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-04
@@ -29007,7 +28769,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 892868,Denmark,,56.2639,9.5018,30057.0,23122.0,659.0,2020-10-05
 892878,Estonia,,58.5953,25.0136,3617.0,2755.0,67.0,2020-10-05
 892882,Finland,,61.92411,25.748151,10702.0,8100.0,346.0,2020-10-05
-892883,France,French Guiana,4.0,-53.0,10057.0,9710.0,68.0,2020-10-05
 892884,France,French Polynesia,-17.6797,-149.4068,2228.0,1769.0,9.0,2020-10-05
 892887,France,Mayotte,-12.8275,45.166244,3892.0,2964.0,42.0,2020-10-05
 892888,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-05
@@ -29188,7 +28949,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 896825,Denmark,,56.2639,9.5018,30379.0,23655.0,663.0,2020-10-06
 896835,Estonia,,58.5953,25.0136,3659.0,2806.0,67.0,2020-10-06
 896839,Finland,,61.92411,25.748151,10929.0,8100.0,346.0,2020-10-06
-896840,France,French Guiana,4.0,-53.0,10070.0,9741.0,69.0,2020-10-06
 896841,France,French Polynesia,-17.6797,-149.4068,2228.0,1769.0,9.0,2020-10-06
 896844,France,Mayotte,-12.8275,45.166244,3892.0,2964.0,42.0,2020-10-06
 896845,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-06
@@ -29369,7 +29129,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 900782,Denmark,,56.2639,9.5018,30710.0,24240.0,663.0,2020-10-07
 900792,Estonia,,58.5953,25.0136,3715.0,2813.0,67.0,2020-10-07
 900796,Finland,,61.92411,25.748151,11049.0,8500.0,346.0,2020-10-07
-900797,France,French Guiana,4.0,-53.0,10103.0,9773.0,69.0,2020-10-07
 900798,France,French Polynesia,-17.6797,-149.4068,2358.0,1857.0,10.0,2020-10-07
 900801,France,Mayotte,-12.8275,45.166244,3892.0,2964.0,42.0,2020-10-07
 900802,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-07
@@ -29550,7 +29309,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 904739,Denmark,,56.2639,9.5018,31156.0,24899.0,665.0,2020-10-08
 904749,Estonia,,58.5953,25.0136,3760.0,2824.0,67.0,2020-10-08
 904753,Finland,,61.92411,25.748151,11345.0,8500.0,346.0,2020-10-08
-904754,France,French Guiana,4.0,-53.0,10128.0,9799.0,69.0,2020-10-08
 904755,France,French Polynesia,-17.6797,-149.4068,2420.0,1857.0,10.0,2020-10-08
 904758,France,Mayotte,-12.8275,45.166244,3892.0,2964.0,42.0,2020-10-08
 904759,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-08
@@ -29731,7 +29489,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 908696,Denmark,,56.2639,9.5018,31638.0,25502.0,665.0,2020-10-09
 908706,Estonia,,58.5953,25.0136,3809.0,2906.0,68.0,2020-10-09
 908710,Finland,,61.92411,25.748151,11580.0,8500.0,346.0,2020-10-09
-908711,France,French Guiana,4.0,-53.0,10144.0,9810.0,69.0,2020-10-09
 908712,France,French Polynesia,-17.6797,-149.4068,2754.0,2019.0,10.0,2020-10-09
 908715,France,Mayotte,-12.8275,45.166244,3989.0,2964.0,43.0,2020-10-09
 908716,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-09
@@ -29912,7 +29669,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 912653,Denmark,,56.2639,9.5018,32082.0,25987.0,667.0,2020-10-10
 912663,Estonia,,58.5953,25.0136,3846.0,2946.0,68.0,2020-10-10
 912667,Finland,,61.92411,25.748151,11849.0,8500.0,346.0,2020-10-10
-912668,France,French Guiana,4.0,-53.0,10144.0,9834.0,69.0,2020-10-10
 912669,France,French Polynesia,-17.6797,-149.4068,2754.0,2019.0,10.0,2020-10-10
 912672,France,Mayotte,-12.8275,45.166244,3989.0,2964.0,43.0,2020-10-10
 912673,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-10
@@ -30093,7 +29849,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 916610,Denmark,,56.2639,9.5018,32422.0,26380.0,669.0,2020-10-11
 916620,Estonia,,58.5953,25.0136,3865.0,2958.0,68.0,2020-10-11
 916624,Finland,,61.92411,25.748151,11998.0,8500.0,346.0,2020-10-11
-916625,France,French Guiana,4.0,-53.0,10144.0,9834.0,69.0,2020-10-11
 916626,France,French Polynesia,-17.6797,-149.4068,2754.0,2019.0,10.0,2020-10-11
 916629,France,Mayotte,-12.8275,45.166244,3989.0,2964.0,43.0,2020-10-11
 916630,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-11
@@ -30274,7 +30029,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 920567,Denmark,,56.2639,9.5018,32811.0,26741.0,671.0,2020-10-12
 920577,Estonia,,58.5953,25.0136,3883.0,2967.0,68.0,2020-10-12
 920581,Finland,,61.92411,25.748151,12212.0,8500.0,346.0,2020-10-12
-920582,France,French Guiana,4.0,-53.0,10180.0,9855.0,69.0,2020-10-12
 920583,France,French Polynesia,-17.6797,-149.4068,3251.0,2138.0,11.0,2020-10-12
 920586,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-12
 920587,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-12
@@ -30455,7 +30209,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 924525,Denmark,,56.2639,9.5018,33101.0,27225.0,674.0,2020-10-13
 924535,Estonia,,58.5953,25.0136,3908.0,3015.0,68.0,2020-10-13
 924539,Finland,,61.92411,25.748151,12499.0,8500.0,346.0,2020-10-13
-924540,France,French Guiana,4.0,-53.0,10192.0,9881.0,69.0,2020-10-13
 924541,France,French Polynesia,-17.6797,-149.4068,3251.0,2138.0,11.0,2020-10-13
 924544,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-13
 924545,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-13
@@ -30636,7 +30389,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 928483,Denmark,,56.2639,9.5018,33593.0,27680.0,675.0,2020-10-14
 928493,Estonia,,58.5953,25.0136,3947.0,3060.0,68.0,2020-10-14
 928497,Finland,,61.92411,25.748151,12703.0,9100.0,350.0,2020-10-14
-928498,France,French Guiana,4.0,-53.0,10202.0,9892.0,69.0,2020-10-14
 928499,France,French Polynesia,-17.6797,-149.4068,3573.0,2487.0,13.0,2020-10-14
 928502,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-14
 928503,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-14
@@ -30817,7 +30569,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 932441,Denmark,,56.2639,9.5018,34023.0,28118.0,677.0,2020-10-15
 932451,Estonia,,58.5953,25.0136,3980.0,3093.0,68.0,2020-10-15
 932455,Finland,,61.92411,25.748151,12944.0,9100.0,350.0,2020-10-15
-932456,France,French Guiana,4.0,-53.0,10233.0,9894.0,69.0,2020-10-15
 932457,France,French Polynesia,-17.6797,-149.4068,3573.0,2487.0,13.0,2020-10-15
 932460,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-15
 932461,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-15
@@ -30998,7 +30749,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 936399,Denmark,,56.2639,9.5018,34441.0,28551.0,677.0,2020-10-16
 936409,Estonia,,58.5953,25.0136,4017.0,3137.0,68.0,2020-10-16
 936413,Finland,,61.92411,25.748151,13133.0,9100.0,351.0,2020-10-16
-936414,France,French Guiana,4.0,-53.0,10239.0,9955.0,69.0,2020-10-16
 936415,France,French Polynesia,-17.6797,-149.4068,3797.0,2844.0,14.0,2020-10-16
 936418,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-16
 936419,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-16
@@ -31179,7 +30929,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 940358,Denmark,,56.2639,9.5018,34941.0,28917.0,679.0,2020-10-17
 940368,Estonia,,58.5953,25.0136,4052.0,3198.0,68.0,2020-10-17
 940372,Finland,,61.92411,25.748151,13293.0,9100.0,351.0,2020-10-17
-940373,France,French Guiana,4.0,-53.0,10243.0,9982.0,69.0,2020-10-17
 940374,France,French Polynesia,-17.6797,-149.4068,3797.0,2844.0,14.0,2020-10-17
 940377,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-17
 940378,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-17
@@ -31360,7 +31109,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 944317,Denmark,,56.2639,9.5018,35392.0,29255.0,680.0,2020-10-18
 944327,Estonia,,58.5953,25.0136,4078.0,3211.0,68.0,2020-10-18
 944331,Finland,,61.92411,25.748151,13424.0,9100.0,351.0,2020-10-18
-944332,France,French Guiana,4.0,-53.0,10243.0,9982.0,69.0,2020-10-18
 944333,France,French Polynesia,-17.6797,-149.4068,3797.0,2844.0,14.0,2020-10-18
 944336,France,Mayotte,-12.8275,45.166244,4030.0,2964.0,43.0,2020-10-18
 944337,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-18
@@ -31541,7 +31289,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 948276,Denmark,,56.2639,9.5018,35844.0,29562.0,686.0,2020-10-19
 948286,Estonia,,58.5953,25.0136,4085.0,3229.0,68.0,2020-10-19
 948290,Finland,,61.92411,25.748151,13555.0,9100.0,351.0,2020-10-19
-948291,France,French Guiana,4.0,-53.0,10268.0,9995.0,69.0,2020-10-19
 948292,France,French Polynesia,-17.6797,-149.4068,4548.0,3202.0,16.0,2020-10-19
 948295,France,Mayotte,-12.8275,45.166244,4159.0,2964.0,43.0,2020-10-19
 948296,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-19
@@ -31722,7 +31469,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 952236,Denmark,,56.2639,9.5018,36373.0,29998.0,688.0,2020-10-20
 952246,Estonia,,58.5953,25.0136,4127.0,3270.0,71.0,2020-10-20
 952250,Finland,,61.92411,25.748151,13849.0,9100.0,351.0,2020-10-20
-952251,France,French Guiana,4.0,-53.0,10268.0,9995.0,69.0,2020-10-20
 952252,France,French Polynesia,-17.6797,-149.4068,4548.0,3202.0,16.0,2020-10-20
 952255,France,Mayotte,-12.8275,45.166244,4159.0,2964.0,43.0,2020-10-20
 952256,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-20
@@ -31903,7 +31649,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 956196,Denmark,,56.2639,9.5018,37003.0,30432.0,690.0,2020-10-21
 956206,Estonia,,58.5953,25.0136,4171.0,3334.0,71.0,2020-10-21
 956210,Finland,,61.92411,25.748151,14071.0,9800.0,355.0,2020-10-21
-956211,France,French Guiana,4.0,-53.0,10295.0,9995.0,69.0,2020-10-21
 956212,France,French Polynesia,-17.6797,-149.4068,5161.0,3536.0,19.0,2020-10-21
 956215,France,Mayotte,-12.8275,45.166244,4203.0,2964.0,44.0,2020-10-21
 956216,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-21
@@ -32084,7 +31829,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 960156,Denmark,,56.2639,9.5018,37763.0,30877.0,694.0,2020-10-22
 960166,Estonia,,58.5953,25.0136,4247.0,3366.0,71.0,2020-10-22
 960170,Finland,,61.92411,25.748151,14255.0,9800.0,355.0,2020-10-22
-960171,France,French Guiana,4.0,-53.0,10342.0,9995.0,69.0,2020-10-22
 960172,France,French Polynesia,-17.6797,-149.4068,5161.0,3536.0,19.0,2020-10-22
 960175,France,Mayotte,-12.8275,45.166244,4203.0,2964.0,44.0,2020-10-22
 960176,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-22
@@ -32265,7 +32009,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 964116,Denmark,,56.2639,9.5018,38622.0,31295.0,697.0,2020-10-23
 964126,Estonia,,58.5953,25.0136,4300.0,3418.0,73.0,2020-10-23
 964130,Finland,,61.92411,25.748151,14474.0,9800.0,353.0,2020-10-23
-964131,France,French Guiana,4.0,-53.0,10351.0,9995.0,69.0,2020-10-23
 964132,France,French Polynesia,-17.6797,-149.4068,5797.0,3623.0,20.0,2020-10-23
 964135,France,Mayotte,-12.8275,45.166244,4276.0,2964.0,44.0,2020-10-23
 964136,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-23
@@ -32446,7 +32189,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 968076,Denmark,,56.2639,9.5018,39411.0,31701.0,700.0,2020-10-24
 968086,Estonia,,58.5953,25.0136,4351.0,3441.0,73.0,2020-10-24
 968090,Finland,,61.92411,25.748151,14652.0,9800.0,353.0,2020-10-24
-968091,France,French Guiana,4.0,-53.0,10376.0,9995.0,69.0,2020-10-24
 968092,France,French Polynesia,-17.6797,-149.4068,5797.0,3623.0,20.0,2020-10-24
 968095,France,Mayotte,-12.8275,45.166244,4276.0,2964.0,44.0,2020-10-24
 968096,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-24
@@ -32627,7 +32369,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 972036,Denmark,,56.2639,9.5018,40356.0,31985.0,702.0,2020-10-25
 972046,Estonia,,58.5953,25.0136,4411.0,3457.0,73.0,2020-10-25
 972050,Finland,,61.92411,25.748151,14848.0,9800.0,353.0,2020-10-25
-972051,France,French Guiana,4.0,-53.0,10376.0,9995.0,69.0,2020-10-25
 972052,France,French Polynesia,-17.6797,-149.4068,5859.0,3685.0,20.0,2020-10-25
 972055,France,Mayotte,-12.8275,45.166244,4276.0,2964.0,44.0,2020-10-25
 972056,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-25
@@ -32808,7 +32549,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 975996,Denmark,,56.2639,9.5018,41412.0,32237.0,708.0,2020-10-26
 976006,Estonia,,58.5953,25.0136,4428.0,3505.0,73.0,2020-10-26
 976010,Finland,,61.92411,25.748151,14970.0,9800.0,354.0,2020-10-26
-976011,France,French Guiana,4.0,-53.0,10385.0,9995.0,69.0,2020-10-26
 976012,France,French Polynesia,-17.6797,-149.4068,6431.0,4090.0,26.0,2020-10-26
 976015,France,Mayotte,-12.8275,45.166244,4321.0,2964.0,44.0,2020-10-26
 976016,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-26
@@ -32989,7 +32729,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 979956,Denmark,,56.2639,9.5018,42157.0,32697.0,709.0,2020-10-27
 979966,Estonia,,58.5953,25.0136,4465.0,3561.0,73.0,2020-10-27
 979970,Finland,,61.92411,25.748151,15163.0,9800.0,354.0,2020-10-27
-979971,France,French Guiana,4.0,-53.0,10397.0,9995.0,70.0,2020-10-27
 979972,France,French Polynesia,-17.6797,-149.4068,6431.0,4090.0,26.0,2020-10-27
 979975,France,Mayotte,-12.8275,45.166244,4321.0,2964.0,44.0,2020-10-27
 979976,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-27
@@ -33170,7 +32909,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 983916,Denmark,,56.2639,9.5018,43174.0,33126.0,715.0,2020-10-28
 983926,Estonia,,58.5953,25.0136,4590.0,3626.0,73.0,2020-10-28
 983930,Finland,,61.92411,25.748151,15378.0,11300.0,354.0,2020-10-28
-983931,France,French Guiana,4.0,-53.0,10404.0,9995.0,70.0,2020-10-28
 983932,France,French Polynesia,-17.6797,-149.4068,7262.0,4842.0,29.0,2020-10-28
 983935,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-10-28
 983936,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-28
@@ -33351,7 +33089,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 987877,Denmark,,56.2639,9.5018,44034.0,33601.0,716.0,2020-10-29
 987887,Estonia,,58.5953,25.0136,4671.0,3684.0,73.0,2020-10-29
 987891,Finland,,61.92411,25.748151,15566.0,11300.0,354.0,2020-10-29
-987892,France,French Guiana,4.0,-53.0,10425.0,9995.0,70.0,2020-10-29
 987893,France,French Polynesia,-17.6797,-149.4068,7262.0,4842.0,29.0,2020-10-29
 987896,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-10-29
 987897,France,New Caledonia,-20.904305,165.618042,27.0,27.0,0.0,2020-10-29
@@ -33532,7 +33269,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 991838,Denmark,,56.2639,9.5018,45225.0,34052.0,719.0,2020-10-30
 991848,Estonia,,58.5953,25.0136,4771.0,3747.0,73.0,2020-10-30
 991852,Finland,,61.92411,25.748151,15910.0,11300.0,358.0,2020-10-30
-991853,France,French Guiana,4.0,-53.0,10517.0,9995.0,70.0,2020-10-30
 991854,France,French Polynesia,-17.6797,-149.4068,7262.0,4842.0,29.0,2020-10-30
 991857,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-10-30
 991858,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-10-30
@@ -33713,7 +33449,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 995799,Denmark,,56.2639,9.5018,46351.0,34523.0,721.0,2020-10-31
 995809,Estonia,,58.5953,25.0136,4905.0,3811.0,73.0,2020-10-31
 995813,Finland,,61.92411,25.748151,16113.0,11300.0,358.0,2020-10-31
-995814,France,French Guiana,4.0,-53.0,10536.0,9995.0,70.0,2020-10-31
 995815,France,French Polynesia,-17.6797,-149.4068,7262.0,4842.0,29.0,2020-10-31
 995818,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-10-31
 995819,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-10-31
@@ -33894,7 +33629,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 999760,Denmark,,56.2639,9.5018,47299.0,34959.0,723.0,2020-11-01
 999770,Estonia,,58.5953,25.0136,4985.0,3824.0,73.0,2020-11-01
 999774,Finland,,61.92411,25.748151,16291.0,11300.0,358.0,2020-11-01
-999775,France,French Guiana,4.0,-53.0,10536.0,9995.0,70.0,2020-11-01
 999776,France,French Polynesia,-17.6797,-149.4068,7262.0,4842.0,29.0,2020-11-01
 999779,France,Mayotte,-12.8275,45.166244,4366.0,2964.0,44.0,2020-11-01
 999780,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-11-01
@@ -34075,7 +33809,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1003721,Denmark,,56.2639,9.5018,48241.0,35411.0,724.0,2020-11-02
 1003731,Estonia,,58.5953,25.0136,5046.0,3832.0,73.0,2020-11-02
 1003735,Finland,,61.92411,25.748151,16400.0,11300.0,359.0,2020-11-02
-1003736,France,French Guiana,4.0,-53.0,10567.0,9995.0,70.0,2020-11-02
 1003737,France,French Polynesia,-17.6797,-149.4068,8646.0,4842.0,38.0,2020-11-02
 1003740,France,Mayotte,-12.8275,45.166244,4489.0,2964.0,45.0,2020-11-02
 1003741,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-11-02
@@ -34256,7 +33989,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1007682,Denmark,,56.2639,9.5018,49594.0,36111.0,728.0,2020-11-03
 1007692,Estonia,,58.5953,25.0136,5125.0,3904.0,73.0,2020-11-03
 1007696,Finland,,61.92411,25.748151,16637.0,11300.0,359.0,2020-11-03
-1007697,France,French Guiana,4.0,-53.0,10577.0,9995.0,70.0,2020-11-03
 1007698,France,French Polynesia,-17.6797,-149.4068,8949.0,4842.0,38.0,2020-11-03
 1007701,France,Mayotte,-12.8275,45.166244,4524.0,2964.0,45.0,2020-11-03
 1007702,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-11-03
@@ -34437,7 +34169,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1011643,Denmark,,56.2639,9.5018,50530.0,36892.0,729.0,2020-11-04
 1011653,Estonia,,58.5953,25.0136,5333.0,3954.0,73.0,2020-11-04
 1011657,Finland,,61.92411,25.748151,16930.0,12700.0,361.0,2020-11-04
-1011658,France,French Guiana,4.0,-53.0,10591.0,9995.0,70.0,2020-11-04
 1011659,France,French Polynesia,-17.6797,-149.4068,9287.0,4842.0,39.0,2020-11-04
 1011662,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-04
 1011663,France,New Caledonia,-20.904305,165.618042,28.0,28.0,0.0,2020-11-04
@@ -34618,7 +34349,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1015605,Denmark,,56.2639,9.5018,51753.0,37756.0,733.0,2020-11-05
 1015615,Estonia,,58.5953,25.0136,5464.0,4032.0,73.0,2020-11-05
 1015619,Finland,,61.92411,25.748151,17119.0,12700.0,361.0,2020-11-05
-1015620,France,French Guiana,4.0,-53.0,10620.0,9995.0,70.0,2020-11-05
 1015621,France,French Polynesia,-17.6797,-149.4068,9754.0,4842.0,39.0,2020-11-05
 1015624,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-05
 1015625,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-05
@@ -34799,7 +34529,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1019567,Denmark,,56.2639,9.5018,53180.0,38627.0,738.0,2020-11-06
 1019577,Estonia,,58.5953,25.0136,5705.0,4103.0,73.0,2020-11-06
 1019581,Finland,,61.92411,25.748151,17385.0,12700.0,362.0,2020-11-06
-1019582,France,French Guiana,4.0,-53.0,10647.0,9995.0,70.0,2020-11-06
 1019583,France,French Polynesia,-17.6797,-149.4068,9995.0,4842.0,39.0,2020-11-06
 1019586,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-06
 1019587,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-06
@@ -34980,7 +34709,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1023529,Denmark,,56.2639,9.5018,54230.0,39490.0,740.0,2020-11-07
 1023539,Estonia,,58.5953,25.0136,5933.0,4184.0,73.0,2020-11-07
 1023543,Finland,,61.92411,25.748151,17385.0,12700.0,362.0,2020-11-07
-1023544,France,French Guiana,4.0,-53.0,10704.0,9995.0,70.0,2020-11-07
 1023545,France,French Polynesia,-17.6797,-149.4068,9995.0,4842.0,39.0,2020-11-07
 1023548,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-07
 1023549,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-07
@@ -35161,7 +34889,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1027491,Denmark,,56.2639,9.5018,55121.0,40305.0,743.0,2020-11-08
 1027501,Estonia,,58.5953,25.0136,6125.0,4193.0,75.0,2020-11-08
 1027505,Finland,,61.92411,25.748151,17797.0,12700.0,362.0,2020-11-08
-1027506,France,French Guiana,4.0,-53.0,10704.0,9995.0,70.0,2020-11-08
 1027507,France,French Polynesia,-17.6797,-149.4068,9995.0,4842.0,39.0,2020-11-08
 1027510,France,Mayotte,-12.8275,45.166244,4550.0,2964.0,45.0,2020-11-08
 1027511,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-08
@@ -35342,7 +35069,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1031453,Denmark,,56.2639,9.5018,55892.0,41232.0,747.0,2020-11-09
 1031463,Estonia,,58.5953,25.0136,6250.0,4205.0,76.0,2020-11-09
 1031467,Finland,,61.92411,25.748151,17887.0,12700.0,363.0,2020-11-09
-1031468,France,French Guiana,4.0,-53.0,10715.0,9995.0,70.0,2020-11-09
 1031469,France,French Polynesia,-17.6797,-149.4068,10680.0,4842.0,49.0,2020-11-09
 1031472,France,Mayotte,-12.8275,45.166244,4815.0,2964.0,46.0,2020-11-09
 1031473,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-09
@@ -35523,7 +35249,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1035415,Denmark,,56.2639,9.5018,56958.0,42249.0,750.0,2020-11-10
 1035425,Estonia,,58.5953,25.0136,6376.0,4219.0,76.0,2020-11-10
 1035429,Finland,,61.92411,25.748151,18107.0,12700.0,363.0,2020-11-10
-1035430,France,French Guiana,4.0,-53.0,10729.0,9995.0,70.0,2020-11-10
 1035431,France,French Polynesia,-17.6797,-149.4068,10971.0,4842.0,52.0,2020-11-10
 1035434,France,Mayotte,-12.8275,45.166244,4815.0,2964.0,46.0,2020-11-10
 1035435,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-10
@@ -35704,7 +35429,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1039378,Denmark,,56.2639,9.5018,57952.0,43483.0,753.0,2020-11-11
 1039388,Estonia,,58.5953,25.0136,6508.0,4378.0,76.0,2020-11-11
 1039392,Finland,,61.92411,25.748151,18345.0,14000.0,365.0,2020-11-11
-1039393,France,French Guiana,4.0,-53.0,10762.0,9995.0,70.0,2020-11-11
 1039394,France,French Polynesia,-17.6797,-149.4068,11316.0,4842.0,52.0,2020-11-11
 1039397,France,Mayotte,-12.8275,45.166244,4815.0,2964.0,46.0,2020-11-11
 1039398,France,New Caledonia,-20.904305,165.618042,29.0,28.0,0.0,2020-11-11
@@ -35895,7 +35619,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1043352,Denmark,,56.2639,9.5018,58963.0,44693.0,755.0,2020-11-12
 1043362,Estonia,,58.5953,25.0136,6881.0,4453.0,76.0,2020-11-12
 1043366,Finland,,61.92411,25.748151,18542.0,14000.0,365.0,2020-11-12
-1043367,France,French Guiana,4.0,-53.0,10780.0,9995.0,70.0,2020-11-12
 1043368,France,French Polynesia,-17.6797,-149.4068,11485.0,4842.0,52.0,2020-11-12
 1043371,France,Mayotte,-12.8275,45.166244,4921.0,2964.0,46.0,2020-11-12
 1043372,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-12
@@ -36086,7 +35809,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1047327,Denmark,,56.2639,9.5018,60000.0,45705.0,756.0,2020-11-13
 1047337,Estonia,,58.5953,25.0136,7148.0,4551.0,80.0,2020-11-13
 1047341,Finland,,61.92411,25.748151,18858.0,14000.0,369.0,2020-11-13
-1047342,France,French Guiana,4.0,-53.0,10808.0,9995.0,70.0,2020-11-13
 1047343,France,French Polynesia,-17.6797,-149.4068,11706.0,4842.0,53.0,2020-11-13
 1047346,France,Mayotte,-12.8275,45.166244,4921.0,2964.0,46.0,2020-11-13
 1047347,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-13
@@ -36277,7 +35999,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1051302,Denmark,,56.2639,9.5018,61078.0,46774.0,757.0,2020-11-14
 1051312,Estonia,,58.5953,25.0136,7412.0,4708.0,80.0,2020-11-14
 1051316,Finland,,61.92411,25.748151,19102.0,14000.0,369.0,2020-11-14
-1051317,France,French Guiana,4.0,-53.0,10844.0,9995.0,70.0,2020-11-14
 1051318,France,French Polynesia,-17.6797,-149.4068,11706.0,4842.0,53.0,2020-11-14
 1051321,France,Mayotte,-12.8275,45.166244,4921.0,2964.0,46.0,2020-11-14
 1051322,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-14
@@ -36468,7 +36189,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1055277,Denmark,,56.2639,9.5018,62136.0,47747.0,760.0,2020-11-15
 1055287,Estonia,,58.5953,25.0136,7637.0,4741.0,81.0,2020-11-15
 1055291,Finland,,61.92411,25.748151,19315.0,14000.0,369.0,2020-11-15
-1055292,France,French Guiana,4.0,-53.0,10844.0,9995.0,70.0,2020-11-15
 1055293,France,French Polynesia,-17.6797,-149.4068,11706.0,4842.0,53.0,2020-11-15
 1055296,France,Mayotte,-12.8275,45.166244,4921.0,2964.0,46.0,2020-11-15
 1055297,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-15
@@ -36659,7 +36379,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1059252,Denmark,,56.2639,9.5018,63331.0,48696.0,764.0,2020-11-16
 1059262,Estonia,,58.5953,25.0136,7848.0,4749.0,81.0,2020-11-16
 1059266,Finland,,61.92411,25.748151,19419.0,14000.0,371.0,2020-11-16
-1059267,France,French Guiana,4.0,-53.0,10876.0,9995.0,70.0,2020-11-16
 1059268,France,French Polynesia,-17.6797,-149.4068,12121.0,4842.0,56.0,2020-11-16
 1059271,France,Mayotte,-12.8275,45.166244,4943.0,2964.0,46.0,2020-11-16
 1059272,France,New Caledonia,-20.904305,165.618042,30.0,28.0,0.0,2020-11-16
@@ -36850,7 +36569,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1063227,Denmark,,56.2639,9.5018,64551.0,49961.0,768.0,2020-11-17
 1063237,Estonia,,58.5953,25.0136,8033.0,4977.0,84.0,2020-11-17
 1063241,Finland,,61.92411,25.748151,19647.0,14000.0,371.0,2020-11-17
-1063242,France,French Guiana,4.0,-53.0,10900.0,9995.0,70.0,2020-11-17
 1063243,France,French Polynesia,-17.6797,-149.4068,12362.0,4842.0,61.0,2020-11-17
 1063246,France,Mayotte,-12.8275,45.166244,4943.0,2964.0,46.0,2020-11-17
 1063247,France,New Caledonia,-20.904305,165.618042,30.0,29.0,0.0,2020-11-17
@@ -37041,7 +36759,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1067202,Denmark,,56.2639,9.5018,65808.0,51217.0,770.0,2020-11-18
 1067212,Estonia,,58.5953,25.0136,8304.0,5120.0,85.0,2020-11-18
 1067216,Finland,,61.92411,25.748151,19935.0,15300.0,374.0,2020-11-18
-1067217,France,French Guiana,4.0,-53.0,10930.0,9995.0,70.0,2020-11-18
 1067218,France,French Polynesia,-17.6797,-149.4068,12587.0,4842.0,62.0,2020-11-18
 1067221,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-18
 1067222,France,New Caledonia,-20.904305,165.618042,30.0,29.0,0.0,2020-11-18
@@ -37232,7 +36949,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1071177,Denmark,,56.2639,9.5018,67105.0,52445.0,773.0,2020-11-19
 1071187,Estonia,,58.5953,25.0136,8715.0,5264.0,86.0,2020-11-19
 1071191,Finland,,61.92411,25.748151,20286.0,15300.0,374.0,2020-11-19
-1071192,France,French Guiana,4.0,-53.0,10950.0,9995.0,70.0,2020-11-19
 1071193,France,French Polynesia,-17.6797,-149.4068,12816.0,4842.0,62.0,2020-11-19
 1071196,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-19
 1071197,France,New Caledonia,-20.904305,165.618042,30.0,30.0,0.0,2020-11-19
@@ -37423,7 +37139,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1075152,Denmark,,56.2639,9.5018,68362.0,53470.0,778.0,2020-11-20
 1075162,Estonia,,58.5953,25.0136,9076.0,5296.0,87.0,2020-11-20
 1075166,Finland,,61.92411,25.748151,20747.0,15300.0,375.0,2020-11-20
-1075167,France,French Guiana,4.0,-53.0,10987.0,9995.0,70.0,2020-11-20
 1075168,France,French Polynesia,-17.6797,-149.4068,12978.0,4842.0,63.0,2020-11-20
 1075171,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-20
 1075172,France,New Caledonia,-20.904305,165.618042,30.0,30.0,0.0,2020-11-20
@@ -37614,7 +37329,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1079127,Denmark,,56.2639,9.5018,69635.0,54436.0,781.0,2020-11-21
 1079137,Estonia,,58.5953,25.0136,9375.0,5661.0,87.0,2020-11-21
 1079141,Finland,,61.92411,25.748151,21216.0,15300.0,375.0,2020-11-21
-1079142,France,French Guiana,4.0,-53.0,11014.0,9995.0,70.0,2020-11-21
 1079143,France,French Polynesia,-17.6797,-149.4068,12978.0,4842.0,63.0,2020-11-21
 1079146,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-21
 1079147,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-21
@@ -37805,7 +37519,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1083102,Denmark,,56.2639,9.5018,70485.0,55274.0,784.0,2020-11-22
 1083112,Estonia,,58.5953,25.0136,9724.0,5699.0,88.0,2020-11-22
 1083116,Finland,,61.92411,25.748151,21639.0,15300.0,375.0,2020-11-22
-1083117,France,French Guiana,4.0,-53.0,11014.0,9995.0,70.0,2020-11-22
 1083118,France,French Polynesia,-17.6797,-149.4068,12978.0,4842.0,63.0,2020-11-22
 1083121,France,Mayotte,-12.8275,45.166244,5036.0,2964.0,48.0,2020-11-22
 1083122,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-22
@@ -37996,7 +37709,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1087077,Denmark,,56.2639,9.5018,71654.0,56032.0,789.0,2020-11-23
 1087087,Estonia,,58.5953,25.0136,9956.0,5720.0,92.0,2020-11-23
 1087091,Finland,,61.92411,25.748151,21936.0,15300.0,384.0,2020-11-23
-1087092,France,French Guiana,4.0,-53.0,11042.0,9995.0,70.0,2020-11-23
 1087093,France,French Polynesia,-17.6797,-149.4068,13286.0,4842.0,68.0,2020-11-23
 1087096,France,Mayotte,-12.8275,45.166244,5122.0,2964.0,49.0,2020-11-23
 1087097,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-23
@@ -38187,7 +37899,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1091053,Denmark,,56.2639,9.5018,73021.0,57075.0,797.0,2020-11-24
 1091063,Estonia,,58.5953,25.0136,10159.0,6014.0,94.0,2020-11-24
 1091067,Finland,,61.92411,25.748151,22289.0,15300.0,384.0,2020-11-24
-1091068,France,French Guiana,4.0,-53.0,11079.0,9995.0,70.0,2020-11-24
 1091069,France,French Polynesia,-17.6797,-149.4068,13517.0,4842.0,70.0,2020-11-24
 1091072,France,Mayotte,-12.8275,45.166244,5122.0,2964.0,49.0,2020-11-24
 1091073,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-24
@@ -38378,7 +38089,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1095029,Denmark,,56.2639,9.5018,74204.0,58148.0,802.0,2020-11-25
 1095039,Estonia,,58.5953,25.0136,10541.0,6052.0,97.0,2020-11-25
 1095043,Finland,,61.92411,25.748151,22652.0,16800.0,388.0,2020-11-25
-1095044,France,French Guiana,4.0,-53.0,11116.0,9995.0,70.0,2020-11-25
 1095045,France,French Polynesia,-17.6797,-149.4068,13783.0,4842.0,70.0,2020-11-25
 1095048,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-25
 1095049,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-25
@@ -38569,7 +38279,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1099005,Denmark,,56.2639,9.5018,75395.0,59250.0,811.0,2020-11-26
 1099015,Estonia,,58.5953,25.0136,10955.0,6497.0,99.0,2020-11-26
 1099019,Finland,,61.92411,25.748151,23148.0,16800.0,388.0,2020-11-26
-1099020,France,French Guiana,4.0,-53.0,11138.0,9995.0,70.0,2020-11-26
 1099021,France,French Polynesia,-17.6797,-149.4068,13883.0,4842.0,72.0,2020-11-26
 1099024,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-26
 1099025,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-26
@@ -38760,7 +38469,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1102981,Denmark,,56.2639,9.5018,76718.0,60312.0,816.0,2020-11-27
 1102991,Estonia,,58.5953,25.0136,11323.0,6710.0,104.0,2020-11-27
 1102995,Finland,,61.92411,25.748151,23766.0,16800.0,393.0,2020-11-27
-1102996,France,French Guiana,4.0,-53.0,11158.0,9995.0,70.0,2020-11-27
 1102997,France,French Polynesia,-17.6797,-149.4068,14096.0,4842.0,73.0,2020-11-27
 1103000,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-27
 1103001,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-27
@@ -38951,7 +38659,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1106957,Denmark,,56.2639,9.5018,78354.0,61461.0,823.0,2020-11-28
 1106967,Estonia,,58.5953,25.0136,11698.0,6974.0,109.0,2020-11-28
 1106971,Finland,,61.92411,25.748151,24307.0,16800.0,393.0,2020-11-28
-1106972,France,French Guiana,4.0,-53.0,11179.0,9995.0,70.0,2020-11-28
 1106973,France,French Polynesia,-17.6797,-149.4068,14096.0,4842.0,73.0,2020-11-28
 1106976,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-28
 1106977,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-28
@@ -39142,7 +38849,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1110933,Denmark,,56.2639,9.5018,79352.0,62514.0,829.0,2020-11-29
 1110943,Estonia,,58.5953,25.0136,12052.0,7010.0,112.0,2020-11-29
 1110947,Finland,,61.92411,25.748151,24629.0,16800.0,393.0,2020-11-29
-1110948,France,French Guiana,4.0,-53.0,11179.0,9995.0,70.0,2020-11-29
 1110949,France,French Polynesia,-17.6797,-149.4068,14096.0,4842.0,73.0,2020-11-29
 1110952,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-29
 1110953,France,New Caledonia,-20.904305,165.618042,32.0,32.0,0.0,2020-11-29
@@ -39333,7 +39039,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1114909,Denmark,,56.2639,9.5018,80481.0,63515.0,837.0,2020-11-30
 1114919,Estonia,,58.5953,25.0136,12308.0,7078.0,118.0,2020-11-30
 1114923,Finland,,61.92411,25.748151,24912.0,16800.0,399.0,2020-11-30
-1114924,France,French Guiana,4.0,-53.0,11204.0,9995.0,70.0,2020-11-30
 1114925,France,French Polynesia,-17.6797,-149.4068,14372.0,4842.0,75.0,2020-11-30
 1114928,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-11-30
 1114929,France,New Caledonia,-20.904305,165.618042,33.0,32.0,0.0,2020-11-30
@@ -39524,7 +39229,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1118885,Denmark,,56.2639,9.5018,81949.0,64757.0,846.0,2020-12-01
 1118895,Estonia,,58.5953,25.0136,12497.0,7536.0,121.0,2020-12-01
 1118899,Finland,,61.92411,25.748151,25462.0,16800.0,399.0,2020-12-01
-1118900,France,French Guiana,4.0,-53.0,11240.0,9995.0,70.0,2020-12-01
 1118901,France,French Polynesia,-17.6797,-149.4068,14559.0,4842.0,76.0,2020-12-01
 1118904,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-01
 1118905,France,New Caledonia,-20.904305,165.618042,33.0,32.0,0.0,2020-12-01
@@ -39715,7 +39419,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1122861,Denmark,,56.2639,9.5018,83535.0,66086.0,852.0,2020-12-02
 1122871,Estonia,,58.5953,25.0136,13019.0,7608.0,122.0,2020-12-02
 1122875,Finland,,61.92411,25.748151,25882.0,18100.0,408.0,2020-12-02
-1122876,France,French Guiana,4.0,-53.0,11283.0,9995.0,70.0,2020-12-02
 1122877,France,French Polynesia,-17.6797,-149.4068,14716.0,4842.0,77.0,2020-12-02
 1122880,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-02
 1122881,France,New Caledonia,-20.904305,165.618042,33.0,32.0,0.0,2020-12-02
@@ -39906,7 +39609,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1126837,Denmark,,56.2639,9.5018,85140.0,67416.0,858.0,2020-12-03
 1126847,Estonia,,58.5953,25.0136,13469.0,8182.0,123.0,2020-12-03
 1126851,Finland,,61.92411,25.748151,26422.0,18100.0,408.0,2020-12-03
-1126852,France,French Guiana,4.0,-53.0,11318.0,9995.0,70.0,2020-12-03
 1126853,France,French Polynesia,-17.6797,-149.4068,14897.0,4842.0,78.0,2020-12-03
 1126856,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-03
 1126857,France,New Caledonia,-20.904305,165.618042,34.0,32.0,0.0,2020-12-03
@@ -40097,7 +39799,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1130813,Denmark,,56.2639,9.5018,86743.0,68632.0,867.0,2020-12-04
 1130823,Estonia,,58.5953,25.0136,13939.0,8549.0,125.0,2020-12-04
 1130827,Finland,,61.92411,25.748151,26758.0,18100.0,408.0,2020-12-04
-1130828,France,French Guiana,4.0,-53.0,11334.0,9995.0,71.0,2020-12-04
 1130829,France,French Polynesia,-17.6797,-149.4068,15107.0,4842.0,79.0,2020-12-04
 1130832,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-04
 1130833,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-04
@@ -40288,7 +39989,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1134789,Denmark,,56.2639,9.5018,88858.0,69869.0,878.0,2020-12-05
 1134799,Estonia,,58.5953,25.0136,14500.0,8919.0,126.0,2020-12-05
 1134803,Finland,,61.92411,25.748151,27218.0,18100.0,415.0,2020-12-05
-1134804,France,French Guiana,4.0,-53.0,11407.0,9995.0,71.0,2020-12-05
 1134805,France,French Polynesia,-17.6797,-149.4068,15107.0,4842.0,79.0,2020-12-05
 1134808,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-05
 1134809,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-05
@@ -40479,7 +40179,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1138765,Denmark,,56.2639,9.5018,90603.0,70876.0,885.0,2020-12-06
 1138775,Estonia,,58.5953,25.0136,14978.0,8959.0,131.0,2020-12-06
 1138779,Finland,,61.92411,25.748151,27631.0,18100.0,415.0,2020-12-06
-1138780,France,French Guiana,4.0,-53.0,11407.0,9995.0,71.0,2020-12-06
 1138781,France,French Polynesia,-17.6797,-149.4068,15107.0,4842.0,79.0,2020-12-06
 1138784,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-06
 1138785,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-06
@@ -40670,7 +40369,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1142741,Denmark,,56.2639,9.5018,92649.0,71882.0,894.0,2020-12-07
 1142751,Estonia,,58.5953,25.0136,15226.0,9009.0,134.0,2020-12-07
 1142755,Finland,,61.92411,25.748151,27881.0,18100.0,424.0,2020-12-07
-1142756,France,French Guiana,4.0,-53.0,11407.0,9995.0,71.0,2020-12-07
 1142757,France,French Polynesia,-17.6797,-149.4068,15107.0,4842.0,79.0,2020-12-07
 1142760,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-07
 1142761,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-07
@@ -40861,7 +40559,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1146717,Denmark,,56.2639,9.5018,94799.0,73052.0,901.0,2020-12-08
 1146727,Estonia,,58.5953,25.0136,15510.0,9446.0,137.0,2020-12-08
 1146731,Finland,,61.92411,25.748151,28242.0,18100.0,424.0,2020-12-08
-1146732,France,French Guiana,4.0,-53.0,11458.0,9995.0,71.0,2020-12-08
 1146733,France,French Polynesia,-17.6797,-149.4068,15332.0,4842.0,86.0,2020-12-08
 1146736,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-08
 1146737,France,New Caledonia,-20.904305,165.618042,35.0,32.0,0.0,2020-12-08
@@ -41052,7 +40749,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1150693,Denmark,,56.2639,9.5018,97357.0,74367.0,904.0,2020-12-09
 1150703,Estonia,,58.5953,25.0136,16054.0,9860.0,139.0,2020-12-09
 1150707,Finland,,61.92411,25.748151,28732.0,18100.0,433.0,2020-12-09
-1150708,France,French Guiana,4.0,-53.0,11513.0,9995.0,71.0,2020-12-09
 1150709,France,French Polynesia,-17.6797,-149.4068,15411.0,4842.0,90.0,2020-12-09
 1150712,France,Mayotte,-12.8275,45.166244,5181.0,2964.0,49.0,2020-12-09
 1150713,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-09
@@ -41243,7 +40939,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1154669,Denmark,,56.2639,9.5018,100489.0,75664.0,918.0,2020-12-10
 1154679,Estonia,,58.5953,25.0136,16598.0,9945.0,141.0,2020-12-10
 1154683,Finland,,61.92411,25.748151,29572.0,20000.0,442.0,2020-12-10
-1154684,France,French Guiana,4.0,-53.0,11600.0,9995.0,71.0,2020-12-10
 1154685,France,French Polynesia,-17.6797,-149.4068,15535.0,4842.0,91.0,2020-12-10
 1154688,France,Mayotte,-12.8275,45.166244,5499.0,2964.0,51.0,2020-12-10
 1154689,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-10
@@ -41434,7 +41129,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1158645,Denmark,,56.2639,9.5018,103564.0,76927.0,927.0,2020-12-11
 1158655,Estonia,,58.5953,25.0136,16956.0,10533.0,142.0,2020-12-11
 1158659,Finland,,61.92411,25.748151,30073.0,20000.0,453.0,2020-12-11
-1158660,France,French Guiana,4.0,-53.0,11677.0,9995.0,71.0,2020-12-11
 1158661,France,French Polynesia,-17.6797,-149.4068,15618.0,4842.0,91.0,2020-12-11
 1158664,France,Mayotte,-12.8275,45.166244,5499.0,2964.0,52.0,2020-12-11
 1158665,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-11
@@ -41625,7 +41319,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1162621,Denmark,,56.2639,9.5018,107116.0,78236.0,935.0,2020-12-12
 1162631,Estonia,,58.5953,25.0136,17713.0,10626.0,148.0,2020-12-12
 1162635,Finland,,61.92411,25.748151,30450.0,20000.0,453.0,2020-12-12
-1162636,France,French Guiana,4.0,-53.0,11755.0,9995.0,71.0,2020-12-12
 1162637,France,French Polynesia,-17.6797,-149.4068,15618.0,4842.0,91.0,2020-12-12
 1162640,France,Mayotte,-12.8275,45.166244,5551.0,2964.0,52.0,2020-12-12
 1162641,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-12
@@ -41816,7 +41509,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1166597,Denmark,,56.2639,9.5018,109758.0,79394.0,941.0,2020-12-13
 1166607,Estonia,,58.5953,25.0136,18055.0,11037.0,149.0,2020-12-13
 1166611,Finland,,61.92411,25.748151,30810.0,20000.0,453.0,2020-12-13
-1166612,France,French Guiana,4.0,-53.0,11800.0,9995.0,71.0,2020-12-13
 1166613,France,French Polynesia,-17.6797,-149.4068,15618.0,4842.0,91.0,2020-12-13
 1166616,France,Mayotte,-12.8275,45.166244,5551.0,2964.0,52.0,2020-12-13
 1166617,France,New Caledonia,-20.904305,165.618042,36.0,32.0,0.0,2020-12-13
@@ -42007,7 +41699,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1170573,Denmark,,56.2639,9.5018,113095.0,80564.0,950.0,2020-12-14
 1170583,Estonia,,58.5953,25.0136,18385.0,11121.0,154.0,2020-12-14
 1170587,Finland,,61.92411,25.748151,31110.0,20000.0,461.0,2020-12-14
-1170588,France,French Guiana,4.0,-53.0,11800.0,9995.0,71.0,2020-12-14
 1170589,France,French Polynesia,-17.6797,-149.4068,15747.0,4842.0,96.0,2020-12-14
 1170592,France,Mayotte,-12.8275,45.166244,5551.0,2964.0,52.0,2020-12-14
 1170593,France,New Caledonia,-20.904305,165.618042,36.0,35.0,0.0,2020-12-14
@@ -42198,7 +41889,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1174549,Denmark,,56.2639,9.5018,116087.0,82099.0,961.0,2020-12-15
 1174559,Estonia,,58.5953,25.0136,18682.0,11669.0,157.0,2020-12-15
 1174563,Finland,,61.92411,25.748151,31459.0,20000.0,466.0,2020-12-15
-1174564,France,French Guiana,4.0,-53.0,11855.0,9995.0,71.0,2020-12-15
 1174565,France,French Polynesia,-17.6797,-149.4068,15870.0,4842.0,97.0,2020-12-15
 1174568,France,Mayotte,-12.8275,45.166244,5616.0,2964.0,53.0,2020-12-15
 1174569,France,New Caledonia,-20.904305,165.618042,36.0,35.0,0.0,2020-12-15
@@ -42389,7 +42079,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1178525,Denmark,,56.2639,9.5018,119779.0,83801.0,975.0,2020-12-16
 1178535,Estonia,,58.5953,25.0136,19271.0,12117.0,160.0,2020-12-16
 1178539,Finland,,61.92411,25.748151,31870.0,22500.0,472.0,2020-12-16
-1178540,France,French Guiana,4.0,-53.0,11906.0,9995.0,71.0,2020-12-16
 1178541,France,French Polynesia,-17.6797,-149.4068,15974.0,4842.0,98.0,2020-12-16
 1178544,France,Mayotte,-12.8275,45.166244,5616.0,2964.0,53.0,2020-12-16
 1178545,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-16
@@ -42580,7 +42269,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1182501,Denmark,,56.2639,9.5018,123813.0,85662.0,992.0,2020-12-17
 1182511,Estonia,,58.5953,25.0136,20004.0,12533.0,164.0,2020-12-17
 1182515,Finland,,61.92411,25.748151,32228.0,22500.0,484.0,2020-12-17
-1182516,France,French Guiana,4.0,-53.0,12026.0,9995.0,71.0,2020-12-17
 1182517,France,French Polynesia,-17.6797,-149.4068,16118.0,4842.0,101.0,2020-12-17
 1182520,France,Mayotte,-12.8275,45.166244,5616.0,2964.0,53.0,2020-12-17
 1182521,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-17
@@ -42771,7 +42459,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1186477,Denmark,,56.2639,9.5018,128321.0,87560.0,1007.0,2020-12-18
 1186487,Estonia,,58.5953,25.0136,20658.0,12922.0,168.0,2020-12-18
 1186491,Finland,,61.92411,25.748151,32582.0,22500.0,489.0,2020-12-18
-1186492,France,French Guiana,4.0,-53.0,12163.0,9995.0,71.0,2020-12-18
 1186493,France,French Polynesia,-17.6797,-149.4068,16182.0,4842.0,103.0,2020-12-18
 1186496,France,Mayotte,-12.8275,45.166244,5616.0,2964.0,53.0,2020-12-18
 1186497,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-18
@@ -42962,7 +42649,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1190453,Denmark,,56.2639,9.5018,131606.0,89570.0,1019.0,2020-12-19
 1190463,Estonia,,58.5953,25.0136,21219.0,13488.0,170.0,2020-12-19
 1190467,Finland,,61.92411,25.748151,32853.0,22500.0,489.0,2020-12-19
-1190468,France,French Guiana,4.0,-53.0,12281.0,9995.0,71.0,2020-12-19
 1190469,France,French Polynesia,-17.6797,-149.4068,16182.0,4842.0,103.0,2020-12-19
 1190472,France,Mayotte,-12.8275,45.166244,5708.0,2964.0,53.0,2020-12-19
 1190473,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-19
@@ -43153,7 +42839,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1194429,Denmark,,56.2639,9.5018,134434.0,91263.0,1035.0,2020-12-20
 1194439,Estonia,,58.5953,25.0136,21794.0,13590.0,174.0,2020-12-20
 1194443,Finland,,61.92411,25.748151,33162.0,22500.0,489.0,2020-12-20
-1194444,France,French Guiana,4.0,-53.0,12369.0,9995.0,71.0,2020-12-20
 1194445,France,French Polynesia,-17.6797,-149.4068,16182.0,4842.0,103.0,2020-12-20
 1194448,France,Mayotte,-12.8275,45.166244,5708.0,2964.0,53.0,2020-12-20
 1194449,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-20
@@ -43344,7 +43029,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1198405,Denmark,,56.2639,9.5018,137632.0,93214.0,1053.0,2020-12-21
 1198415,Estonia,,58.5953,25.0136,22083.0,13677.0,181.0,2020-12-21
 1198419,Finland,,61.92411,25.748151,33414.0,22500.0,506.0,2020-12-21
-1198420,France,French Guiana,4.0,-53.0,12369.0,9995.0,71.0,2020-12-21
 1198421,France,French Polynesia,-17.6797,-149.4068,16345.0,4842.0,106.0,2020-12-21
 1198424,France,Mayotte,-12.8275,45.166244,5708.0,2964.0,53.0,2020-12-21
 1198425,France,New Caledonia,-20.904305,165.618042,37.0,35.0,0.0,2020-12-21
@@ -43535,7 +43219,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1202381,Denmark,,56.2639,9.5018,140175.0,95933.0,1070.0,2020-12-22
 1202391,Estonia,,58.5953,25.0136,22647.0,14395.0,187.0,2020-12-22
 1202395,Finland,,61.92411,25.748151,33717.0,22500.0,511.0,2020-12-22
-1202396,France,French Guiana,4.0,-53.0,12433.0,9995.0,71.0,2020-12-22
 1202397,France,French Polynesia,-17.6797,-149.4068,16410.0,4842.0,106.0,2020-12-22
 1202400,France,Mayotte,-12.8275,45.166244,5708.0,2964.0,53.0,2020-12-22
 1202401,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-22
@@ -43726,7 +43409,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1206357,Denmark,,56.2639,9.5018,143472.0,99025.0,1096.0,2020-12-23
 1206367,Estonia,,58.5953,25.0136,23309.0,14898.0,192.0,2020-12-23
 1206371,Finland,,61.92411,25.748151,34084.0,26000.0,524.0,2020-12-23
-1206372,France,French Guiana,4.0,-53.0,12499.0,9995.0,71.0,2020-12-23
 1206373,France,French Polynesia,-17.6797,-149.4068,16466.0,4842.0,107.0,2020-12-23
 1206376,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-23
 1206377,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-23
@@ -43917,7 +43599,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1210333,Denmark,,56.2639,9.5018,146341.0,102184.0,1114.0,2020-12-24
 1210343,Estonia,,58.5953,25.0136,24009.0,15393.0,195.0,2020-12-24
 1210347,Finland,,61.92411,25.748151,34447.0,26000.0,524.0,2020-12-24
-1210348,France,French Guiana,4.0,-53.0,12547.0,9995.0,71.0,2020-12-24
 1210349,France,French Polynesia,-17.6797,-149.4068,16550.0,4842.0,108.0,2020-12-24
 1210352,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-24
 1210353,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-24
@@ -44108,7 +43789,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1214309,Denmark,,56.2639,9.5018,149333.0,105425.0,1134.0,2020-12-25
 1214319,Estonia,,58.5953,25.0136,24582.0,15543.0,202.0,2020-12-25
 1214323,Finland,,61.92411,25.748151,34648.0,26000.0,524.0,2020-12-25
-1214324,France,French Guiana,4.0,-53.0,12685.0,9995.0,71.0,2020-12-25
 1214325,France,French Polynesia,-17.6797,-149.4068,16550.0,4842.0,108.0,2020-12-25
 1214328,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-25
 1214329,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-25
@@ -44299,7 +43979,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1218285,Denmark,,56.2639,9.5018,151167.0,108659.0,1153.0,2020-12-26
 1218295,Estonia,,58.5953,25.0136,25027.0,15688.0,204.0,2020-12-26
 1218299,Finland,,61.92411,25.748151,34821.0,26000.0,524.0,2020-12-26
-1218300,France,French Guiana,4.0,-53.0,12685.0,9995.0,71.0,2020-12-26
 1218301,France,French Polynesia,-17.6797,-149.4068,16550.0,4842.0,108.0,2020-12-26
 1218304,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-26
 1218305,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-26
@@ -44490,7 +44169,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1222261,Denmark,,56.2639,9.5018,153347.0,111718.0,1174.0,2020-12-27
 1222271,Estonia,,58.5953,25.0136,25392.0,15822.0,204.0,2020-12-27
 1222275,Finland,,61.92411,25.748151,34977.0,26000.0,524.0,2020-12-27
-1222276,France,French Guiana,4.0,-53.0,12773.0,9995.0,71.0,2020-12-27
 1222277,France,French Polynesia,-17.6797,-149.4068,16550.0,4842.0,108.0,2020-12-27
 1222280,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-27
 1222281,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-27
@@ -44681,7 +44359,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1226237,Denmark,,56.2639,9.5018,155826.0,114841.0,1204.0,2020-12-28
 1226247,Estonia,,58.5953,25.0136,25808.0,15921.0,213.0,2020-12-28
 1226251,Finland,,61.92411,25.748151,35137.0,26000.0,546.0,2020-12-28
-1226252,France,French Guiana,4.0,-53.0,12779.0,9995.0,71.0,2020-12-28
 1226253,France,French Polynesia,-17.6797,-149.4068,16696.0,4842.0,113.0,2020-12-28
 1226256,France,Mayotte,-12.8275,45.166244,5767.0,2964.0,54.0,2020-12-28
 1226257,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-28
@@ -44872,7 +44549,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1230213,Denmark,,56.2639,9.5018,158447.0,118727.0,1226.0,2020-12-29
 1230223,Estonia,,58.5953,25.0136,26283.0,16965.0,221.0,2020-12-29
 1230227,Finland,,61.92411,25.748151,35420.0,26000.0,550.0,2020-12-29
-1230228,France,French Guiana,4.0,-53.0,12832.0,9995.0,71.0,2020-12-29
 1230229,France,French Polynesia,-17.6797,-149.4068,16795.0,4842.0,113.0,2020-12-29
 1230232,France,Mayotte,-12.8275,45.166244,5890.0,2964.0,55.0,2020-12-29
 1230233,France,New Caledonia,-20.904305,165.618042,38.0,37.0,0.0,2020-12-29
@@ -45063,7 +44739,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1234189,Denmark,,56.2639,9.5018,161230.0,122954.0,1256.0,2020-12-30
 1234199,Estonia,,58.5953,25.0136,27256.0,17664.0,226.0,2020-12-30
 1234203,Finland,,61.92411,25.748151,35858.0,29000.0,556.0,2020-12-30
-1234204,France,French Guiana,4.0,-53.0,12896.0,9995.0,71.0,2020-12-30
 1234205,France,French Polynesia,-17.6797,-149.4068,16851.0,4842.0,114.0,2020-12-30
 1234208,France,Mayotte,-12.8275,45.166244,5890.0,2964.0,55.0,2020-12-30
 1234209,France,New Caledonia,-20.904305,165.618042,38.0,38.0,0.0,2020-12-30
@@ -45254,7 +44929,6 @@ ID,Country,Province,Lat,Long,Confirmed,Recovered,Deaths,Date
 1238165,Denmark,,56.2639,9.5018,163479.0,127276.0,1298.0,2020-12-31
 1238175,Estonia,,58.5953,25.0136,27990.0,18326.0,229.0,2020-12-31
 1238179,Finland,,61.92411,25.748151,36107.0,29000.0,561.0,2020-12-31
-1238180,France,French Guiana,4.0,-53.0,13045.0,9995.0,71.0,2020-12-31
 1238181,France,French Polynesia,-17.6797,-149.4068,16926.0,4842.0,114.0,2020-12-31
 1238184,France,Mayotte,-12.8275,45.166244,5890.0,2964.0,55.0,2020-12-31
 1238185,France,New Caledonia,-20.904305,165.618042,38.0,38.0,0.0,2020-12-31
